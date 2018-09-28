@@ -9,9 +9,9 @@ install:
 - pip install -r requirements.txt
 
 script:
-- travis_wait python 3dsdb.py
+- travis_wait 40 python 3dsdb.py # Yeah this script is fucking slow
 
-after_sucess:
+after_success:
   - git config --global user.email "travis-ci@travis.com" 
   - git config --global user.name "Travis-CI" 
   - git remote add origin https://hax0kartik:$GITHUB_API_KEY@github.com/hax0kartik/3dsdb.git
