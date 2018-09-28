@@ -1,0 +1,18 @@
+language: python
+sudo: false
+
+python:
+  - 3.6
+
+# install dependencies
+install:
+- pip install --user -U -r requirements.txt
+
+script:
+- python 3dsdb.py
+- |
+  if  [$? -eq 0 ]
+  then
+    echo "Nothing to commit"
+    exit
+  fi
