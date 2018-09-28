@@ -10,12 +10,6 @@ install:
 
 script:
 - travis_wait python 3dsdb.py
-- |
-  if  [$? -eq 0 ]
-  then
-    echo "Nothing to commit"
-    exit
-  fi
 
 after_sucess:
   - git config --global user.email "travis-ci@travis.com" 

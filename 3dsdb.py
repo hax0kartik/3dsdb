@@ -63,4 +63,4 @@ for i in regions:
         print ("[+] Update complete")
         commit = True
 
-exit(commit) # Exit with 1 or 0
+exit(commit ^ 1) # Exit with 1 or 0
