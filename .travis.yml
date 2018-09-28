@@ -9,10 +9,19 @@ install:
 - pip install -r requirements.txt
 
 script:
-- python 3dsdb.py
+- travis_wait python 3dsdb.py
 - |
   if  [$? -eq 0 ]
   then
     echo "Nothing to commit"
     exit
   fi
+
+after_sucess:
+  - git config --global user.email "travis-ci@travis.com" 
+  - git config --global user.name "Travis-CI" 
+  - git remote add origin https://hax0kartik:$GITHUB_API_KEY@github.com/hax0kartik/3dsdb.git
+  - git commit -m "New titles added [skip ci]"
+  - git add -A
+  - git push origin master -fq > /dev/null
+  - echo "Done."
