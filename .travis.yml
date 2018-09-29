@@ -11,11 +11,10 @@ install:
 script:
 - travis_wait 40 python 3dsdb.py # Yeah this script is fucking slow
 
-after_success:
+before_script:
   - git config --global user.email "pokemonemerald0@gmail.com" 
-  - git config --global user.name "Travis CI" 
-  - git remote rm origin
-  - git remote add origin https://hax0kartik:$GITHUB_API_KEY@github.com/hax0kartik/3dsdb.git
+  - git config --global user.name "hax0kartik" 
+  - git config --global user.password $GITHUB_API_KEY
   - git add -A
   - git commit -m "New titles added [skip ci]"
   - git push origin master -fq > /dev/null
