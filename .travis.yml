@@ -11,8 +11,7 @@ install:
 script:
 - travis_wait 40 python 3dsdb.py # Yeah this script is fucking slow
 
-before_script:
-  - echo "TRY" > try.text
+after_success:
   - git config --global user.email "pokemonemerald0@gmail.com" 
   - git config --global user.name "hax0kartik"
   - git add -A
