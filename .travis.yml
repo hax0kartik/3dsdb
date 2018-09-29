@@ -17,7 +17,7 @@ before_script:
   - git config --global user.name "hax0kartik"
   - git add -A
   - git commit -m "New titles added [skip ci]"
-  - git rm remote origin
+  - git remote rm origin
   - git remote add origin https://hax0kartik:$GITHUB_API_KEY@github.com/hax0kartik/3dsdb.git
   - git push origin master -fq > /dev/null
   - echo "Done."
