@@ -74,7 +74,7 @@ async def doXML(path):
     contents.write(json.dumps(data))
     contents.close()
 
-regions = ["GB", "US", "JP", "TW", "CN", "KR"]
+regions = ["GB", "US", "JP", "TW", "KR"]
 
 commit = False
 
