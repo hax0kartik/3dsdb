@@ -2,11 +2,11 @@ language: python
 sudo: false
 
 python:
-  - 3.7
+  - 3.7-dev
 
 # install dependencies
 install:
-- pip install -U --user -r requirements.txt
+- pip install -r requirements.txt
 
 script:
 - python 3dsdb.py # Yeah this script is fucking slow
