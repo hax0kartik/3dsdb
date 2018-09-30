@@ -9,7 +9,10 @@ def sha256(data):
     return hashlib.sha256(repr(data).encode('utf-8')).hexdigest()
 
 def getSha(region):
-    contents = open('./xmls/titlelist_{0}.xml'.format(region)).read()
+    try:
+        contents = open('./xmls/titlelist_{0}.xml'.format(region)).read()
+    except:
+        contents = 0xFFFFF
     return sha256(contents)
 
 def getXmlsFromCDN(region):
@@ -71,7 +74,7 @@ async def doXML(path):
     contents.write(json.dumps(data))
     contents.close()
 
-regions = ["GB", "US", "JP"]
+regions = ["GB", "US", "JP", "TW", "CN", "KR"]
 
 commit = False
 
