@@ -49,14 +49,14 @@ def isNameTag(tag):
     #print ("Tag {}".format(tag.name) + "Tag Parent {}".format(tag.parent.name))
     return tag.name == 'name' and tag.parent.name == 'title'
 
-async def doXML(path):
-    contents = open("xmls/titlelist_{}.xml".format(path)).read()
+async def doXML(region):
+    contents = open("xmls/titlelist_{}.xml".format(region)).read()
     soup = BeautifulSoup(contents, features='xml')
     uids = soup.find_all('title')
     names = soup.find_all(isNameTag)
     name = [i.text.replace('\n', ' ') for i in names]
     tuids = [uid['id'] for uid in uids]
-    uid_url_list = ['https://ninja.ctr.shop.nintendo.net/ninja/ws/GB/title/{}/ec_info'.format(uid) for uid in tuids]
+    uid_url_list = ['https://ninja.ctr.shop.nintendo.net/ninja/ws/{0}/title/{1}/ec_info'.format(region, uid) for uid in tuids]
     loop = asyncio.get_event_loop_policy().get_event_loop() 
     
     context = ssl.create_default_context()
@@ -70,7 +70,7 @@ async def doXML(path):
     print(data[0:10])
     tids = [getTIDFromData(_uiddata) for _uiddata in data]
     data = [{'Name': n, 'UID': u, 'TitleID': t } for n, u, t in zip(name, tuids, tids)]
-    contents = open("jsons/list_{0}.json".format(path), "w+")
+    contents = open("jsons/list_{0}.json".format(region), "w+")
     contents.write(json.dumps(data))
     contents.close()
 
