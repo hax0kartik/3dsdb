@@ -74,10 +74,6 @@ async def doXML(path):
 regions = ["GB", "US", "JP"]
 
 commit = False
-print('[*] Increasing the open files handle limit')
-soft, hard = resource.getrlimit(resource.RLIMIT_NOFILE)
-print ('[*] Soft limit which was {0} previously will be increased to {1}, hard limit is {2}'.format(soft, 4096, hard))
-resource.setrlimit(resource.RLIMIT_NOFILE, (4096, hard))
 
 for i in regions:
     if getXmlsFromCDN(i) == 0: # This functions checks for the sha too. If matches then returns 1
