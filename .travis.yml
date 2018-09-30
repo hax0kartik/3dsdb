@@ -2,14 +2,14 @@ language: python
 sudo: false
 
 python:
-  - 3.6
+  - 3.7
 
 # install dependencies
 install:
-- pip install -r requirements.txt
+- pip install -U --user -r requirements.txt
 
 script:
-- travis_wait 40 python 3dsdb.py # Yeah this script is fucking slow
+- python 3dsdb.py # Yeah this script is fucking slow
 
 after_success:
   - git config --global user.email "pokemonemerald0@gmail.com" 

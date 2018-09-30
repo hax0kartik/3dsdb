@@ -1,9 +1,7 @@
 from bs4 import BeautifulSoup
-import json
-import hashlib
-import re
-import os
-import requests
+import json, hashlib, re
+import os, resource
+import requests, aiohttp, asyncio, ssl
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
@@ -16,7 +14,7 @@ def getSha(region):
 
 def getXmlsFromCDN(region):
     print ("[*] Requesting content")
-    r = requests.get('https://samurai.ctr.shop.nintendo.net/samurai/ws/{}/titles?shop_id=1&limit=3000&offset=0'.format(region), verify=False)
+    r = requests.get('https://samurai.ctr.shop.nintendo.net/samurai/ws/{}/titles?shop_id=1&limit=5000&offset=0'.format(region), verify=False)
     match = sha256(r.text) == getSha(region)
     print ("[*] Do sha match ? {}".format(bool(match)))
     if match == False:
@@ -25,14 +23,22 @@ def getXmlsFromCDN(region):
     
     return 1
 
-def getTIDForUID(uid):
-    #print (uid)
-    link = 'https://ninja.ctr.shop.nintendo.net/ninja/ws/GB/title/{}/ec_info'.format(uid)
+async def fetch(session, url, context):
     try:
-        r = requests.get(link, cert=('keys/key.pem'), verify=False)
-    except:
-        return
-    soup = BeautifulSoup(r.text, features='xml')
+        async with session.get(url, ssl = context, timeout = 1000) as response:
+            if response.status != 200:
+                response.raise_for_status()
+            return await response.text()
+    except Exception as e:
+        print ('[-] FAIL with error %s', e)
+
+async def fetch_all_async(session, urls, loop, context):
+    results = await asyncio.gather(*[loop.create_task(fetch(session, url, context))
+                                   for url in urls])
+    return results
+
+def getTIDFromData(uid_data):
+    soup = BeautifulSoup(uid_data, features='xml')
     title_id = soup.find('title_id')
     return title_id.text
 
@@ -40,14 +46,26 @@ def isNameTag(tag):
     #print ("Tag {}".format(tag.name) + "Tag Parent {}".format(tag.parent.name))
     return tag.name == 'name' and tag.parent.name == 'title'
 
-def doXML(path):
+async def doXML(path):
     contents = open("xmls/titlelist_{}.xml".format(path)).read()
     soup = BeautifulSoup(contents, features='xml')
     uids = soup.find_all('title')
     names = soup.find_all(isNameTag)
     name = [i.text.replace('\n', ' ') for i in names]
     tuids = [uid['id'] for uid in uids]
-    tids = [getTIDForUID(uid) for uid in tuids]
+    uid_url_list = ['https://ninja.ctr.shop.nintendo.net/ninja/ws/GB/title/{}/ec_info'.format(uid) for uid in tuids]
+    loop = asyncio.get_event_loop_policy().get_event_loop() 
+    
+    context = ssl.create_default_context()
+    context.load_cert_chain('keys/key.pem')
+    context.check_hostname = False
+    context.verify_mode = ssl.CERT_NONE
+
+    async with aiohttp.ClientSession(loop = loop) as session:
+            data = await fetch_all_async(session, uid_url_list, loop, context)
+            await session.close()
+    print(data[0:10])
+    tids = [getTIDFromData(_uiddata) for _uiddata in data]
     data = [{'Name': n, 'UID': u, 'TitleID': t } for n, u, t in zip(name, tuids, tids)]
     contents = open("jsons/list_{0}.json".format(path), "w+")
     contents.write(json.dumps(data))
@@ -56,10 +74,15 @@ def doXML(path):
 regions = ["GB", "US", "JP"]
 
 commit = False
+print('[*] Increasing the open files handle limit')
+soft, hard = resource.getrlimit(resource.RLIMIT_NOFILE)
+print ('[*] Soft limit which was {0} previously will be increased to {1}, hard limit is {2}'.format(soft, 4096, hard))
+resource.setrlimit(resource.RLIMIT_NOFILE, (4096, hard))
+
 for i in regions:
     if getXmlsFromCDN(i) == 0: # This functions checks for the sha too. If matches then returns 1
         print ("[*] Updating JSON for {}".format(i))
-        doXML(i)
+        asyncio.run(doXML(i))
         print ("[+] Update complete")
         commit = True
 
