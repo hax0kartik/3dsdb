@@ -71,7 +71,7 @@ async def doXML(region):
     tids = [getTIDFromData(_uiddata) for _uiddata in data]
     data = [{'Name': n, 'UID': u, 'TitleID': t } for n, u, t in zip(name, tuids, tids)]
     contents = open("jsons/list_{0}.json".format(region), "w+")
-    contents.write(json.dumps(data))
+    contents.write(json.dumps(data, indent=))
     contents.close()
 
 regions = ["GB", "US", "JP", "TW", "KR"]
