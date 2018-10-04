@@ -11,7 +11,7 @@
             {
                 border: solid 1px #DDD;
                 border-collapse: collapse;
-                padding: 2px 3px;
+                padding: 4px 4px;
                 width:70%; 
                 margin-left:15%; 
                 margin-right:15%;
@@ -20,10 +20,14 @@
             th 
             {
                 font-weight:bold;
+                background-color: skyblue;
+                color: white;
             }
+
+            tr:hover {background-color: #f5f5f5;}
         </style>
         <script>
-            function GetJSON(path, region, drawTableHeader)
+            function GetJSON(path, region)
             {
                 var t0 = performance.now();
                 var xhr = new XMLHttpRequest();
@@ -51,21 +55,12 @@
                             col.push('Region')
 
                             // CREATE DYNAMIC TABLE.
-                            var table = document.createElement("table");
+                            var table = document.getElementById("titleTable");
 
                             // CREATE HTML TABLE HEADER ROW USING THE EXTRACTED HEADERS ABOVE.
 
                             var tr = table.insertRow(-1);                   // TABLE ROW.
-                            
-                            if(drawTableHeader == 1) // Draw the table header for the very first call only
-                            {
-                                for (var i = 0; i < col.length; i++) 
-                                {
-                                    var th = document.createElement("th");      // TABLE HEADER.
-                                    th.innerHTML = col[i];
-                                    tr.appendChild(th);
-                                }
-                            }        
+                                   
                             // ADD JSON DATA TO THE TABLE AS ROWS.
                             for (var i = 0; i < text.length; i++) 
                             {
@@ -79,10 +74,6 @@
                                 regionCell.innerHTML = region;
                              }
 
-                            // FINALLY ADD THE NEWLY CREATED TABLE WITH JSON DATA TO A CONTAINER.
-                            var divContainer = document.getElementById("showData");
-                            //divContainer.innerHTML = "";
-                            divContainer.appendChild(table);
                             var t2 = performance.now();
                             console.log("conversion call took " + (t2 - t1) + " milliseconds.")
                         } 
@@ -96,12 +87,21 @@
 
    <body>
         <h1> Warning! Extra-long list ahead. Use ctrl + F to find your title! </h1>
+        <div id="wrap">
+        <table id="titleTable">
+                <tr>
+                    <th>Name</th>
+                    <th>UID</th>
+                    <th>TitleID</th>
+                    <th>Region</th>
+                </tr>
+        </table>
+        </div>
         <script>
             var regions = ['GB', 'US', 'JP', 'TW', 'KR'];
             for(var i = 0; i < 5; i++)
-                GetJSON('https://raw.githubusercontent.com/hax0kartik/3dsdb/master/jsons/list_' + regions[i] + '.json', regions[i], i + 1);
+                GetJSON('https://raw.githubusercontent.com/hax0kartik/3dsdb/master/jsons/list_' + regions[i] + '.json', regions[i]);
         </script>
-        <p id="showData"></p>
    </body>
 
 </html>
