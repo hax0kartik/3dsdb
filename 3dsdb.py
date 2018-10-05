@@ -33,7 +33,7 @@ async def fetch(session, url, context):
                 response.raise_for_status()
             return await response.text()
     except Exception as e:
-        print ('[-] FAIL with error %s', e)
+        print ('[-] FAIL with error', e)
 
 async def fetch_all_async(session, urls, loop, context):
     results = await asyncio.gather(*[loop.create_task(fetch(session, url, context))
@@ -46,14 +46,15 @@ def getFieldFromData(uid_data, field_name):
     return field.text
 
 def getSizeFromData(uid_data):
-    size_bytes = int(getFieldFromData(uid_data, 'content_size'))
-    if size_bytes == 0:
+    try:
+        size_bytes = int(getFieldFromData(uid_data, 'content_size'))
+    except:
         return "0B"
     size_name = ("B", "KB", "MB", "GB", "TB", "PB", "EB", "ZB", "YB")
     i = int(math.floor(math.log(size_bytes, 1024)))
     p = math.pow(1024, i)
     s = round(size_bytes / p, 2)
-    return '{0} {1} [{2} blocks]'.format(s, size_name[i], size_bytes / 128 * 1024 * 1024)
+    return '{0} {1} [{2} blocks]'.format(s, size_name[i], int(round(size_bytes / (128 * 1024))))
 
 def isNameTag(tag):
     #print ("Tag {}".format(tag.name) + "Tag Parent {}".format(tag.parent.name))
