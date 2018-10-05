@@ -53,7 +53,7 @@ def getSizeFromData(uid_data):
     i = int(math.floor(math.log(size_bytes, 1024)))
     p = math.pow(1024, i)
     s = round(size_bytes / p, 2)
-    return '{0} {1} [{2} blocks]'(s, size_name[i], size_bytes / 128 * 1024 * 1024)
+    return '{0} {1} [{2} blocks]'.format(s, size_name[i], size_bytes / 128 * 1024 * 1024)
 
 def isNameTag(tag):
     #print ("Tag {}".format(tag.name) + "Tag Parent {}".format(tag.parent.name))
