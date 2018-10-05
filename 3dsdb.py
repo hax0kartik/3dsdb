@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 import json, hashlib, re
-import os, resource
+import os, resource, math
 import requests, aiohttp, asyncio, ssl
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
@@ -40,10 +40,20 @@ async def fetch_all_async(session, urls, loop, context):
                                    for url in urls])
     return results
 
-def getTIDFromData(uid_data):
+def getFieldFromData(uid_data, field_name):
     soup = BeautifulSoup(uid_data, features='xml')
-    title_id = soup.find('title_id')
-    return title_id.text
+    field = soup.find(field_name)
+    return field.text
+
+def getSizeFromData(uid_data):
+    size_bytes = int(getFieldFromData(uid_data, 'content_size'))
+    if size_bytes == 0:
+        return "0B"
+    size_name = ("B", "KB", "MB", "GB", "TB", "PB", "EB", "ZB", "YB")
+    i = int(math.floor(math.log(size_bytes, 1024)))
+    p = math.pow(1024, i)
+    s = round(size_bytes / p, 2)
+    return '{0} {1} [{2} blocks]'(s, size_name[i], size_bytes / 128 * 1024 * 1024)
 
 def isNameTag(tag):
     #print ("Tag {}".format(tag.name) + "Tag Parent {}".format(tag.parent.name))
@@ -68,8 +78,12 @@ async def doXML(region):
             data = await fetch_all_async(session, uid_url_list, loop, context)
             await session.close()
     print(data[0:10])
-    tids = [getTIDFromData(_uiddata) for _uiddata in data]
-    data = [{'Name': n, 'UID': u, 'TitleID': t } for n, u, t in zip(name, tuids, tids)]
+
+    size = []
+    for _uiddata in data:
+        size.append(getSizeFromData(_uiddata))
+    tids = [getFieldFromData(_uiddata, 'title_id') for _uiddata in data]
+    data = [{'Name': n, 'UID': u, 'TitleID': t, 'Size': s} for n, u, t, s in zip(name, tuids, tids, size)]
     contents = open("jsons/list_{0}.json".format(region), "w+")
     contents.write(json.dumps(data, indent = 4))
     contents.close()
