@@ -3,7 +3,7 @@
    <head>
       <title>3dsdb</title>
       <style>
-            th, td, p, input 
+            th, td, p
             {
                 font:14px Verdana;
             }
@@ -23,7 +23,15 @@
                 background-color: skyblue;
                 color: white;
             }
-
+            #input 
+            {
+                font-size: 16px;
+                width: 70%;
+                margin-left: 15%;
+                margin-right: 15%;
+                padding-bottom: 5px;
+                padding-top:5px;
+            }
             tr:hover {background-color: #f5f5f5;}
         </style>
         <script>
@@ -82,12 +90,50 @@
                 xhr.open("GET", path, true);
                 xhr.send();
             }
+            
+            // Thnx https://stackoverflow.com/a/48246008
+            function searchTable()
+            {
+                // Declare variables 
+                var input, filter, table, tr, td, i;
+                input = document.getElementById("input");
+                filter = input.value.toUpperCase();
+                table = document.getElementById("titleTable");
+                tr = table.getElementsByTagName("tr");
+                // Loop through all table rows, and hide those who don't match the search query
+                for (i = 0; i < tr.length; i++) 
+                {
+                    td = tr[i].getElementsByTagName("td") ; 
+                    for(j=0 ; j<td.length ; j++)
+                    {
+                        let tdata = td[j] ;
+                        if (tdata) 
+                        {
+                            if (tdata.innerHTML.toUpperCase().indexOf(filter) > -1) 
+                            {
+                                tr[i].style.display = "";
+                                break ; 
+                            } 
+                            else 
+                            {
+                                tr[i].style.display = "none";
+                            }
+                        } 
+                    }
+                }
+            }
       </script>
    </head>
 
    <body>
-        <h1> Warning! Extra-long list ahead. Use ctrl + F to find your title! </h1>
-        <div id="wrap">
+        <h2>FAQ:</h2>
+            Q) How big is 1 3ds block?
+        <br>A) 1 3ds block = 128 kilobytes</br>
+        <br>Q) What is the use of UID(s)?
+        <br>A) UID(s) can be used to get more information regarding a title from Nintendo's ninja server.</br>
+        <br>Q) What is the use of TitleID(s)?
+        <br>A) You need the titleid for cases such as when you want to extract a title using GM9.</br>
+        <input type="text" id="input" onkeyup="searchTable()" placeholder="Search ..">
         <table id="titleTable">
                 <tr>
                     <th>Name</th>
@@ -97,11 +143,11 @@
                     <th>Region</th>
                 </tr>
         </table>
-        </div>
         <script>
             var regions = ['GB', 'US', 'JP', 'TW', 'KR'];
+            var display_regions = ['Europe/Australia', 'USA', 'Japan', 'China', 'Korea']; 
             for(var i = 0; i < 5; i++)
-                GetJSON('https://raw.githubusercontent.com/hax0kartik/3dsdb/master/jsons/list_' + regions[i] + '.json', regions[i]);
+                GetJSON('https://raw.githubusercontent.com/hax0kartik/3dsdb/master/jsons/list_' + regions[i] + '.json', display_regions[i]);
         </script>
    </body>
 
