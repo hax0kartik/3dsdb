@@ -5,21 +5,28 @@ import requests, aiohttp, asyncio, ssl
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
-def sha256(data):
-    return hashlib.sha256(repr(data).encode('utf-8')).hexdigest()
+def getFieldFromData(uid_data, field_name):
+    soup = BeautifulSoup(uid_data, features='xml')
+    field = soup.find(field_name)
+    return field.text
+    
+def getContentCount(content):
+    data = getFieldFromData(content, 'contents')
+    return data['total']
 
-def getSha(region):
+def ReadContentCountFromFile(region):
     try:
         contents = open('./xmls/titlelist_{0}.xml'.format(region)).read()
     except:
         contents = 0xFFFFF
-    return sha256(contents)
+    return getContentCount(content)
+
 
 def getXmlsFromCDN(region):
     print ("[*] Requesting content")
     r = requests.get('https://samurai.ctr.shop.nintendo.net/samurai/ws/{}/titles?shop_id=1&limit=5000&offset=0'.format(region), verify=False)
     match = sha256(r.text) == getSha(region)
-    print ("[*] Do sha match ? {}".format(bool(match)))
+    print ("[*] Did content count change? {}".format(bool(match)))
     if match == False:
         open("xmls/titlelist_{}.xml".format(region), "w+").write(r.text)
         return 0
@@ -40,11 +47,6 @@ async def fetch_all_async(session, urls, loop, context):
                                    for url in urls])
     return results
 
-def getFieldFromData(uid_data, field_name):
-    soup = BeautifulSoup(uid_data, features='xml')
-    field = soup.find(field_name)
-    return field.text
-
 def getSizeFromData(uid_data):
     try:
         size_bytes = int(getFieldFromData(uid_data, 'content_size'))
@@ -63,10 +65,12 @@ def isNameTag(tag):
 async def doXML(region):
     contents = open("xmls/titlelist_{}.xml".format(region)).read()
     soup = BeautifulSoup(contents, features='xml')
+    
     uids = soup.find_all('title')
     names = soup.find_all(isNameTag)
     name = [i.text.replace('\n', ' ') for i in names]
     tuids = [uid['id'] for uid in uids]
+    
     uid_url_list = ['https://ninja.ctr.shop.nintendo.net/ninja/ws/{0}/title/{1}/ec_info'.format(region, uid) for uid in tuids]
     loop = asyncio.get_event_loop_policy().get_event_loop() 
     
