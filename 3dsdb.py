@@ -25,7 +25,7 @@ def ReadContentCountFromFile(region):
 def getXmlsFromCDN(region):
     print ("[*] Requesting content")
     r = requests.get('https://samurai.ctr.shop.nintendo.net/samurai/ws/{}/titles?shop_id=1&limit=5000&offset=0'.format(region), verify=False)
-    match = sha256(r.text) == getSha(region)
+    match = getContentCount(r.text) == ReadContentCountFromFile(region)
     print ("[*] Did content count change? {}".format(bool(match)))
     if match == False:
         open("xmls/titlelist_{}.xml".format(region), "w+").write(r.text)
