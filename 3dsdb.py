@@ -11,22 +11,23 @@ def getFieldFromData(uid_data, field_name):
     return field.text
     
 def getContentCount(content):
-    data = getFieldFromData(content, 'contents')
-    return data['total']
+    soup = BeautifulSoup(content, features='xml')
+    content_tag = soup.find("contents")
+    return content_tag['total']
 
 def ReadContentCountFromFile(region):
     try:
         contents = open('./xmls/titlelist_{0}.xml'.format(region)).read()
     except:
         contents = 0xFFFFF
-    return getContentCount(content)
+    return getContentCount(contents)
 
 
 def getXmlsFromCDN(region):
     print ("[*] Requesting content")
     r = requests.get('https://samurai.ctr.shop.nintendo.net/samurai/ws/{}/titles?shop_id=1&limit=5000&offset=0'.format(region), verify=False)
     match = getContentCount(r.text) == ReadContentCountFromFile(region)
-    print ("[*] Did content count change? {}".format(bool(match)))
+    print ("[*] Did content count change? {}".format(bool(match ^ 1)))
     if match == False:
         open("xmls/titlelist_{}.xml".format(region), "w+").write(r.text)
         return 0
