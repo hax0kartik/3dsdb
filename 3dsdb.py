@@ -31,7 +31,6 @@ def getXmlsFromCDN(region):
     if match == False:
         open("xmls/titlelist_{}.xml".format(region), "w+").write(r.text)
         return 0
-    
     return 1
 
 async def fetch(session, url, context):
@@ -71,6 +70,7 @@ async def doXML(region):
     prods = soup.find_all('product_code')
     names = soup.find_all(isNameTag)
     name = [i.text.replace('\n', ' ') for i in names]
+    prod = [i.text for i in prods]
     tuids = [uid['id'] for uid in uids]
     
     uid_url_list = ['https://ninja.ctr.shop.nintendo.net/ninja/ws/{0}/title/{1}/ec_info'.format(region, uid) for uid in tuids]
