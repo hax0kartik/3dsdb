@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-import json, hashlib, re
+import json, re
 import os, resource, math
 import requests, aiohttp, asyncio, ssl
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
@@ -68,6 +68,7 @@ async def doXML(region):
     soup = BeautifulSoup(contents, features='xml')
     
     uids = soup.find_all('title')
+    prods = soup.find_all('product_code')
     names = soup.find_all(isNameTag)
     name = [i.text.replace('\n', ' ') for i in names]
     tuids = [uid['id'] for uid in uids]
@@ -89,7 +90,7 @@ async def doXML(region):
     for _uiddata in data:
         size.append(getSizeFromData(_uiddata))
     tids = [getFieldFromData(_uiddata, 'title_id') for _uiddata in data]
-    data = [{'Name': n, 'UID': u, 'TitleID': t, 'Size': s} for n, u, t, s in zip(name, tuids, tids, size)]
+    data = [{'Name': n, 'UID': u, 'TitleID': t, 'Size': s, 'Product Code' : p} for n, u, t, s, p in zip(name, tuids, tids, size, prods)]
     contents = open("jsons/list_{0}.json".format(region), "w+")
     contents.write(json.dumps(data, indent = 4))
     contents.close()
