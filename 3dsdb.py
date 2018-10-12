@@ -90,7 +90,7 @@ async def doXML(region):
     for _uiddata in data:
         size.append(getSizeFromData(_uiddata))
     tids = [getFieldFromData(_uiddata, 'title_id') for _uiddata in data]
-    data = [{'Name': n, 'UID': u, 'TitleID': t, 'Size': s, 'Product Code' : p} for n, u, t, s, p in zip(name, tuids, tids, size, prods)]
+    data = [{'Name': n, 'UID': u, 'TitleID': t, 'Size': s, 'Product Code' : p} for n, u, t, s, p in zip(name, tuids, tids, size, prod)]
     contents = open("jsons/list_{0}.json".format(region), "w+")
     contents.write(json.dumps(data, indent = 4))
     contents.close()
