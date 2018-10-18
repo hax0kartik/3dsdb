@@ -22,11 +22,7 @@ const getJSON = (path, region) => {
         col.push('Region');
 
         // CREATE DYNAMIC TABLE.
-<<<<<<< HEAD
         const table = document.getElementById('dataTable');
-=======
-        const table = document.getElementById('titleTable');
->>>>>>> master
 
         // CREATE HTML TABLE HEADER ROW USING THE EXTRACTED HEADERS ABOVE.
 
@@ -70,11 +66,7 @@ const removeDiacritics = (string) => {
 const searchTable = () => {
   const input = document.getElementById('input'),
     filter = removeDiacritics(input.value).toLowerCase(),
-<<<<<<< HEAD
     table = document.getElementById('dataTable'),
-=======
-    table = document.getElementById('titleTable'),
->>>>>>> master
     tr = table.getElementsByTagName('tr');
 
   // Loop through all table rows, and hide those who don't match the search query
