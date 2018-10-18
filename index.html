@@ -1,155 +1,105 @@
 <!DOCTYPE html>
-<html>
-   <head>
-      <title>3dsdb</title>
-      <style>
-            th, td, p
-            {
-                font:14px Verdana;
-            }
-            table, th, td 
-            {
-                border: solid 1px #DDD;
-                border-collapse: collapse;
-                padding: 4px 4px;
-                width:70%; 
-                margin-left:15%; 
-                margin-right:15%;
-                text-align: center;
-            }
-            th 
-            {
-                font-weight:bold;
-                background-color: skyblue;
-                color: white;
-            }
-            #input 
-            {
-                font-size: 16px;
-                width: 70%;
-                margin-left: 15%;
-                margin-right: 15%;
-                padding-bottom: 5px;
-                padding-top:5px;
-            }
-            tr:hover {background-color: #f5f5f5;}
-        </style>
-        <script>
-            function GetJSON(path, region)
-            {
-                var t0 = performance.now();
-                var xhr = new XMLHttpRequest();
-                xhr.onreadystatechange = function()
-                {
-                    if (xhr.readyState === XMLHttpRequest.DONE) 
-                    {
-                        if (xhr.status === 200) 
-                        {
-                            var t1 = performance.now();
-                            console.log("http call took " + (t1 - t0) + " milliseconds.");
-                            var text = JSON.parse(xhr.responseText);
-                            // EXTRACT VALUE FOR HTML HEADER.
-                            var col = [];
-                            for (var i = 0; i < text.length; i++) 
-                            {
-                                for (var key in text[i]) 
-                                {
-                                    if (col.indexOf(key) === -1) 
-                                    {
-                                        col.push(key);
-                                    }
-                                }
-                            }
-                            col.push('Region')
+<html lang="en">
 
-                            // CREATE DYNAMIC TABLE.
-                            var table = document.getElementById("titleTable");
+<head>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-                            // CREATE HTML TABLE HEADER ROW USING THE EXTRACTED HEADERS ABOVE.
+    <title>3dsdb</title>
+    <meta name="description" content="3DS Title Database" />
+    <meta name="keywords" content="nintendo, 3ds, 3dsdb, titledb, titles, python, kartik, hax0kartik" />
+    <meta name="robots" content="index, follow" />
+    <meta name="author" content="hax0kartik" />
 
-                            var tr = table.insertRow(-1);                   // TABLE ROW.
-                                   
-                            // ADD JSON DATA TO THE TABLE AS ROWS.
-                            for (var i = 0; i < text.length; i++) 
-                            {
-                                tr = table.insertRow(-1);
-                                for (var j = 0; j < col.length - 1; j++) 
-                                {
-                                    var tabCell = tr.insertCell(-1);
-                                    tabCell.innerHTML = text[i][col[j]];
-                                }
-                                var regionCell = tr.insertCell(-1);
-                                regionCell.innerHTML = region;
-                             }
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+        crossorigin="anonymous" type="text/css">
 
-                            var t2 = performance.now();
-                            console.log("conversion call took " + (t2 - t1) + " milliseconds.")
-                        } 
-                    }
-                };
-                xhr.open("GET", path, true);
-                xhr.send();
-            }
-            
-            // Thnx https://stackoverflow.com/a/48246008
-            function searchTable()
-            {
-                // Declare variables 
-                var input, filter, table, tr, td, i;
-                input = document.getElementById("input");
-                filter = input.value.toUpperCase();
-                table = document.getElementById("titleTable");
-                tr = table.getElementsByTagName("tr");
-                // Loop through all table rows, and hide those who don't match the search query
-                for (i = 0; i < tr.length; i++) 
-                {
-                    td = tr[i].getElementsByTagName("td") ; 
-                    for(j=0 ; j<td.length ; j++)
-                    {
-                        let tdata = td[j] ;
-                        if (tdata) 
-                        {
-                            if (tdata.innerHTML.toUpperCase().indexOf(filter) > -1) 
-                            {
-                                tr[i].style.display = "";
-                                break ; 
-                            } 
-                            else 
-                            {
-                                tr[i].style.display = "none";
-                            }
-                        } 
-                    }
-                }
-            }
-      </script>
-   </head>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous" type="text/javascript"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+        crossorigin="anonymous" type="text/javascript"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+        crossorigin="anonymous" type="text/javascript"></script>
+    <script src="scripts.js" type="text/javascript"></script>
 
-   <body>
-        <h2>FAQ:</h2>
-            Q) How big is 1 3ds block?
-        <br>A) 1 3ds block = 128 kilobytes</br>
-        <br>Q) What is the use of UID(s)?
-        <br>A) UID(s) can be used to get more information regarding a title from Nintendo's ninja server.</br>
-        <br>Q) What is the use of TitleID(s)?
-        <br>A) You need the titleid for cases such as when you want to extract a title using GM9.</br>
-        <input type="text" id="input" onkeyup="searchTable()" placeholder="Search ..">
-        <table id="titleTable">
-                <tr>
-                    <th>Name</th>
-                    <th>UID</th>
-                    <th>TitleID</th>
-                    <th>Size</th>
-                    <th>Product Code</th>
-                    <th>Region</th>
-                </tr>
-        </table>
-        <script>
-            var regions = ['GB', 'US', 'JP', 'TW', 'KR'];
-            var display_regions = ['Europe/Australia', 'USA', 'Japan', 'China', 'Korea']; 
-            for(var i = 0; i < 5; i++)
-                GetJSON('https://raw.githubusercontent.com/hax0kartik/3dsdb/master/jsons/list_' + regions[i] + '.json', display_regions[i]);
-        </script>
-   </body>
+    <link rel="apple-touch-icon" sizes="180x180" href="images/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="images/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicons/favicon-16x16.png">
+    <link rel="manifest" href="images/favicons/site.webmanifest">
+    <link rel="mask-icon" href="images/favicons/safari-pinned-tab.svg" color="#000000">
+    <link rel="shortcut icon" href="images/favicons/favicon.ico">
+    <meta name="apple-mobile-web-app-title" content="3dsdb">
+    <meta name="application-name" content="3dsdb">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-config" content="images/favicons/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+    <div class="container-fluid">
+
+        <div class="row text-left">
+            <div class="col-sm-12">
+                <h2>FAQ:</h2>
+            </div>
+            <div class="col-sm-12">
+                <ul>
+                    <li><b>Q) </b>How big is 1 3ds block?</li>
+                    <li><b>A) </b>1 3ds block = 128 kilobytes</li>
+                    <li><b>Q) </b>What is the use of UID(s)</li>
+                    <li><b>A) </b>UID(s) can be used to get more information regarding a title from Nintendo's ninja
+                        server.</li>
+                    <li><b>Q) </b>What is the use of TitleID(s)?</li>
+                    <li><b>A) </b>You need the titleid for cases such as when you want to extract a title using GM9.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="row mt-2">
+            <div class="col-sm-12">
+                <div class="input-group">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" id="searchbox">Search Game</span>
+                    </div>
+                    <input type="text" id="input" oninput="searchTable()" class="form-control" placeholder="Search..."
+                        aria-label="Search" aria-describedby="searchbox">
+                    <div class="input-group-append">
+                        <button class="btn btn-primary btn-block" type="button" onclick="searchTable()">Search</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row mt-2">
+            <div class="col-sm-12 table-responsive">
+                <table id="titleTable" class="table table-striped table-bordered table-hover">
+                    <thead class="table-info">
+                        <tr>
+                            <th scope="col">Name</th>
+                            <th scope="col">UID</th>
+                            <th scope="col">TitleID</th>
+                            <th scope="col">Size</th>
+                            <th scope="col">Product Code</th>
+                            <th scope="col">Region</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr></tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <script defer type="text/javascript">populateTable()</script>
+</body>
 
 </html>

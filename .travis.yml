@@ -6,13 +6,13 @@ python:
 
 # install dependencies
 install:
-- pip install -r requirements.txt
+  - pip install -r requirements.txt
 
 before_script:
   - git checkout master
 
 script:
-- python 3dsdb.py 
+  - python 3dsdb.py 
 
 after_success:
   - git config --global user.email "pokemonemerald0@gmail.com" 
