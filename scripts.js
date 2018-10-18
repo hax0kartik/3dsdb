@@ -87,3 +87,15 @@ const searchTable = () => {
     }
   }
 };
+
+const populateTable = () => {
+  var regions = ['GB', 'US', 'JP', 'TW', 'KR'];
+  var display_regions = ['Europe/Australia', 'USA', 'Japan', 'China', 'Korea'];
+
+  regions.forEach((region, index) => {
+    return getJSON(
+      `https://raw.githubusercontent.com/hax0kartik/3dsdb/master/jsons/list_${region}.json`,
+      display_regions[index])
+  });
+};
+
