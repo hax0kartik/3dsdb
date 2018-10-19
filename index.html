@@ -14,6 +14,8 @@
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
         crossorigin="anonymous" type="text/css">
+    <link rel="stylesheet" href="styles/switch.css" type="text/css">
+    <link rel="stylesheet" href="styles/design.css" type="text/css">
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
         crossorigin="anonymous" type="text/javascript"></script>
@@ -43,14 +45,14 @@
     <![endif]-->
 </head>
 
-<body>
+<body onload="loadLastColor()">
     <div class="container-fluid">
 
         <div class="row text-left">
             <div class="col-sm-12">
                 <h2>FAQ:</h2>
             </div>
-            <div class="col-sm-12">
+            <div class="col-sm-10">
                 <ul>
                     <li><b>Q) </b>How big is 1 3ds block?</li>
                     <li><b>A) </b>1 3ds block = 128 kilobytes</li>
@@ -61,15 +63,20 @@
                     <li><b>A) </b>You need the titleid for cases such as when you want to extract a title using GM9.</li>
                 </ul>
             </div>
+            <div class="col-sm-2">
+                <div class="form-group">
+                    <span class="switch">
+                        <input type="checkbox" class="switch" id="switch-normal" onchange="toggleColorMode()">
+                        <label for="switch-normal">Dark / Light Mode</label>
+                    </span>
+                </div>
+            </div>
         </div>
 
         <div class="row mt-2">
             <div class="col-sm-12">
                 <div class="input-group">
-                    <div class="input-group-prepend">
-                        <span class="input-group-text" id="searchbox">Search Game</span>
-                    </div>
-                    <input type="text" id="input" oninput="searchTable()" class="form-control" placeholder="Search..."
+                    <input type="text" id="input" oninput="searchTable()" class="form-control inputBox" placeholder="Search..."
                         aria-label="Search" aria-describedby="searchbox">
                     <div class="input-group-append">
                         <button class="btn btn-primary btn-block" type="button" onclick="searchTable()">Search</button>
@@ -80,8 +87,8 @@
 
         <div class="row mt-2">
             <div class="col-sm-12 table-responsive">
-                <table id="titleTable" class="table table-striped table-bordered table-hover">
-                    <thead class="table-info">
+                <table id="dataTable" class="table table-striped table-bordered table-hover table-dark">
+                    <thead id="tableHeader" class="thead-dark">
                         <tr>
                             <th scope="col">Name</th>
                             <th scope="col">UID</th>

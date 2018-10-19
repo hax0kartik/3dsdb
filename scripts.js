@@ -22,7 +22,7 @@ const getJSON = (path, region) => {
         col.push('Region');
 
         // CREATE DYNAMIC TABLE.
-        const table = document.getElementById('titleTable');
+        const table = document.getElementById('dataTable');
 
         // CREATE HTML TABLE HEADER ROW USING THE EXTRACTED HEADERS ABOVE.
 
@@ -66,7 +66,7 @@ const removeDiacritics = (string) => {
 const searchTable = () => {
   const input = document.getElementById('input'),
     filter = removeDiacritics(input.value).toLowerCase(),
-    table = document.getElementById('titleTable'),
+    table = document.getElementById('dataTable'),
     tr = table.getElementsByTagName('tr');
 
   // Loop through all table rows, and hide those who don't match the search query
@@ -99,3 +99,35 @@ const populateTable = () => {
   });
 };
 
+const storeColorMode = (mode) => {
+  localStorage.setItem('colorMode', JSON.stringify({light: mode}));
+};
+
+const toggleColorMode = () => {
+  if ($('#switch-normal').is(":checked")) {
+    $('body').addClass('lightMode')
+    $('.inputBox').addClass('lightMode');
+    $('#tableHeader').addClass('table-info');
+    $('#dataTable').removeClass('table-dark');
+    $('#tableHeader').removeClass('thead-dark');
+
+    return storeColorMode(true)
+  } else {
+    $('body').removeClass('lightMode')
+    $('.inputBox').removeClass('lightMode');
+    $('#tableHeader').removeClass('table-info');
+    $('#dataTable').addClass('table-dark');
+    $('#tableHeader').addClass('thead-dark');
+
+    return storeColorMode(false)
+  }
+};
+
+const loadLastColor = () => {
+  const storedMode = localStorage.getItem('colorMode');
+
+  if(storedMode && JSON.parse(storedMode).light) {
+    $('#switch-normal').prop('checked', true);
+    toggleColorMode();
+  }
+};

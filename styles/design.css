@@ -1,0 +1,30 @@
+body {
+    background-color: #36393F;
+    color: #FBF7F5;
+}
+
+.inputBox {
+    background-color: #1F2021;
+    color: #FBF7F5;
+    border-color: #1F2021;
+}
+
+.inputBox:focus {
+    background-color: #141719;
+}
+
+body.lightMode {
+    background-color: #FFFFFF;
+    color: #141719;
+}
+
+.inputBox.lightMode {
+    background-color: #FFFFFF;
+    color: #495057;
+    border-color: #CED4DA;
+}
+
+.inputBox.lightMode:focus {
+    background-color: #FFFFFF;
+    border-color: #80BDFF;
+}
