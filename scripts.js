@@ -35,7 +35,7 @@ const getJSON = (path, region) => {
             const tabCell = tr.insertCell(-1);
             if(j == 1){
               var link = "https://api.qrserver.com/v1/create-qr-code/?data=ESHOP://" + text[i][col[j]];
-              tabCell.innerHTML = `<a href="${link}"><img src="${link}&margin=0" height=46 width=46></img>`;
+              tabCell.innerHTML = `<a href="${link}"><img src="images/qrstock.png" height=46 width=46></img>`;
             }
             else
               tabCell.innerHTML = text[i][col[j]];
