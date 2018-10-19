@@ -12,7 +12,8 @@ before_script:
   - git checkout master
 
 script:
-  - python 3dsdb.py 
+  - python 3dsdb.py
+  - python staticgen.py
 
 after_success:
   - git config --global user.email "pokemonemerald0@gmail.com" 

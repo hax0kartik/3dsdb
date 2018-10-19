@@ -28,3 +28,8 @@ body.lightMode {
     background-color: #FFFFFF;
     border-color: #80BDFF;
 }
+
+.qrstock {
+    width: 46px;
+    height: 46px;
+}
