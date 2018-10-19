@@ -33,11 +33,14 @@ const getJSON = (path, region) => {
           tr = table.insertRow(-1);
           for (let j = 0; j < col.length - 1; j++) {
             const tabCell = tr.insertCell(-1);
-
-            tabCell.innerHTML = text[i][col[j]];
+            if(j == 1){
+              var link = "http://api.qrserver.com/v1/create-qr-code/?data=ESHOP://" + text[i][col[j]];
+              tabCell.innerHTML = `<a href="${link}"><img src="${link}&margin=0" height=46 width=46></img>`;
+            }
+            else
+              tabCell.innerHTML = text[i][col[j]];
           }
           const regionCell = tr.insertCell(-1);
-
           regionCell.innerHTML = region;
         }
 
@@ -62,6 +65,7 @@ const removeDiacritics = (string) => {
   return string;
 };
 
+var timeout = null;
 // Thnx https://stackoverflow.com/a/48246008
 const searchTable = () => {
   const input = document.getElementById('input'),
@@ -87,6 +91,14 @@ const searchTable = () => {
     }
   }
 };
+
+const delaySearchTable = () => {
+  if(timeout)
+    clearTimeout(timeout);
+  timeout = setTimeout(function(){
+    searchTable();
+  }, 800);
+}
 
 const populateTable = () => {
   var regions = ['GB', 'US', 'JP', 'TW', 'KR'];
