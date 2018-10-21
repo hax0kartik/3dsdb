@@ -108,8 +108,7 @@
 
     <script defer type="text/javascript">populateTable(); 
     oTable = $('#dataTable').DataTable({
-        "searching":   false,
-        "lengthMenu": [[10, 25, 50, 100, -1], [10, 25, 50, 100, "All"]]
+        "lengthMenu": [[10, 25, 50, 100, -1], [10, 25, 50, 100, "All"]],
     }); 
     $('#input').keyup(function(){
       oTable.search($(this).val()).draw();

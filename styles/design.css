@@ -29,6 +29,10 @@ body.lightMode {
     border-color: #80BDFF;
 }
 
+.dataTables_filter {
+    display: none; 
+}
+
 .qrstock {
     width: 46px;
     height: 46px;
