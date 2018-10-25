@@ -51,7 +51,7 @@ def getSizeFromData(uid_data):
     try:
         size_bytes = int(getFieldFromData(uid_data, 'content_size'))
     except:
-        return "0B"
+        return "0B [N/A]"
     size_name = ("B", "KB", "MB", "GB", "TB", "PB", "EB", "ZB", "YB")
     i = int(math.floor(math.log(size_bytes, 1024)))
     p = math.pow(1024, i)
