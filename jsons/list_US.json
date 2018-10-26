@@ -1,5 +1,19 @@
 [
     {
+        "Name": "Insect Planet TD",
+        "UID": "50010000046815",
+        "TitleID": "00040000001D5600",
+        "Size": "32.47 MB [260 blocks]",
+        "Product Code": "CTR-N-LPLE"
+    },
+    {
+        "Name": "Games to Play on Halloween!",
+        "UID": "50010000046995",
+        "TitleID": "00040000001D7E00",
+        "Size": "78.57 MB [629 blocks]",
+        "Product Code": "CTR-N-SQLE"
+    },
+    {
         "Name": "Petite Zombies",
         "UID": "50010000046755",
         "TitleID": "00040000001D5B00",
@@ -1977,7 +1991,7 @@
         "Name": "Azure Striker Gunovlt <br>Striker Pack",
         "UID": "50010000041915",
         "TitleID": "00040000001A5600",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-BG8E"
     },
     {
@@ -3139,7 +3153,7 @@
         "Name": "Teenage Mutant Ninja Turtles: Master Splinter's Training Pack",
         "UID": "50010000038215",
         "TitleID": "0004000000170B00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-BTNE"
     },
     {
@@ -3244,7 +3258,7 @@
         "Name": "Skylanders SuperChargers Racing",
         "UID": "50010000037275",
         "TitleID": "0004000000165E00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-BL5E"
     },
     {
@@ -4812,7 +4826,7 @@
         "Name": "Skylanders Trap Team\u2122",
         "UID": "50010000026415",
         "TitleID": "0004000000131200",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-BS9E"
     },
     {
@@ -5659,7 +5673,7 @@
         "Name": "Cut the Rope\u00ae: Triple Treat",
         "UID": "50010000021413",
         "TitleID": "0004000000112600",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-BR3E"
     },
     {
@@ -6387,7 +6401,7 @@
         "Name": "Skylanders SWAP Force\u2122",
         "UID": "50010000016714",
         "TitleID": "00040000000E6500",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-BSFE"
     },
     {
@@ -6688,7 +6702,7 @@
         "Name": "Disney Infinity",
         "UID": "50010000015853",
         "TitleID": "00040000000B9C00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ADYE"
     },
     {
@@ -7101,7 +7115,7 @@
         "Name": "Fast & Furious\u2122: Showdown",
         "UID": "50010000014574",
         "TitleID": "00040000000B6200",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AFHE"
     },
     {
@@ -8032,7 +8046,7 @@
         "Name": "Rise of the Guardians:  The Video Game",
         "UID": "50010000012229",
         "TitleID": "00040000000B0400",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ARGE"
     },
     {
@@ -8151,28 +8165,28 @@
         "Name": "Rabbids\u00ae Rumble",
         "UID": "50010000012015",
         "TitleID": "0004000000055400",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AR5E"
     },
     {
         "Name": "Bratz\u00ae: Fashion Boutique",
         "UID": "50010000011748",
         "TitleID": "00040000000A7300",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AB5E"
     },
     {
         "Name": "The Trash Pack\u2122 ",
         "UID": "50010000011749",
         "TitleID": "00040000000B0600",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ATZE"
     },
     {
         "Name": "Lalaloopsy\u2122: Carnival of Friends",
         "UID": "50010000011767",
         "TitleID": "00040000000AE300",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ALYE"
     },
     {
@@ -8221,14 +8235,14 @@
         "Name": "Imagine\u00ae Fashion Life",
         "UID": "50010000012012",
         "TitleID": "0004000000047800",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AF3E"
     },
     {
         "Name": "Imagine\u00ae Babyz\u00ae",
         "UID": "50010000012034",
         "TitleID": "000400000004C300",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ABAE"
     },
     {
@@ -8242,7 +8256,7 @@
         "Name": "Skylanders Giants\u2122",
         "UID": "50010000011546",
         "TitleID": "0004000000091D00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AG6E"
     },
     {
@@ -8312,14 +8326,14 @@
         "Name": "Monster 4x4 3D",
         "UID": "50010000011626",
         "TitleID": "0004000000048700",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AM4E"
     },
     {
         "Name": "Spy Hunter\u2122",
         "UID": "50010000011687",
         "TitleID": "000400000009C900",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AHEE"
     },
     {
@@ -8396,7 +8410,7 @@
         "Name": "Disney Princess:  My Fairytale Adventure",
         "UID": "50010000012226",
         "TitleID": "0004000000083900",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ADPE"
     },
     {
@@ -8410,7 +8424,7 @@
         "Name": "NCIS\u2122 3D BASED ON THE TV SERIES",
         "UID": "50010000011447",
         "TitleID": "0004000000047D00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ANCE"
     },
     {
@@ -8543,7 +8557,7 @@
         "Name": "KINGDOM HEARTS 3D [Dream Drop Distance]",
         "UID": "50010000010423",
         "TitleID": "000400000008D300",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AKHE"
     },
     {
@@ -8606,7 +8620,7 @@
         "Name": "Heroes of Ruin\u2122",
         "UID": "50010000009128",
         "TitleID": "0004000000075100",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AH6E"
     },
     {
@@ -8655,7 +8669,7 @@
         "Name": "Ice Age\u2122 Continental Drift:  Arctic Games",
         "UID": "50010000010372",
         "TitleID": "0004000000086900",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AQLE"
     },
     {
@@ -8704,7 +8718,7 @@
         "Name": "THEATRHYTHM\u2122 FINAL FANTASY\u00ae",
         "UID": "50010000010358",
         "TitleID": "0004000000095100",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ATHE"
     },
     {
@@ -8760,7 +8774,7 @@
         "Name": "LEGO\u00ae Batman\u2122 2: DC Super Heroes",
         "UID": "50010000010355",
         "TitleID": "000400000005A200",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ALBE"
     },
     {
@@ -8816,7 +8830,7 @@
         "Name": "Madagascar 3:  The Video Game",
         "UID": "50010000010066",
         "TitleID": "0004000000087D00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AMCE"
     },
     {
@@ -8858,7 +8872,7 @@
         "Name": "Purr Pals Purrfection",
         "UID": "50010000010230",
         "TitleID": "0004000000084900",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AP6E"
     },
     {
@@ -8879,7 +8893,7 @@
         "Name": "BATTLESHIP\u00ae",
         "UID": "50010000009768",
         "TitleID": "0004000000071700",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ABSE"
     },
     {
@@ -9019,7 +9033,7 @@
         "Name": "Crush\u21223D",
         "UID": "50010000007931",
         "TitleID": "0004000000037100",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ACRE"
     },
     {
@@ -9047,7 +9061,7 @@
         "Name": "Nicktoons MLB\u00ae 3D",
         "UID": "50010000009129",
         "TitleID": "0004000000061200",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ANKE"
     },
     {
@@ -9096,14 +9110,14 @@
         "Name": "Tales of the Abyss 3D",
         "UID": "50010000008125",
         "TitleID": "0004000000061300",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AABE"
     },
     {
         "Name": "TEKKEN 3D Prime Edition",
         "UID": "50010000008801",
         "TitleID": "0004000000080300",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ATKE"
     },
     {
@@ -9138,7 +9152,7 @@
         "Name": "Pro Evolution Soccer 2012 3D",
         "UID": "50010000008802",
         "TitleID": "0004000000067500",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AE2E"
     },
     {
@@ -9264,7 +9278,7 @@
         "Name": "Doctor Lautrec and the Forgotten Knights",
         "UID": "50010000007061",
         "TitleID": "0004000000036800",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ADLE"
     },
     {
@@ -9278,7 +9292,7 @@
         "Name": "Jaws: Ultimate Predator",
         "UID": "50010000007984",
         "TitleID": "0004000000048600",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AJWE"
     },
     {
@@ -9292,7 +9306,7 @@
         "Name": "Nano Assault",
         "UID": "50010000007970",
         "TitleID": "0004000000047B00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AN3E"
     },
     {
@@ -9313,14 +9327,14 @@
         "Name": "Face Racers: Photo Finish",
         "UID": "50010000007969",
         "TitleID": "0004000000037200",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AFCE"
     },
     {
         "Name": "Carnival Games\u00ae Wild West 3D",
         "UID": "50010000007871",
         "TitleID": "0004000000061400",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AW2E"
     },
     {
@@ -9348,28 +9362,28 @@
         "Name": "Shinobi\u2122",
         "UID": "50010000007433",
         "TitleID": "0004000000055B00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ASVE"
     },
     {
         "Name": "ACE COMBAT\u00ae Assault Horizon Legacy",
         "UID": "50010000007621",
         "TitleID": "0004000000064900",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AC3E"
     },
     {
         "Name": "Need For Speed\u2122: The Run",
         "UID": "50010000007702",
         "TitleID": "0004000000051400",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ANSE"
     },
     {
         "Name": "LEGO\u00ae Harry Potter\u2122: Years 5-7",
         "UID": "50010000007521",
         "TitleID": "000400000004A400",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AHPE"
     },
     {
@@ -9390,14 +9404,14 @@
         "Name": "Cave Story 3D",
         "UID": "50010000007157",
         "TitleID": "000400000004A100",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ACVE"
     },
     {
         "Name": "Michael Jackson The Experience",
         "UID": "50010000007643",
         "TitleID": "0004000000048500",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AMJE"
     },
     {
@@ -9425,7 +9439,7 @@
         "Name": "Generator Rex: Agent of Providence",
         "UID": "50010000007373",
         "TitleID": "0004000000036C00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AGXE"
     },
     {
@@ -9446,28 +9460,28 @@
         "Name": "Captain America\u2122: Super Soldier",
         "UID": "50010000007076",
         "TitleID": "0004000000040600",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ACAE"
     },
     {
         "Name": "Puppies 3D",
         "UID": "50010000007468",
         "TitleID": "000400000004E000",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ACTE"
     },
     {
         "Name": "Centipede: Infestation ",
         "UID": "50010000007471",
         "TitleID": "000400000004AD00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ACPE"
     },
     {
         "Name": "Ben 10\u2122 Galactic Racing",
         "UID": "50010000007494",
         "TitleID": "0004000000040700",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ABNE"
     },
     {
@@ -9481,14 +9495,14 @@
         "Name": "Pet Zombies",
         "UID": "50010000007473",
         "TitleID": "0004000000036200",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-APZE"
     },
     {
         "Name": "Skylanders Spyro's Adventure",
         "UID": "50010000007191",
         "TitleID": "0004000000036E00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ASPE"
     },
     {
@@ -9509,7 +9523,7 @@
         "Name": "The Hidden",
         "UID": "50010000007701",
         "TitleID": "0004000000037300",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AHDE"
     },
     {
@@ -9530,7 +9544,7 @@
         "Name": "Spider-Man\u2122: Edge of Time",
         "UID": "50010000007226",
         "TitleID": "0004000000061A00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AS7E"
     },
     {
@@ -9551,7 +9565,7 @@
         "Name": "Pinball Hall of Fame: The Williams Collection",
         "UID": "50010000007210",
         "TitleID": "000400000004C600",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-APBE"
     },
     {
@@ -9572,7 +9586,7 @@
         "Name": "Frogger 3D",
         "UID": "50010000007209",
         "TitleID": "0004000000036900",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AFRE"
     },
     {
@@ -9600,14 +9614,14 @@
         "Name": "Thor\u2122: God of Thunder",
         "UID": "50010000007077",
         "TitleID": "0004000000040500",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AGTE"
     },
     {
         "Name": "Puzzler Mind Gym\u00ae 3",
         "UID": "50010000007078",
         "TitleID": "000400000004EC00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-APUE"
     },
     {
@@ -9656,14 +9670,14 @@
         "Name": "DRIVER\u00ae RENEGADE",
         "UID": "50010000006808",
         "TitleID": "0004000000036000",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ADRE"
     },
     {
         "Name": "James Noir's Hollywood Crimes\u2122",
         "UID": "50010000006920",
         "TitleID": "0004000000036100",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AHCE"
     },
     {
@@ -9733,21 +9747,21 @@
         "Name": "PAC-MAN\u00ae & Galaga\u00ae Dimensions",
         "UID": "50010000006810",
         "TitleID": "0004000000036300",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-APGE"
     },
     {
         "Name": "MAHJONG CUB3D\u2122",
         "UID": "50010000006896",
         "TitleID": "000400000004EB00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ASHE"
     },
     {
         "Name": "Balloon Pop\u00ae 2",
         "UID": "50010000006915",
         "TitleID": "0004000000035C00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ABPE"
     },
     {
@@ -9852,7 +9866,7 @@
         "Name": "DualPenSports\u2122",
         "UID": "50010000000441",
         "TitleID": "0004000000036600",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-APPE"
     },
     {
@@ -9873,28 +9887,28 @@
         "Name": "Cubic Ninja\u2122",
         "UID": "50010000000442",
         "TitleID": "0004000000046500",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AQNE"
     },
     {
         "Name": "Green Lantern\u2122: Rise of the Manhunters",
         "UID": "50010000000401",
         "TitleID": "0004000000035300",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AGLE"
     },
     {
         "Name": "Cartoon Network Punch Time Explosion",
         "UID": "50010000000521",
         "TitleID": "0004000000043900",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ACNE"
     },
     {
         "Name": "Deca Sports Extreme",
         "UID": "50010000000522",
         "TitleID": "0004000000044600",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ADEE"
     },
     {
@@ -9915,7 +9929,7 @@
         "Name": "BlazBlue: Continuum Shift II",
         "UID": "50010000000481",
         "TitleID": "000400000004AC00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ABLZ"
     },
     {
@@ -9936,7 +9950,7 @@
         "Name": "DEAD OR ALIVE Dimensions",
         "UID": "50010000000381",
         "TitleID": "0004000000034F00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ADDE"
     },
     {
@@ -9964,7 +9978,7 @@
         "Name": "Spongebob Squigglepants",
         "UID": "50010000000361",
         "TitleID": "0004000000044500",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ASGE"
     },
     {
@@ -9992,14 +10006,14 @@
         "Name": "Dream Trigger\u2122 3D",
         "UID": "50010000000341",
         "TitleID": "0004000000043600",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ADTE"
     },
     {
         "Name": "LEGO\u00ae Pirates of the Caribbean: The Video Game",
         "UID": "50010000000342",
         "TitleID": "0004000000037400",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-APCE"
     },
     {
@@ -10097,7 +10111,7 @@
         "Name": "Combat of Giants\u2122 Dinosaurs 3D",
         "UID": "50010000000260",
         "TitleID": "0004000000035100",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ATTE"
     },
     {
@@ -10118,56 +10132,56 @@
         "Name": "SAMURAI WARRIORS\u00ae: Chronicles",
         "UID": "50010000000242",
         "TitleID": "0004000000034D00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-A66E"
     },
     {
         "Name": "BUST-A-MOVE UNIVERSE",
         "UID": "50010000000243",
         "TitleID": "0004000000035E00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ABBE"
     },
     {
         "Name": "LEGO\u00ae Star Wars\u00ae III: The Clone Wars\u2122",
         "UID": "50010000000249",
         "TitleID": "0004000000035400",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ALGE"
     },
     {
         "Name": "Madden NFL Football",
         "UID": "50010000000250",
         "TitleID": "0004000000035500",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AMDE"
     },
     {
         "Name": "The Sims\u2122 3",
         "UID": "50010000000254",
         "TitleID": "0004000000036500",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AS3E"
     },
     {
         "Name": "Steel Diver\u2122",
         "UID": "50010000000256",
         "TitleID": "0004000000032400",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ASDE"
     },
     {
         "Name": "Asphalt\u2122 3D",
         "UID": "50010000000257",
         "TitleID": "0004000000034C00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ASFE"
     },
     {
         "Name": "RIDGE RACER\u00ae 3D",
         "UID": "50010000000252",
         "TitleID": "0004000000035800",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ARRE"
     },
     {
@@ -12183,14 +12197,14 @@
         "Name": "Wreck-it Ralph",
         "UID": "50010000012466",
         "TitleID": "0004000000097100",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AWRE"
     },
     {
         "Name": "Ben 10 Omniverse",
         "UID": "50010000012630",
         "TitleID": "000400000009D000",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ABVE"
     }
 ]
