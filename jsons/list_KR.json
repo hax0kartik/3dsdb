@@ -1,5 +1,12 @@
 [
     {
+        "Name": "\ub8e8\uc774\uc9c0 \ub9e8\uc158",
+        "UID": "50010000046975",
+        "TitleID": "00040000001D4F00",
+        "Size": "217.51 MB [1740 blocks]",
+        "Product Code": "CTR-P-BGNK"
+    },
+    {
         "Name": "\uc5c5\ub370\uc774\ud2b8 \ub370\uc774\ud130 Ver.2.3 \uc694\uad34\uc6cc\uce58\u00ae \ubc84\uc2a4\ud130\uc988 \uc801\ubb18\ub2e8",
         "UID": "50010000046655",
         "TitleID": "0004000E001CED00",
@@ -24,14 +31,14 @@
         "Name": "\uc694\uad34\uc6cc\uce58\u00ae \ubc84\uc2a4\ud130\uc988 \uc801\ubb18\ub2e8",
         "UID": "50010000044695",
         "TitleID": "00040000001CED00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-BYAK"
     },
     {
         "Name": "\uc694\uad34\uc6cc\uce58\u00ae \ubc84\uc2a4\ud130\uc988 \ubc31\uacac\ub300",
         "UID": "50010000044696",
         "TitleID": "00040000001CF200",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-BYBK"
     },
     {
@@ -80,7 +87,7 @@
         "Name": "\ucee4\ube44 \ubc30\ud2c0 \ub514\ub7ed\uc2a4!",
         "UID": "50010000044938",
         "TitleID": "00040000001C2200",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AJ8K"
     },
     {
@@ -164,7 +171,7 @@
         "Name": "\uc694\uad34\uc6cc\uce58 2 \ub05d\ud310\uc655",
         "UID": "50010000042080",
         "TitleID": "00040000001B2A00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-BYSK"
     },
     {
@@ -178,7 +185,7 @@
         "Name": "Cube Creator DX",
         "UID": "50010000043275",
         "TitleID": "00040000001C7800",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-A9CK"
     },
     {
@@ -241,7 +248,7 @@
         "Name": "\ub9c8\ub9ac\uc624 \uc2a4\ud3ec\uce20 \uc288\ud37c\uc2a4\ud0c0\uc988",
         "UID": "50010000043040",
         "TitleID": "00040000001A6400",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AUNK"
     },
     {
@@ -297,14 +304,14 @@
         "Name": "\uc694\uad34\uc6cc\uce58 2 \uc6d0\uc870",
         "UID": "50010000042083",
         "TitleID": "000400000019AE00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-BYGK"
     },
     {
         "Name": "\uc694\uad34\uc6cc\uce58 2 \ubcf8\uac00",
         "UID": "50010000042085",
         "TitleID": "000400000019AF00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-BYHK"
     },
     {
@@ -444,7 +451,7 @@
         "Name": "\ub808\uace0\u00ae \uc2a4\ud0c0\uc6cc\uc988\u2122: \uae68\uc5b4\ub09c \ud3ec\uc2a4",
         "UID": "50010000041623",
         "TitleID": "00040000001A5900",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-BLWK"
     },
     {
@@ -458,7 +465,7 @@
         "Name": "\ud30c\uc774\uc5b4 \uc5e0\ube14\ub818 if",
         "UID": "50010000041479",
         "TitleID": "0004000000188E00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-BFZK"
     },
     {
@@ -507,7 +514,7 @@
         "Name": "LEGO\u00ae Ninjago\u2122: \uc100\ub3c4 \uc624\ube0c \ub85c\ub2cc",
         "UID": "50010000040723",
         "TitleID": "000400000017FC00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-BLSK"
     },
     {
@@ -899,7 +906,7 @@
         "Name": "\uc5f4\ud608\uacbd\ud30c \ucfe0\ub2c8\uc624\uad70SP \ub09c\ud22c\ud611\uc8fc\uace1",
         "UID": "50010000038855",
         "TitleID": "0004000000188A00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AK2K"
     },
     {
@@ -948,7 +955,7 @@
         "Name": "\ub85c\ub370\uc544 \ub354 \uc2a4\uce74\uc774 \uc194\uc838",
         "UID": "50010000038437",
         "TitleID": "0004000000183100",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AR6K"
     },
     {
@@ -997,14 +1004,14 @@
         "Name": "\ud0dc\uace0\uc758 \ub2ec\uc778 \ucff5\ub531\ucff5\ub531 \uc2dc\uacf5 \ub300\ubaa8\ud5d8",
         "UID": "50010000036296",
         "TitleID": "000400000016D900",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-BT7K"
     },
     {
         "Name": "\ud654\uc11d \ud30c\uc774\ud130",
         "UID": "50010000035855",
         "TitleID": "0004000000143700",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AHRK"
     },
     {
@@ -1193,14 +1200,14 @@
         "Name": "\uc12c\ub780 \uce74\uad6c\ub77c 2 -\uc9c4\ud64d-",
         "UID": "50010000030055",
         "TitleID": "0004000000150200",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-BNUK"
     },
     {
         "Name": "LEGO Ninjago: \ub2cc\ub4dc\ub85c\uc774\ub4dc",
         "UID": "50010000029660",
         "TitleID": "000400000015BF00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-BLNK"
     },
     {
@@ -1438,7 +1445,7 @@
         "Name": "\ub9c8\ub9ac\uc624 \uace8\ud504 \uc6d4\ub4dc \ud22c\uc5b4",
         "UID": "50010000021993",
         "TitleID": "0004000000106300",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AJ3K"
     },
     {
@@ -1487,7 +1494,7 @@
         "Name": "LEGO Legends of Chima: \ub77c\ubc1c\uc758 \uc5ec\ud589",
         "UID": "50010000019614",
         "TitleID": "0004000000115E00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-APRK"
     },
     {
@@ -1529,7 +1536,7 @@
         "Name": "\ubaac\uc2a4\ud130\ud5cc\ud130 4",
         "UID": "50010000018574",
         "TitleID": "0004000000105000",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AH4K"
     },
     {
@@ -1550,7 +1557,7 @@
         "Name": "\uc9f1\uad6c\ub294 \ubabb\ub9d0\ub824 \ud310\ud0c0\uc2a4\ud2f1-! \uc6b0\uc8fc\ubcc4 \ub300\ubaa8\ud5d8!!",
         "UID": "50010000018356",
         "TitleID": "00040000000FD700",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ACHK"
     },
     {
@@ -1641,7 +1648,7 @@
         "Name": "\ub8e8\uc774\uc9c0 \ub9e8\uc158 \ub2e4\ud06c \ubb38",
         "UID": "50010000015153",
         "TitleID": "00040000000CFF00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AGGK"
     },
     {
@@ -1683,7 +1690,7 @@
         "Name": "\uba54\uc774\ud50c\uc2a4\ud1a0\ub9ac \uc6b4\uba85\uc758 \uc18c\ub140",
         "UID": "50010000014031",
         "TitleID": "00040000000E6000",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-BMPK"
     },
     {
@@ -1704,7 +1711,7 @@
         "Name": "\ub9c8\ub9ac\uc624 \ud14c\ub2c8\uc2a4 \uc624\ud508",
         "UID": "50010000013991",
         "TitleID": "00040000000B8800",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AGAK"
     },
     {
@@ -1739,7 +1746,7 @@
         "Name": "\ub808\uace0 \ubc30\ud2b8\ub9e82: DC \uc288\ud37c \ud788\uc5b4\ub85c\uc988",
         "UID": "50010000013214",
         "TitleID": "00040000000C6A00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ALBK"
     },
     {
@@ -1795,7 +1802,7 @@
         "Name": "\uace4 \uc640\uad6c\uc640\uad6c \uc5b4\ub4dc\ubca4\ucc98",
         "UID": "50010000012670",
         "TitleID": "00040000000BC800",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AG7K"
     },
     {
@@ -1830,35 +1837,35 @@
         "Name": "\ubc14\uc774\uc624\ud558\uc790\ub4dc \ub808\ubc8c\ub808\uc774\uc158\uc2a4",
         "UID": "50010000012020",
         "TitleID": "000400000009FF00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ABRK"
     },
     {
         "Name": "\uc5f4\ud608\uacbd\ud30c \ucfe0\ub2c8\uc624\uad70 \uc2a4\ud398\uc15c",
         "UID": "50010000012041",
         "TitleID": "000400000009CF00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AK9K"
     },
     {
         "Name": "\uc2a4\ud0c0\ud3ed\uc2a4 64 3D",
         "UID": "50010000011666",
         "TitleID": "0004000000080E00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ANRK"
     },
     {
         "Name": "\uc288\ud37c \ud3ec\ucf13\ubaac \ub300\uaca9\ub3cc",
         "UID": "50010000010946",
         "TitleID": "000400000009AA00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ACCK"
     },
     {
         "Name": "\ub9c8\ub9ac\uc624\uc640 \uc18c\ub2c9 \ub7f0\ub358 \uc62c\ub9bc\ud53d\u2122",
         "UID": "50010000010526",
         "TitleID": "0004000000053500",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ACMK"
     },
     {
@@ -1886,14 +1893,14 @@
         "Name": "\uc804\uad6d\ubbfc \ubaa8\ub378\u2605\uc624\ub514\uc158 \uc288\ud37c\uc2a4\ud0c0 2",
         "UID": "50010000010291",
         "TitleID": "0004000000091F00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ANLK"
     },
     {
         "Name": "\ucca0\uad8c 3D \ud504\ub77c\uc784 \uc5d0\ub514\uc158",
         "UID": "50010000010292",
         "TitleID": "0004000000091E00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ATKK"
     },
     {
