@@ -60,7 +60,7 @@ for file in files:
         <tr data-name="{0}">
             <td>{1}</td>
             <td>
-                <a href="https://api.qrserver.com/v1/create-qr-code/?data={2}">
+                <a target="_blank" rel="noopener noreferrer" href="https://api.qrserver.com/v1/create-qr-code/?data={2}">
                     <img src="images/qrstock.png" class="qrstock">
                 </a>
             </td>

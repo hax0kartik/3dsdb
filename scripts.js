@@ -24,7 +24,7 @@ const getJSON = (path, region) => {
         for(let i = 0; i < text.length; i++)
         {
           var link = "https://api.qrserver.com/v1/create-qr-code/?data=ESHOP://" + text[i][col[1]];
-          var qr = `<a href="${link}"><img src="images/qrstock.png" height=46 width=46></img>`;
+          var qr = `<a target="_blank" rel="noopener noreferrer" href="${link}"><img src="images/qrstock.png" height=46 width=46></img>`;
           t.row.add([
             text[i][col[0]],
             qr,
