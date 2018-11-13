@@ -1,10 +1,31 @@
 [
     {
+        "Name": "RTO 2",
+        "UID": "50010000047076",
+        "TitleID": "00040000001D7200",
+        "Size": "97.37 MB [779 blocks]",
+        "Product Code": "CTR-N-BR2P"
+    },
+    {
+        "Name": "Breakout Defense 2",
+        "UID": "50010000047035",
+        "TitleID": "00040000001D7800",
+        "Size": "61.53 MB [492 blocks]",
+        "Product Code": "CTR-N-BE2P"
+    },
+    {
         "Name": "Insect Planet TD",
         "UID": "50010000047036",
         "TitleID": "00040000001D5700",
         "Size": "32.5 MB [260 blocks]",
         "Product Code": "CTR-N-LPLP"
+    },
+    {
+        "Name": "Pinball Breakout 2",
+        "UID": "50010000047038",
+        "TitleID": "00040000001D5000",
+        "Size": "73.81 MB [590 blocks]",
+        "Product Code": "CTR-N-BRKP"
     },
     {
         "Name": "Petite Zombies",
