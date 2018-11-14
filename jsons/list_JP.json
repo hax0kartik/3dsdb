@@ -1,5 +1,26 @@
 [
     {
+        "Name": "\u30da\u30eb\u30bd\u30caQ2 \u30cb\u30e5\u30fc \u30b7\u30cd\u30de \u30e9\u30d3\u30ea\u30f3\u30b9",
+        "UID": "50010000045297",
+        "TitleID": "00040000001CBE00",
+        "Size": "2.66 GB [21782 blocks]",
+        "Product Code": "CTR-N-AQ2J"
+    },
+    {
+        "Name": "\u30cd\u30b3\u30fb\u30c8\u30e2",
+        "UID": "50010000046475",
+        "TitleID": "00040000001D0B00",
+        "Size": "431.12 MB [3449 blocks]",
+        "Product Code": "CTR-N-BNFJ"
+    },
+    {
+        "Name": "\u66f4\u65b0\u30c7\u30fc\u30bf Ver.1.1 \u30da\u30eb\u30bd\u30caQ2 \u30cb\u30e5\u30fc \u30b7\u30cd\u30de \u30e9\u30d3\u30ea\u30f3\u30b9",
+        "UID": "50010000047115",
+        "TitleID": "0004000E001CBE00",
+        "Size": "41.49 MB [332 blocks]",
+        "Product Code": "CTR-U-AQ2J"
+    },
+    {
         "Name": "\u30eb\u30a4\u30fc\u30b8\u30de\u30f3\u30b7\u30e7\u30f3",
         "UID": "50010000046735",
         "TitleID": "00040000001D1800",
@@ -1760,7 +1781,7 @@
         "Name": "\u30cf\u30b3\u30dc\u30fc\u30a4\uff01 \u30cf\u30b3\u3065\u3081\uff22\uff2f\uff38",
         "UID": "50010000042229",
         "TitleID": "00040000001AD400",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-BC2J"
     },
     {
@@ -2901,7 +2922,7 @@
         "Name": "\u84bc\u304d\u96f7\u9706 \u30ac\u30f3\u30f4\u30a9\u30eb\u30c8 \u30b9\u30c8\u30e9\u30a4\u30ab\u30fc\u30d1\u30c3\u30af",
         "UID": "50010000041168",
         "TitleID": "000400000019E700",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-BG8J"
     },
     {
@@ -3328,7 +3349,7 @@
         "Name": "\u9ad8\u5186\u5bfa\u5973\u5b50\u30b5\u30c3\u30ab\u30fc3 \uff5e\u604b\u3059\u308b \u30a4\u30ec\u30d6\u30f3 \u3044\u3064\u304b\u306f\u30d8\u30d6\u30f3\uff5e",
         "UID": "50010000040540",
         "TitleID": "0004000000152C00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-BKJJ"
     },
     {
@@ -3636,14 +3657,14 @@
         "Name": "SIMPLE\u30b7\u30ea\u30fc\u30ba for 3DS Vol.2 THE\u5bc6\u5ba4\u304b\u3089\u306e\u8131\u51fa \u30a2\u30fc\u30ab\u30a4\u30d6\u30b91",
         "UID": "50010000039856",
         "TitleID": "000400000018E200",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-BYEJ"
     },
     {
         "Name": "SIMPLE\u30b7\u30ea\u30fc\u30ba for 3DS Vol.3 THE\u5bc6\u5ba4\u304b\u3089\u306e\u8131\u51fa \u30a2\u30fc\u30ab\u30a4\u30d6\u30b92",
         "UID": "50010000039857",
         "TitleID": "000400000018FE00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-BP3J"
     },
     {
@@ -4336,7 +4357,7 @@
         "Name": "\u307c\u304f\u306f\u822a\u7a7a\u7ba1\u5236\u5b98 \u30a8\u30a2\u30dd\u30fc\u30c8 \u30d2\u30fc\u30ed\u30fc3D \u95a2\u7a7a ALL STARS",
         "UID": "50010000038675",
         "TitleID": "000400000017D400",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-BPKJ"
     },
     {
@@ -4406,7 +4427,7 @@
         "Name": "\u30a2\u30ca\u3068\u96ea\u306e\u5973\u738b \u30aa\u30e9\u30d5\u306e\u8d08\u308a\u3082\u306e",
         "UID": "50010000037935",
         "TitleID": "0004000000172100",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AEHJ"
     },
     {
@@ -4546,7 +4567,7 @@
         "Name": "PROJECT X ZONE 2: BRAVE NEW WORLD OGSG",
         "UID": "50010000037716",
         "TitleID": "000400000014FC00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-BXPJ"
     },
     {
@@ -4924,7 +4945,7 @@
         "Name": "\u30a2\u30c8\u30ea\u30a8 \u30c7\u30b3 \u30e9 \u30c9\u30fc\u30eb \u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
         "UID": "50010000035796",
         "TitleID": "0004000000154D00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AULJ"
     },
     {
@@ -5554,7 +5575,7 @@
         "Name": "\u307c\u304f\u306f\u822a\u7a7a\u7ba1\u5236\u5b98 \u30a8\u30a2\u30dd\u30fc\u30c8 \u30d2\u30fc\u30ed\u30fc3D \u7fbd\u7530 ALL STARS",
         "UID": "50010000032396",
         "TitleID": "0004000000166900",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-BKAJ"
     },
     {
@@ -6436,7 +6457,7 @@
         "Name": "\u307c\u304f\u306f\u822a\u7a7a\u7ba1\u5236\u5b98 \u30a8\u30a2\u30dd\u30fc\u30c8 \u30d2\u30fc\u30ed\u30fc3D \u6210\u7530 ALL STARS",
         "UID": "50010000028216",
         "TitleID": "0004000000154E00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-BNAJ"
     },
     {
@@ -6779,7 +6800,7 @@
         "Name": "\u30a2\u30f3\u30d1\u30f3\u30de\u30f3\u3068\u30bf\u30c3\u30c1\u3067\u308f\u304f\u308f\u304f\u30c8\u30ec\u30fc\u30cb\u30f3\u30b0",
         "UID": "50010000024875",
         "TitleID": "0004000000143200",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-BWTJ"
     },
     {
@@ -6849,21 +6870,21 @@
         "Name": "\u304a\u3055\u308f\u308a\u63a2\u5075 \u5c0f\u6ca2\u91cc\u5948 \u306a\u3081\u3053\u30ea\u30ba\u30e0",
         "UID": "50010000025735",
         "TitleID": "000400000012FE00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-BSLJ"
     },
     {
         "Name": "\u30c7\u30a3\u30b9\u30af\uff65\u30a6\u30a9\u30fc\u30ba:\u30a2\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba \u30a2\u30eb\u30c6\u30a3\u30e1\u30c3\u30c8\u30d2\u30fc\u30ed\u30fc\u30ba",
         "UID": "50010000026377",
         "TitleID": "0004000000120A00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AVNJ"
     },
     {
         "Name": "\u30a8\u30eb\u30df\u30ca\u30fc\u30b8\u30e5\u7570\u805e \u30a2\u30e1\u30ce\u30df\u30cf\u30b7\u30e9\uff65\u602a",
         "UID": "50010000026380",
         "TitleID": "0004000000118200",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-BAMJ"
     },
     {
@@ -7850,7 +7871,7 @@
         "Name": "\u719f\u8a9e \u901f\u5f15\u8f9e\u5178",
         "UID": "50010000020778",
         "TitleID": "0004000000115300",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AJXJ"
     },
     {
@@ -7948,7 +7969,7 @@
         "Name": "\u6606\u866b\u30e2\u30f3\u30b9\u30bf\u30fc \u30b9\u30fc\u30d1\u30fc\u30d0\u30c8\u30eb",
         "UID": "50010000022875",
         "TitleID": "0004000000138100",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-BUXJ"
     },
     {
@@ -8319,7 +8340,7 @@
         "Name": "Maple Story \u904b\u547d\u306e\u5c11\u5973",
         "UID": "50010000021438",
         "TitleID": "0004000000111600",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-BMPJ"
     },
     {
@@ -8760,7 +8781,7 @@
         "Name": "\u8d85\u4eba\u30a6\u30eb\u30c8\u30e9\u30d9\u30fc\u30b9\u30dc\u30fc\u30eb \u30a2\u30af\u30b7\u30e7\u30f3\u30ab\u30fc\u30c9\u30d0\u30c8\u30eb",
         "UID": "50010000020536",
         "TitleID": "0004000000124900",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-BUBJ"
     },
     {
@@ -8816,7 +8837,7 @@
         "Name": "\u30a2\u30f3\u30d1\u30f3\u30de\u30f3\u3068\u3042\u305d\u307c NEW\u3042\u3044\u3046\u3048\u304a\u6559\u5ba4",
         "UID": "50010000020533",
         "TitleID": "00040000000C8F00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AEWJ"
     },
     {
@@ -9712,7 +9733,7 @@
         "Name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30a4\u30f3\u30d5\u30a3\u30cb\u30c6\u30a3 \u30c8\u30a4\uff65\u30dc\u30c3\u30af\u30b9\uff65\u30c1\u30e3\u30ec\u30f3\u30b8",
         "UID": "50010000017460",
         "TitleID": "0004000000111700",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ADYJ"
     },
     {
@@ -9747,7 +9768,7 @@
         "Name": "\u30d7\u30ea\u30c6\u30a3\u30fc\u30ea\u30ba\u30e0\u30ec\u30a4\u30f3\u30dc\u30fc\u30e9\u30a4\u30d6 \u304d\u3089\u304d\u3089\u30de\u30a4\u2606\u30c7\u30b6\u30a4\u30f3",
         "UID": "50010000017803",
         "TitleID": "0004000000105400",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-BP2J"
     },
     {
@@ -9999,14 +10020,14 @@
         "Name": "\u30d0\u30f3\u30c0\u30a4\u30ca\u30e0\u30b3\u30b2\u30fc\u30e0\u30b9 PRESENTS J\u30ec\u30b8\u30a7\u30f3\u30c9\u5217\u4f1d",
         "UID": "50010000017034",
         "TitleID": "0004000000105300",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-BNGJ"
     },
     {
         "Name": "\u30ad\u30e3\u30e9\u30da\u30c3\u30c8 \u3064\u304f\u3063\u3066!\u305d\u3060\u3066\u3066! \u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u5c0f\u5b66\u6821",
         "UID": "50010000017395",
         "TitleID": "0004000000106700",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-BKPJ"
     },
     {
@@ -10076,7 +10097,7 @@
         "Name": "Starry\u2606Sky\uff5ein Winter\uff5e3D",
         "UID": "50010000016521",
         "TitleID": "00040000000EE500",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AX7J"
     },
     {
@@ -10447,7 +10468,7 @@
         "Name": "Starry\u2606Sky\uff5ein Autumn\uff5e3D",
         "UID": "50010000015298",
         "TitleID": "00040000000EE400",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AX6J"
     },
     {
@@ -10594,14 +10615,14 @@
         "Name": "\u307c\u304f\u306f\u822a\u7a7a\u7ba1\u5236\u5b98 \u30a8\u30a2\u30dd\u30fc\u30c8 \u30d2\u30fc\u30ed\u30fc3D \u90a3\u8987 PREMIUM",
         "UID": "50010000015135",
         "TitleID": "00040000000EE200",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AX5J"
     },
     {
         "Name": "SIMPLE\u30b7\u30ea\u30fc\u30ba for \u30cb\u30f3\u30c6\u30f3\u30c9\u30fc3DS Vol.1 THE \u9ebb\u96c0",
         "UID": "50010000015296",
         "TitleID": "00040000000DBD00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AAUJ"
     },
     {
@@ -10727,7 +10748,7 @@
         "Name": "\u307b\u3063\u307a\u3061\u3083\u3093 \u3064\u304f\u3063\u3066!\u3042\u305d\u3093\u3067! \u3077\u306b\u3077\u306b\u30bf\u30a6\u30f3!!",
         "UID": "50010000015014",
         "TitleID": "00040000000D8E00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-BHPJ"
     },
     {
@@ -10825,7 +10846,7 @@
         "Name": "\u30b9\u30ab\u30a4\u30e9\u30f3\u30c0\u30fc\u30ba \u30b9\u30d1\u30a4\u30ed\u306e\u5927\u5192\u967a",
         "UID": "50010000014897",
         "TitleID": "00040000000EB500",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ASPJ"
     },
     {
@@ -10986,7 +11007,7 @@
         "Name": "Starry\u2606Sky\uff5ein Summer\uff5e3D",
         "UID": "50010000014533",
         "TitleID": "00040000000E9D00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AZPJ"
     },
     {
@@ -11301,7 +11322,7 @@
         "Name": "\u306c\u3044\u3050\u308b\u307f\u306e\u30b1\u30fc\u30ad\u5c4b\u3055\u3093 \uff5e\u9b54\u6cd5\u306e\u30d1\u30c6\u30a3\u30b7\u30a8\u30fc\u30eb\uff5e",
         "UID": "50010000014316",
         "TitleID": "00040000000DC600",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AWCJ"
     },
     {
@@ -11427,7 +11448,7 @@
         "Name": "Starry\u2606Sky\uff5ein Spring\uff5e3D",
         "UID": "50010000013639",
         "TitleID": "00040000000DBB00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AAXJ"
     },
     {
@@ -11777,7 +11798,7 @@
         "Name": "\u30d7\u30ea\u30c6\u30a3\u30fc\u30ea\u30ba\u30e0 \u30de\u30a4\u2606\u30c7\u30b3\u30ec\u30a4\u30f3\u30dc\u30fc\u30a6\u30a8\u30c7\u30a3\u30f3\u30b0",
         "UID": "50010000013425",
         "TitleID": "00040000000C0300",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-APTJ"
     },
     {
@@ -11882,7 +11903,7 @@
         "Name": "\u307f\u3093\u306a\u3067\u30aa\u30fc\u30c8\u30ec\u30fc\u30b93D",
         "UID": "50010000013275",
         "TitleID": "000400000006AC00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ARCJ"
     },
     {
@@ -11959,7 +11980,7 @@
         "Name": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb\u30d2\u30fc\u30ed\u30fc\u30ba \u30a2\u30eb\u30c6\u30a3\u30e1\u30c3\u30c8\u30df\u30c3\u30b7\u30e7\u30f3",
         "UID": "50010000013138",
         "TitleID": "00040000000AD900",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ADGJ"
     },
     {
@@ -12071,7 +12092,7 @@
         "Name": "\u30d1\u30c1\u30d1\u30e93D \u30c7\u30e9\u30c3\u30af\u30b9\u6d77\u7269\u8a9e",
         "UID": "50010000013016",
         "TitleID": "00040000000C3B00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AU9J"
     },
     {
@@ -12358,7 +12379,7 @@
         "Name": "\u30a2\u30af\u30ea\u30eb\u30d1\u30ec\u30c3\u30c8 \uff5e\u5f69\u308a\u30ab\u30d5\u30a7\uff65Cheers\uff5e",
         "UID": "50010000012594",
         "TitleID": "00040000000BB900",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AYDJ"
     },
     {
@@ -12372,7 +12393,7 @@
         "Name": "\u304a\u3057\u3054\u3068\u30c6\u30fc\u30de\u30d1\u30fc\u30af2",
         "UID": "50010000012735",
         "TitleID": "00040000000C2500",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AWKJ"
     },
     {
@@ -12456,14 +12477,14 @@
         "Name": "\u30aa\u30ec\u69d8\u30ad\u30f3\u30b0\u30c0\u30e0 \u30a4\u30b1\u30e1\u30f3\u5f7c\u6c0f\u3092\u30b2\u30c3\u30c8\u3057\u3088!",
         "UID": "50010000012587",
         "TitleID": "00040000000B6C00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AK7J"
     },
     {
         "Name": "\u30c8\u30ea\u30b3 \u30b0\u30eb\u30e1\u30e2\u30f3\u30b9\u30bf\u30fc\u30ba!",
         "UID": "50010000012590",
         "TitleID": "00040000000ACA00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AT6J"
     },
     {
@@ -12617,7 +12638,7 @@
         "Name": "NARUTO-\u30ca\u30eb\u30c8-SD \u30d1\u30ef\u30d5\u30eb\u75be\u98a8\u4f1d",
         "UID": "50010000012429",
         "TitleID": "00040000000AFE00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AN4J"
     },
     {
@@ -12673,14 +12694,14 @@
         "Name": "\u3067\u3093\u3062\u3083\u3089\u3059\u3058\u30fc\u3055\u3093\u30681000\u4eba\u306e\u304a\u53cb\u3060\u3061\u90aa",
         "UID": "50010000012308",
         "TitleID": "00040000000B3800",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ADZJ"
     },
     {
         "Name": "\u304a\u3046\u3061\u307e\u3044\u306b\u3061 \u305f\u307e\u3054\u3063\u3061",
         "UID": "50010000012428",
         "TitleID": "00040000000A1A00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AQCJ"
     },
     {
@@ -12708,7 +12729,7 @@
         "Name": "\u30a2\u30a4\u30ab\u30c4!\u30b7\u30f3\u30c7\u30ec\u30e9\u30ec\u30c3\u30b9\u30f3",
         "UID": "50010000012196",
         "TitleID": "00040000000A7800",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AEKJ"
     },
     {
@@ -12771,7 +12792,7 @@
         "Name": "\u30b8\u30e5\u30a8\u30eb\u30da\u30c3\u30c8 \u9b54\u6cd5\u3067\u304a\u3057\u3083\u308c\u306b\u30c0\u30f3\u30b9\u2606\u30c7\u30b3\uff5e!",
         "UID": "50010000012107",
         "TitleID": "00040000000A7B00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AJYJ"
     },
     {
@@ -12974,14 +12995,14 @@
         "Name": "PROJECT X ZONE",
         "UID": "50010000011772",
         "TitleID": "0004000000073900",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AXXJ"
     },
     {
         "Name": "\u30cf\u30ed\u30fc\u30ad\u30c6\u30a3\u3068\u3044\u3063\u3057\u3087! \u30d6\u30ed\u30c3\u30af\u30af\u30e9\u30c3\u30b7\u30e5Z",
         "UID": "50010000011949",
         "TitleID": "00040000000AB300",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AHZJ"
     },
     {
@@ -13044,14 +13065,14 @@
         "Name": "\u54ed\u7259 KOKUGA",
         "UID": "50010000011636",
         "TitleID": "00040000000A8C00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AK8J"
     },
     {
         "Name": "\u3061\u3073\u2606\u30c7\u30d3!",
         "UID": "50010000011771",
         "TitleID": "00040000000A1E00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AD8J"
     },
     {
@@ -13163,7 +13184,7 @@
         "Name": "\u30d1\u30c1\u30d1\u30e93D \u5927\u6d77\u7269\u8a9e2 With \u30a2\u30b0\u30cd\u30b9\uff65\u30e9\u30e0",
         "UID": "50010000011629",
         "TitleID": "00040000000ACD00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AU2J"
     },
     {
@@ -13331,14 +13352,14 @@
         "Name": "\u30de\u30c0\u30ac\u30b9\u30ab\u30eb3",
         "UID": "50010000010995",
         "TitleID": "00040000000AB700",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AMCJ"
     },
     {
         "Name": "\u30b9\u30de\u30a4\u30eb\u30d7\u30ea\u30ad\u30e5\u30a2! \u30ec\u30c3\u30c4\u30b4\u30fc!\u30e1\u30eb\u30d8\u30f3\u30ef\u30fc\u30eb\u30c9",
         "UID": "50010000010996",
         "TitleID": "0004000000090D00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-APQJ"
     },
     {
@@ -13387,14 +13408,14 @@
         "Name": "\u6d1e\u7a9f\u7269\u8a9e3D",
         "UID": "50010000010870",
         "TitleID": "0004000000084C00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ACVJ"
     },
     {
         "Name": "\u3053\u3073\u3068\u3065\u304b\u3093 \u3053\u3073\u3068\u89b3\u5bdf\u30bb\u30c3\u30c8",
         "UID": "50010000010873",
         "TitleID": "0004000000095B00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AKVJ"
     },
     {
@@ -13443,7 +13464,7 @@
         "Name": "\u30ec\u30a4\u30de\u30f3 \u30aa\u30ea\u30b8\u30f3",
         "UID": "50010000010554",
         "TitleID": "0004000000084400",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ARMJ"
     },
     {
@@ -13576,7 +13597,7 @@
         "Name": "\u30cf\u30ed\u30fc\u30ad\u30c6\u30a3\u3068\u305b\u304b\u3044\u308a\u3087\u3053\u3046! \u3044\u308d\u3093\u306a\u304f\u306b\u3078 \u304a\u3067\u304b\u3051\u3057\u307e\u3057\u3087!",
         "UID": "50010000010428",
         "TitleID": "0004000000080700",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AHKJ"
     },
     {
@@ -13597,14 +13618,14 @@
         "Name": "HEAVY FIRE THE CHOSEN FEW",
         "UID": "50010000010380",
         "TitleID": "000400000009CC00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AHVJ"
     },
     {
         "Name": "\u30b4\u30f3 \u30d0\u30af\u30d0\u30af\u30d0\u30af\u30d0\u30af\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc",
         "UID": "50010000010381",
         "TitleID": "0004000000074700",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AG7J"
     },
     {
@@ -13639,7 +13660,7 @@
         "Name": "GUILD01",
         "UID": "50010000010367",
         "TitleID": "0004000000082900",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AG9J"
     },
     {
@@ -13688,21 +13709,21 @@
         "Name": "\u30cf\u30c3\u30d4\u30fc\u2606\u30a2\u30cb\u30de\u30eb\u7267\u5834",
         "UID": "50010000010079",
         "TitleID": "0004000000078600",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AFMJ"
     },
     {
         "Name": "\u307f\u3093\u306a\u306e\u7e01\u65e5",
         "UID": "50010000010323",
         "TitleID": "000400000004BF00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AENJ"
     },
     {
         "Name": "G1\u30b0\u30e9\u30f3\u30d7\u30ea",
         "UID": "50010000010324",
         "TitleID": "000400000004B700",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AHTJ"
     },
     {
@@ -13723,7 +13744,7 @@
         "Name": "\u30d1\u30c1\u30d1\u30e93D \u5927\u6d77\u7269\u8a9e2",
         "UID": "50010000010026",
         "TitleID": "0004000000089700",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AU3J"
     },
     {
@@ -13828,35 +13849,35 @@
         "Name": "NANO ASSAULT",
         "UID": "50010000009741",
         "TitleID": "000400000008D400",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AN3J"
     },
     {
         "Name": "Earthpedia(\u30a2\u30fc\u30b9\u30da\u30c7\u30a3\u30a2)",
         "UID": "50010000009742",
         "TitleID": "000400000005A000",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AEPJ"
     },
     {
         "Name": "\u30ac\u30fc\u30eb\u30ba\u30d5\u30a1\u30c3\u30b7\u30e7\u30f33D\u2606 \u3081\u3056\u305b!\u30c8\u30c3\u30d7\u30b9\u30bf\u30a4\u30ea\u30b9\u30c8",
         "UID": "50010000009743",
         "TitleID": "0004000000065D00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AGUJ"
     },
     {
         "Name": "\u3061\u3087\uff5e\u308a\u3063\u3061! \u305f\u307e\u3054\u3063\u3061\u306e\u30d7\u30c1\u30d7\u30c1\u304a\u307f\u305b\u3063\u3061",
         "UID": "50010000009766",
         "TitleID": "0004000000056700",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AT5J"
     },
     {
         "Name": "CODE OF PRINCESS",
         "UID": "50010000009866",
         "TitleID": "0004000000068000",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AC7J"
     },
     {
@@ -13919,7 +13940,7 @@
         "Name": "KINGDOM HEARTS 3D [Dream Drop Distance]",
         "UID": "50010000009462",
         "TitleID": "000400000004EE00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AKHJ"
     },
     {
@@ -13933,14 +13954,14 @@
         "Name": "\u30d1\u30c3\u30af\u30de\u30f3\u30d1\u30fc\u30c6\u30a3 3D",
         "UID": "50010000009463",
         "TitleID": "0004000000056900",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AP9J"
     },
     {
         "Name": "\u59eb\u30ae\u30e3\u30eb\u2665\u30d1\u30e9\u30c0\u30a4\u30b9 \u30e1\u30c1\u30ab\u30ef! \u30a2\u30b2\u76db\u308a\u2191\u30bb\u30f3\u30bb\u30fc\u30b7\u30e7\u30f3!",
         "UID": "50010000009564",
         "TitleID": "000400000006DB00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AHGJ"
     },
     {
@@ -13975,7 +13996,7 @@
         "Name": "\u5973\u306e\u5b50\u3068\u5bc6\u5ba4\u306b\u3044\u305f\u3089 \u25cb\u25cb\u3057\u3061\u3083\u3046\u304b\u3082\u3057\u308c\u306a\u3044\u3002",
         "UID": "50010000009562",
         "TitleID": "0004000000059E00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AWMJ"
     },
     {
@@ -14038,7 +14059,7 @@
         "Name": "\u521d\u97f3\u30df\u30af and Future Stars Project mirai",
         "UID": "50010000009084",
         "TitleID": "0004000000048000",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AM9J"
     },
     {
@@ -14052,7 +14073,7 @@
         "Name": "\u30c9\u30e9\u3048\u3082\u3093 \u306e\u3073\u592a\u3068\u5947\u8de1\u306e\u5cf6 \uff5e\u30a2\u30cb\u30de\u30eb \u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc\uff5e",
         "UID": "50010000009083",
         "TitleID": "0004000000081200",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AA2J"
     },
     {
@@ -14073,7 +14094,7 @@
         "Name": "\u30ca\u30a4\u30c8\u30e1\u30a2\u30d1\u30ba\u30eb \u30af\u30e9\u30c3\u30b7\u30e53D",
         "UID": "50010000009002",
         "TitleID": "000400000004CB00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ACRJ"
     },
     {
@@ -14101,21 +14122,21 @@
         "Name": "THEATRHYTHM FINAL FANTASY",
         "UID": "50010000008648",
         "TitleID": "0004000000078200",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ATHJ"
     },
     {
         "Name": "\u6975\u9650\u8131\u51faADV \u5584\u4eba\u30b7\u30dc\u30a6\u30c7\u30b9",
         "UID": "50010000008862",
         "TitleID": "000400000005DE00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AKGJ"
     },
     {
         "Name": "\u9244\u62f33D \u30d7\u30e9\u30a4\u30e0\u30a8\u30c7\u30a3\u30b7\u30e7\u30f3",
         "UID": "50010000008981",
         "TitleID": "0004000000069F00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ATKJ"
     },
     {
@@ -14157,7 +14178,7 @@
         "Name": "\u30d5\u30a3\u30c3\u30b7\u30f3\u30b03D",
         "UID": "50010000008721",
         "TitleID": "0004000000043F00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AFDJ"
     },
     {
@@ -14171,7 +14192,7 @@
         "Name": "\u30ba\u30fc\u30ad\u30fc\u30d1\u30fc3D",
         "UID": "50010000008446",
         "TitleID": "0004000000051A00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AZKJ"
     },
     {
@@ -14199,7 +14220,7 @@
         "Name": "\u30e9\u30d3\u30ea\u30f3\u30b9\u306e\u5f7c\u65b9",
         "UID": "50010000008122",
         "TitleID": "0004000000065C00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ALVJ"
     },
     {
@@ -14220,21 +14241,21 @@
         "Name": "\u30bf\u30f3\u30bf\u30f3\u306e\u5192\u967a \u2605\u30e6\u30cb\u30b3\u30fc\u30f3\u53f7\u306e\u79d8\u5bc6\u2605",
         "UID": "50010000008033",
         "TitleID": "0004000000064500",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ATNJ"
     },
     {
         "Name": "\u30a8\u30fc\u30b9\u30b3\u30f3\u30d0\u30c3\u30c8 3D \u30af\u30ed\u30b9\u30e9\u30f3\u30d6\u30eb",
         "UID": "50010000008121",
         "TitleID": "0004000000064700",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AC3J"
     },
     {
         "Name": "\u5fc3\u970a\u30ab\u30e1\u30e9 \uff5e\u6191\u3044\u3066\u308b\u624b\u5e33\uff5e",
         "UID": "50010000008401",
         "TitleID": "0004000000040300",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ALCJ"
     },
     {
@@ -14297,14 +14318,14 @@
         "Name": "SD\u30ac\u30f3\u30c0\u30e0 GGENERATION 3D",
         "UID": "50010000007994",
         "TitleID": "0004000000071A00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AGJJ"
     },
     {
         "Name": "F1 2011",
         "UID": "50010000008024",
         "TitleID": "0004000000067B00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AF4J"
     },
     {
@@ -14332,14 +14353,14 @@
         "Name": "\u3077\u3088\u3077\u3088!!",
         "UID": "50010000007992",
         "TitleID": "0004000000056600",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AP2J"
     },
     {
         "Name": "\u30da\u30f3\u30ae\u30f3\u306e\u554f\u984c \u30b6\u30fb\u30a6\u30a9\u30fc\u30ba",
         "UID": "50010000008025",
         "TitleID": "0004000000053600",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AP5J"
     },
     {
@@ -14360,14 +14381,14 @@
         "Name": "\u30cb\u30fc\u30c9\uff65\u30d5\u30a9\u30fc\uff65\u30b9\u30d4\u30fc\u30c9 \u30b6\uff65\u30e9\u30f3",
         "UID": "50010000007927",
         "TitleID": "000400000006E200",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ANSJ"
     },
     {
         "Name": "\u30ef\u30fc\u30eb\u30c9\u30b5\u30c3\u30ab\u30fc \u30a6\u30a4\u30cb\u30f3\u30b0\u30a4\u30ec\u30d6\u30f3 2012",
         "UID": "50010000007930",
         "TitleID": "0004000000059F00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AE2J"
     },
     {
@@ -14388,14 +14409,14 @@
         "Name": "\u30af\u30ec\u30e8\u30f3\u3057\u3093\u3061\u3083\u3093 \u5b87\u5b99DE \u30a2\u30c1\u30e7\u30fc!? \u53cb\u60c5\u306e\u304a\u30d0\u30ab\u30e9\u30c6!!",
         "UID": "50010000007929",
         "TitleID": "0004000000071F00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ACHJ"
     },
     {
         "Name": "\u304a\u8336\u72ac\u3068\u3044\u3064\u3082\u306a\u304b\u3088\u3057",
         "UID": "50010000007988",
         "TitleID": "000400000004BE00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AE3J"
     },
     {
@@ -14416,21 +14437,21 @@
         "Name": "\u8584\u685c\u9b3c 3D",
         "UID": "50010000007756",
         "TitleID": "000400000005DD00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AH9J"
     },
     {
         "Name": "FabStyle",
         "UID": "50010000007869",
         "TitleID": "0004000000071D00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AFVJ"
     },
     {
         "Name": "\u30d1\u30c1\u30d1\u30e93D \u30d7\u30ec\u30df\u30a2\u30e0\u6d77\u7269\u8a9e \uff5e\u5922\u898b\u308b\u4e59\u5973\u3068\u30d1\u30c1\u30f3\u30b3\u738b\u6c7a\u5b9a\u6226\uff5e",
         "UID": "50010000007925",
         "TitleID": "0004000000073800",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AUMJ"
     },
     {
@@ -14451,7 +14472,7 @@
         "Name": "Shinobi 3D",
         "UID": "50010000007755",
         "TitleID": "0004000000065F00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ASVJ"
     },
     {
@@ -14472,14 +14493,14 @@
         "Name": "\u30c9\u30e9\u30a4\u30d0\u30fc\uff1a\u30ec\u30cd\u30b2\u30a4\u30c9 3D",
         "UID": "50010000007605",
         "TitleID": "000400000004F000",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ADRJ"
     },
     {
         "Name": "\u30b8\u30e5\u30a8\u30eb\u30da\u30c3\u30c8 \u9b54\u6cd5\u306e\u30ea\u30ba\u30e0\u3067\u30a4\u30a7\u30a4\u30c3!",
         "UID": "50010000007665",
         "TitleID": "0004000000060800",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AJPJ"
     },
     {
@@ -14493,28 +14514,28 @@
         "Name": "AZITO 3D",
         "UID": "50010000007663",
         "TitleID": "0004000000064600",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AZTJ"
     },
     {
         "Name": "\u30c9\u30c3\u30b0\u30b9\u30af\u30fc\u30eb \u30e9\u30d6\u30ea\u30fc\u30d1\u30d4\u30fc",
         "UID": "50010000007664",
         "TitleID": "000400000004D400",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-APYJ"
     },
     {
         "Name": "nicola\u76e3\u4fee \u30e2\u30c7\u30eb\u2606\u304a\u3057\u3083\u308c\u30aa\u30fc\u30c7\u30a3\u30b7\u30e7\u30f3 2",
         "UID": "50010000007666",
         "TitleID": "0004000000065700",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ANLJ"
     },
     {
         "Name": "\u30b9\u30e9\u30a4\u30e0\u3082\u308a\u3082\u308a \u30c9\u30e9\u30b4\u30f3\u30af\u30a8\u30b9\u30c83",
         "UID": "50010000007603",
         "TitleID": "000400000005C300",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AMRJ"
     },
     {
@@ -14535,14 +14556,14 @@
         "Name": "\u8c46\u3057\u3070",
         "UID": "50010000007602",
         "TitleID": "0004000000053D00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AMEJ"
     },
     {
         "Name": "\u52c7\u73fe\u4f1a\u793e\u30d6\u30ec\u30a4\u30d6\u30ab\u30f3\u30d1\u30cb\u30fc",
         "UID": "50010000007604",
         "TitleID": "0004000000065600",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AYGJ"
     },
     {
@@ -14633,7 +14654,7 @@
         "Name": "\u30b9\u30fc\u30d1\u30fc\u30d6\u30e9\u30c3\u30af\u30d0\u30b9 3D\u30d5\u30a1\u30a4\u30c8",
         "UID": "50010000007439",
         "TitleID": "000400000004A800",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ASBJ"
     },
     {
@@ -14689,14 +14710,14 @@
         "Name": "\u30d5\u30ed\u30c3\u30ac\u30fc3D",
         "UID": "50010000007364",
         "TitleID": "0004000000053800",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AFRJ"
     },
     {
         "Name": "\u9583\u4e71\u30ab\u30b0\u30e9 -\u5c11\u5973\u9054\u306e\u771f\u5f71-",
         "UID": "50010000007367",
         "TitleID": "0004000000051B00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ABHJ"
     },
     {
@@ -14822,7 +14843,7 @@
         "Name": "\u3073\u3063\u304f\u308a!\u3068\u3073\u3060\u3059!\u9b54\u6cd5\u306e\u30da\u30f3",
         "UID": "50010000007045",
         "TitleID": "0004000000056800",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AMPJ"
     },
     {
@@ -14934,14 +14955,14 @@
         "Name": "\u3046\u3057\u307f\u3064\u30e2\u30f3\u30b9\u30c8\u30eb\u30aa \u30ea\u30f3\u30bc\u3068\u9b54\u6cd5\u306e\u30ea\u30ba\u30e0",
         "UID": "50010000006910",
         "TitleID": "0004000000046A00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AG3J"
     },
     {
         "Name": "\u30d3\u30c3\u30af\u30ea\u30de\u30f3\u6f22\u719f\u8987\u738b \u4e09\u4f4d\u52d5\u4e71\u6226\u5275\u7d00",
         "UID": "50010000006911",
         "TitleID": "0004000000039F00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AB9J"
     },
     {
@@ -14969,7 +14990,7 @@
         "Name": "\u30a2\u30f3\u30c1\u30a7\u30a4\u30f3\u30d6\u30ec\u30a4\u30ba \u30ec\u30af\u30b9",
         "UID": "50010000006745",
         "TitleID": "0004000000047F00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AUCJ"
     },
     {
@@ -15004,14 +15025,14 @@
         "Name": "\u30c9\u30af\u30bf\u30fc\u30ed\u30fc\u30c8\u30ec\u30c3\u30af\u3068 \u5fd8\u5374\u306e\u9a0e\u58eb\u56e3",
         "UID": "50010000006743",
         "TitleID": "0004000000034800",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ADLJ"
     },
     {
         "Name": "\u5263\u3068\u9b54\u6cd5\u3068\u5b66\u5712\u30e2\u30ce\u30023D",
         "UID": "50010000006761",
         "TitleID": "000400000004D800",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AKNJ"
     },
     {
@@ -15060,7 +15081,7 @@
         "Name": "\u30d1\u30c3\u30af\u30de\u30f3&\u30ae\u30e3\u30e9\u30ac \u30c7\u30a3\u30e1\u30f3\u30b7\u30e7\u30f3\u30ba",
         "UID": "50010000006744",
         "TitleID": "0004000000039900",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-APGJ"
     },
     {
@@ -15109,7 +15130,7 @@
         "Name": "FISH ON",
         "UID": "50010000006741",
         "TitleID": "000400000004B800",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AFAJ"
     },
     {
@@ -15228,21 +15249,21 @@
         "Name": "\u6570\u72ec\u30683\u3064\u306e\u30d1\u30ba\u30eb \uff5e\u30cb\u30b3\u30ea\u306e\u30d1\u30ba\u30eb\u30d0\u30e9\u30a8\u30c6\u30a3\uff5e",
         "UID": "50010000000464",
         "TitleID": "0004000000034000",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AS9J"
     },
     {
         "Name": "\u30bf\u30c3\u30c1!\u30c0\u30d6\u30eb\u30da\u30f3\u30b9\u30dd\u30fc\u30c4",
         "UID": "50010000000543",
         "TitleID": "0004000000039C00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-APPJ"
     },
     {
         "Name": "\u30ef\u30f3\u30d4\u30fc\u30b9 \u30a2\u30f3\u30ea\u30df\u30c6\u30c3\u30c9 \u30af\u30eb\u30fc\u30ba \u30b9\u30da\u30b7\u30e3\u30eb",
         "UID": "50010000000461",
         "TitleID": "0004000000047E00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ALFJ"
     },
     {
@@ -15256,14 +15277,14 @@
         "Name": "\u30b4\u30fc\u30b9\u30c8\u30ea\u30b3\u30f3 \u30b7\u30e3\u30c9\u30fc\u30a6\u30a9\u30fc",
         "UID": "50010000000343",
         "TitleID": "0004000000034600",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AGRJ"
     },
     {
         "Name": "\u30b9\u30c6\u30a3\u30fc\u30eb\u30c0\u30a4\u30d0\u30fc",
         "UID": "50010000000221",
         "TitleID": "0004000000030300",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ASDJ"
     },
     {
@@ -15277,7 +15298,7 @@
         "Name": "DECA SPORTA 3D SPORTS \uff08\u30c7\u30ab\u30b9\u30dd\u30eb\u30bf 3D\u30b9\u30dd\u30fc\u30c4\uff09",
         "UID": "50010000000321",
         "TitleID": "0004000000033700",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ADEJ"
     },
     {
@@ -15326,7 +15347,7 @@
         "Name": "\u30d7\u30ed\u91ce\u7403\u30b9\u30d4\u30ea\u30c3\u30c42011",
         "UID": "50010000000123",
         "TitleID": "0004000000034900",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-APSJ"
     },
     {
@@ -15354,28 +15375,28 @@
         "Name": "\u30b6\u30fb\u30b7\u30e0\u30ba3",
         "UID": "50010000000097",
         "TitleID": "0004000000037F00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AS3J"
     },
     {
         "Name": "\u30a6\u30a4\u30eb\u30b9\u30b7\u30e5\u30fc\u30bf\u30fcXX",
         "UID": "50010000000098",
         "TitleID": "0004000000034200",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AV4J"
     },
     {
         "Name": "NARUTO-\u30ca\u30eb\u30c8- \u75be\u98a8\u4f1d \u5fcd\u7acb\u4f53\u7d75\u5dfb! \u6700\u5f37\u5fcd\u754c\u6c7a\u6226!!",
         "UID": "50010000000099",
         "TitleID": "0004000000035B00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ANTJ"
     },
     {
         "Name": "\u30d7\u30ed\u91ce\u7403 \u30d5\u30a1\u30df\u30b9\u30bf2011",
         "UID": "50010000000162",
         "TitleID": "0004000000039600",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AFSJ"
     },
     {
@@ -15389,21 +15410,21 @@
         "Name": "\u30e9\u30d3\u30c3\u30c4 \u30bf\u30a4\u30e0\u30fb\u30c8\u30e9\u30d9\u30eb",
         "UID": "50010000000089",
         "TitleID": "0004000000034500",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ARBJ"
     },
     {
         "Name": "GUNDAM THE 3D BATTLE",
         "UID": "50010000000161",
         "TitleID": "0004000000039800",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-A78J"
     },
     {
         "Name": "Tom Clancy's \u30b9\u30d7\u30ea\u30f3\u30bf\u30fc\u30bb\u30eb 3D",
         "UID": "50010000000091",
         "TitleID": "0004000000034400",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ASCJ"
     },
     {
@@ -15424,7 +15445,7 @@
         "Name": "ASPHALT 3D\uff1aNITRO RACING  \u30a2\u30b9\u30d5\u30a1\u30eb\u30c8 3D \u30cb\u30c8\u30ed\u30ec\u30fc\u30b7\u30f3\u30b0",
         "UID": "50010000000092",
         "TitleID": "0004000000033300",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ASFJ"
     },
     {
@@ -15438,42 +15459,42 @@
         "Name": "\u4e0a\u6d773D\u30ad\u30e5\u30fc\u30d6",
         "UID": "50010000000093",
         "TitleID": "0004000000034100",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ASHJ"
     },
     {
         "Name": "\u30b9\u30fc\u30d1\u30fc\u30e2\u30f3\u30ad\u30fc\u30dc\u30fc\u30eb3D",
         "UID": "50010000000094",
         "TitleID": "0004000000032E00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ASMJ"
     },
     {
         "Name": "\u3068\u3073\u3060\u3059!\u30d1\u30ba\u30eb\u30dc\u30d6\u30eb 3D",
         "UID": "50010000000086",
         "TitleID": "0004000000032A00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ABBJ"
     },
     {
         "Name": "\u30a6\u30a4\u30cb\u30f3\u30b0\u30a4\u30ec\u30d6\u30f3 3DSoccer",
         "UID": "50010000000087",
         "TitleID": "0004000000032900",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AEEJ"
     },
     {
         "Name": "\u30ec\u30a4\u30c8\u30f3\u6559\u6388\u3068\u5947\u8de1\u306e\u4eee\u9762",
         "UID": "50010000000088",
         "TitleID": "0004000000031F00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-AKKJ"
     },
     {
         "Name": "\u30b3\u30f3\u30d0\u30c3\u30c8 \u30aa\u30d6 \u30b8\u30e3\u30a4\u30a2\u30f3\u30c8 \u30c0\u30a4\u30ca\u30bd\u30fc3D",
         "UID": "50010000000095",
         "TitleID": "0004000000032B00",
-        "Size": "0B",
+        "Size": "0B [N/A]",
         "Product Code": "CTR-P-ATTJ"
     },
     {
@@ -17533,12 +17554,5 @@
         "TitleID": "000480044B55574A",
         "Size": "5.27 MB [42 blocks]",
         "Product Code": "TWL-N-KUWJ"
-    },
-    {
-        "Name": "\u30cd\u30b3\u30fb\u30c8\u30e2",
-        "UID": "50010000046475",
-        "TitleID": "00040000001D0B00",
-        "Size": "0B",
-        "Product Code": "CTR-N-BNFJ"
     }
 ]
