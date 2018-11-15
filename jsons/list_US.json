@@ -1,5 +1,12 @@
 [
     {
+        "Name": "Pinball Breakout 2",
+        "UID": "50010000047037",
+        "TitleID": "00040000001D6400",
+        "Size": "73.76 MB [590 blocks]",
+        "Product Code": "CTR-N-BRKE"
+    },
+    {
         "Name": "Cube Creator DX",
         "UID": "50010000046435",
         "TitleID": "00040000001C7F00",
@@ -63,17 +70,17 @@
         "Product Code": "CTR-P-BG9E"
     },
     {
-        "Name": "YO-KAI WATCH\u2122 BLASTERS:  White Dog Squad Update Ver. 2.3",
+        "Name": "YO-KAI WATCH\u2122 BLASTERS:  White Dog Squad Update Ver. 2.4",
         "UID": "50010000046795",
         "TitleID": "0004000E001CEF00",
-        "Size": "367.19 MB [2938 blocks]",
+        "Size": "369.14 MB [2953 blocks]",
         "Product Code": "CTR-U-BYBE"
     },
     {
-        "Name": "YO-KAI WATCH\u2122 BLASTERS:  Red Cat Corps Update Ver. 2.3",
+        "Name": "YO-KAI WATCH\u2122 BLASTERS:  Red Cat Corps Update Ver. 2.4",
         "UID": "50010000046796",
         "TitleID": "0004000E001CEB00",
-        "Size": "366.23 MB [2930 blocks]",
+        "Size": "368.18 MB [2945 blocks]",
         "Product Code": "CTR-U-BYAE"
     },
     {
