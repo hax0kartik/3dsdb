@@ -1,5 +1,12 @@
 [
     {
+        "Name": "Japanese Rail Sim 3D  5 types of trains",
+        "UID": "50010000047039",
+        "TitleID": "00040000001D3700",
+        "Size": "1.45 GB [11908 blocks]",
+        "Product Code": "CTR-N-ATJP"
+    },
+    {
         "Name": "RTO 2",
         "UID": "50010000047076",
         "TitleID": "00040000001D7200",
@@ -66,14 +73,14 @@
         "Name": "Red Cat Corps: Update",
         "UID": "50010000046695",
         "TitleID": "0004000E001CEC00",
-        "Size": "528.87 MB [4231 blocks]",
+        "Size": "531.83 MB [4255 blocks]",
         "Product Code": "CTR-U-BYAP"
     },
     {
         "Name": "White Dog Squad: Update",
         "UID": "50010000046696",
         "TitleID": "0004000E001CF000",
-        "Size": "529.82 MB [4239 blocks]",
+        "Size": "532.79 MB [4262 blocks]",
         "Product Code": "CTR-U-BYBP"
     },
     {
