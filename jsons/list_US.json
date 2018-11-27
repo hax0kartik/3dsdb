@@ -7,6 +7,20 @@
         "Product Code": "CTR-N-ATJE"
     },
     {
+        "Name": "RTO 2",
+        "UID": "50010000047075",
+        "TitleID": "00040000001D7300",
+        "Size": "97.25 MB [778 blocks]",
+        "Product Code": "CTR-N-BR2E"
+    },
+    {
+        "Name": "Minecraft: New Nintendo 3DS  Edition Update Ver. 1.8",
+        "UID": "50010000044015",
+        "TitleID": "0004000E001B8700",
+        "Size": "526.05 MB [4208 blocks]",
+        "Product Code": "KTR-U-BD3E"
+    },
+    {
         "Name": "Pinball Breakout 2",
         "UID": "50010000047037",
         "TitleID": "00040000001D6400",
@@ -89,13 +103,6 @@
         "TitleID": "0004000E001CEB00",
         "Size": "368.18 MB [2945 blocks]",
         "Product Code": "CTR-U-BYAE"
-    },
-    {
-        "Name": "Minecraft: New Nintendo 3DS  Edition Update Ver. 1.7",
-        "UID": "50010000044015",
-        "TitleID": "0004000E001B8700",
-        "Size": "356.0 MB [2848 blocks]",
-        "Product Code": "KTR-U-BD3E"
     },
     {
         "Name": "YO-KAI WATCH\u2122  BLASTERS: <br>Red Cat Corps",
@@ -3843,7 +3850,7 @@
         "Product Code": "CTR-N-JXQE"
     },
     {
-        "Name": "Shin Megami Tensei: Devil Survivor 2: Record Breaker",
+        "Name": "Shin Megami Tensei: Devil <br>Survivor 2: Record Breaker",
         "UID": "50010000031776",
         "TitleID": "0004000000159500",
         "Size": "2.78 GB [22802 blocks]",
@@ -4592,7 +4599,7 @@
         "Product Code": "CTR-N-KFME"
     },
     {
-        "Name": "Persona Q: Shadow of the Labyrinth",
+        "Name": "Persona Q: Shadow <br>of the Labyrinth",
         "UID": "50010000027175",
         "TitleID": "0004000000123400",
         "Size": "1.73 GB [14197 blocks]",
@@ -7518,7 +7525,7 @@
         "Product Code": "CTR-N-AM5E"
     },
     {
-        "Name": "Etrian Odyssey\u2122 IV: Legends of the Titan",
+        "Name": "Etrian Odyssey\u2122 IV: <br>Legends of the Titan",
         "UID": "50010000013116",
         "TitleID": "00040000000BD300",
         "Size": "713.67 MB [5709 blocks]",
