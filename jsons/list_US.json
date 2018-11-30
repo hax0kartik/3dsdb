@@ -1,5 +1,12 @@
 [
     {
+        "Name": "PixelMaker Studio",
+        "UID": "50010000046775",
+        "TitleID": "00040000001C6D00",
+        "Size": "27.58 MB [221 blocks]",
+        "Product Code": "CTR-N-AXPE"
+    },
+    {
         "Name": "Japanese Rail Sim 3D  5 types of trains",
         "UID": "50010000047015",
         "TitleID": "00040000001D3900",
@@ -3731,7 +3738,7 @@
         "Product Code": "TWL-N-K5NE"
     },
     {
-        "Name": "Angry Video Game Nerd Adventures",
+        "Name": "Angry Video Game Nerd <br>Adventures",
         "UID": "50010000034095",
         "TitleID": "0004000000161000",
         "Size": "25.99 MB [208 blocks]",
