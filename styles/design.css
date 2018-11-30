@@ -13,22 +13,6 @@ body {
     background-color: #141719;
 }
 
-body.lightMode {
-    background-color: #FFFFFF;
-    color: #141719;
-}
-
-.inputBox.lightMode {
-    background-color: #FFFFFF;
-    color: #495057;
-    border-color: #CED4DA;
-}
-
-.inputBox.lightMode:focus {
-    background-color: #FFFFFF;
-    border-color: #80BDFF;
-}
-
 .dataTables_filter {
     display: none; 
 }
@@ -36,4 +20,46 @@ body.lightMode {
 .qrstock {
     width: 46px;
     height: 46px;
+}
+
+.custom-select,
+.custom-select:hover {
+    background: unset;
+}
+
+.custom-select:active,
+.custom-select:focus {
+    border-color: #33383b;
+    box-shadow: 0 0 0 0.2rem rgba(33,37,40,.5)
+}
+
+.page-item.disabled .page-link,
+.page-link,
+.custom-select,
+.form-control:focus {
+    color: #fff;
+    background-color: #444;
+    border-color: #444;
+}
+
+.page-item.disabled .page-link:hover,
+.page-link:hover,
+.custom-select:hover {
+    color: #fff;
+    background-color: #313131;
+    border-color: #2b2a2a;
+}
+
+.page-item.active .page-link,
+.btn.btn-primary.btn-block {
+    color: #fff;
+    background-color: #375a7f;
+    border-color: #375a7f;  
+}
+
+.page-item.active .page-link:hover,
+.btn.btn-primary.btn-block:hover {
+    color: #fff;
+    background-color: #2b4764;
+    border-color: #28415b;
 }

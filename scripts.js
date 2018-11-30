@@ -63,6 +63,9 @@ const toggleColorMode = () => {
   if ($('#switch-normal').is(":checked")) {
     $('body').addClass('lightMode')
     $('.inputBox').addClass('lightMode');
+    $('.btn.btn-primary.btn-block').addClass('lightMode');
+    $('.custom-select').addClass('lightMode');
+    $('.form-control').addClass('lightMode');
     $('#tableHeader').addClass('table-info');
     $('#dataTable').removeClass('table-dark');
     $('#tableHeader').removeClass('thead-dark');
@@ -71,6 +74,9 @@ const toggleColorMode = () => {
   } else {
     $('body').removeClass('lightMode')
     $('.inputBox').removeClass('lightMode');
+    $('.btn.btn-primary.btn-block').removeClass('lightMode');
+    $('.custom-select').removeClass('lightMode');
+    $('.form-control').removeClass('lightMode');
     $('#tableHeader').removeClass('table-info');
     $('#dataTable').addClass('table-dark');
     $('#tableHeader').addClass('thead-dark');
