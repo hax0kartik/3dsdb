@@ -1,0 +1,49 @@
+body.lightMode {
+    background-color: #FFFFFF;
+    color: #141719;
+}
+
+.inputBox.lightMode {
+    background-color: #FFFFFF;
+    color: #495057;
+    border-color: #CED4DA;
+}
+
+.inputBox.lightMode:focus {
+    background-color: #FFFFFF;
+    border-color: #80BDFF;
+}
+
+.btn.btn-primary.btn-block.lightMode {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn.btn-primary.btn-block.lightMode:hover {
+    color: #fff;
+    background-color: #0069d9;
+    border-color: #0062cc;
+}
+
+.custom-select .lightMode,
+.form-control .lightMode:focus,
+#dataTable_length > label > select.lightMode {
+    border-color: rgb(206, 212, 218) !important;
+    color: #495057 !important;
+    background: #fff;
+}
+
+.custom-select .lightMode:hover {
+    color: #fff !important;
+    background-color: #313131 !important;
+    border-color: #2b2a2a !important;
+}
+
+.custom-select .lightMode:active,
+.custom-select .lightMode:focus,
+.form-control .lightMode:focus,
+#dataTable_length > label > select.lightMode:focus {
+    border-color: #80bdff !important;
+    box-shadow: 0 0 0 0.2rem rgba(128,189,255,.5) !important;
+}
