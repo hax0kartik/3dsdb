@@ -91,10 +91,10 @@
         "Product Code": "KTR-P-BD3P"
     },
     {
-        "Name": "Minecraft: New Nintendo 3DS  Edition Update Ver. 1.7",
+        "Name": "Minecraft: New Nintendo 3DS  Edition Update Ver. 1.8",
         "UID": "50010000043995",
         "TitleID": "0004000E0017CA00",
-        "Size": "357.2 MB [2858 blocks]",
+        "Size": "527.02 MB [4216 blocks]",
         "Product Code": "KTR-U-BD3P"
     },
     {
@@ -6930,13 +6930,6 @@
         "Product Code": "CTR-P-AT2P"
     },
     {
-        "Name": "4 Elements",
-        "UID": "50010000012596",
-        "TitleID": "000400000006D900",
-        "Size": "79.82 MB [639 blocks]",
-        "Product Code": "CTR-P-AELP"
-    },
-    {
         "Name": "Columns\u2122 ",
         "UID": "50010000012903",
         "TitleID": "0004000000088400",
@@ -11205,13 +11198,6 @@
         "TitleID": "000480044B544250",
         "Size": "4.75 MB [38 blocks]",
         "Product Code": "TWL-N-KTBP"
-    },
-    {
-        "Name": "UNO\u2122",
-        "UID": "50010000006403",
-        "TitleID": "000480044B554E56",
-        "Size": "8.03 MB [64 blocks]",
-        "Product Code": "TWL-N-KUNV"
     },
     {
         "Name": "A Little Bit of... Nintendo Touch Golf\u2122",
