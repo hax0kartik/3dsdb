@@ -4249,13 +4249,6 @@
         "Product Code": "CTR-N-JF8E"
     },
     {
-        "Name": "Pong Pong Candy",
-        "UID": "50010000030675",
-        "TitleID": "000400000013FB00",
-        "Size": "39.1 MB [313 blocks]",
-        "Product Code": "CTR-N-KFSE"
-    },
-    {
         "Name": "4 Elements",
         "UID": "50010000030755",
         "TitleID": "000480044B374145",
@@ -9870,13 +9863,6 @@
         "Product Code": "TWL-N-KHQE"
     },
     {
-        "Name": "Boardwalk Ball Toss\u2122",
-        "UID": "50010000006946",
-        "TitleID": "000480044B413545",
-        "Size": "3.85 MB [31 blocks]",
-        "Product Code": "TWL-N-KA5E"
-    },
-    {
         "Name": "Pro Jumper! Guilty Gear Tangent!?",
         "UID": "50010000006902",
         "TitleID": "000480044B465645",
@@ -10330,13 +10316,6 @@
         "TitleID": "000480044B345A45",
         "Size": "11.57 MB [93 blocks]",
         "Product Code": "TWL-N-K4ZE"
-    },
-    {
-        "Name": "All-Star Air Hockey\u2122",
-        "UID": "50010000001023",
-        "TitleID": "000480044B414F45",
-        "Size": "3.47 MB [28 blocks]",
-        "Product Code": "TWL-N-KAOE"
     },
     {
         "Name": "Mahjong",
@@ -11487,13 +11466,6 @@
         "Product Code": "TWL-N-KPCE"
     },
     {
-        "Name": "Arcade Hoops Basketball",
-        "UID": "50010000003645",
-        "TitleID": "000480044B534145",
-        "Size": "3.22 MB [26 blocks]",
-        "Product Code": "TWL-N-KSAE"
-    },
-    {
         "Name": "Master of Illusion\u2122 Express: Psychic Camera",
         "UID": "50010000004442",
         "TitleID": "000480044B4D4E54",
@@ -11646,13 +11618,6 @@
         "TitleID": "000480044B4E4245",
         "Size": "2.15 MB [17 blocks]",
         "Product Code": "TWL-N-KNBE"
-    },
-    {
-        "Name": "Arcade Bowling",
-        "UID": "50010000000745",
-        "TitleID": "000480044B344245",
-        "Size": "3.24 MB [26 blocks]",
-        "Product Code": "TWL-N-K4BE"
     },
     {
         "Name": "Art Style\u2122: DIGIDRIVE\u2122",
