@@ -5551,7 +5551,7 @@
         "Product Code": "CTR-N-BGME"
     },
     {
-        "Name": "Mystery Case Files\u00ae Return to Ravenhearst",
+        "Name": "Mystery Case Files\u00ae <br>Return to Ravenhearst",
         "UID": "50010000021833",
         "TitleID": "00040000000DE000",
         "Size": "167.26 MB [1338 blocks]",
@@ -5663,7 +5663,7 @@
         "Product Code": "CTR-N-JBCE"
     },
     {
-        "Name": "Mystery Case Files\u00ae Ravenhearst",
+        "Name": "Mystery Case Files\u00ae <br>Ravenhearst",
         "UID": "50010000021513",
         "TitleID": "00040000000DDF00",
         "Size": "106.96 MB [856 blocks]",
@@ -9744,13 +9744,6 @@
         "Product Code": "CTR-N-JLGE"
     },
     {
-        "Name": "Antipole",
-        "UID": "50010000007037",
-        "TitleID": "000480044B4A4845",
-        "Size": "10.49 MB [84 blocks]",
-        "Product Code": "TWL-N-KJHE"
-    },
-    {
         "Name": "Trollboarder",
         "UID": "50010000007072",
         "TitleID": "000480044B423745",
@@ -10687,13 +10680,6 @@
         "TitleID": "000480044B4E3645",
         "Size": "2.52 MB [20 blocks]",
         "Product Code": "TWL-N-KN6E"
-    },
-    {
-        "Name": "Cosmos X2",
-        "UID": "50010000004786",
-        "TitleID": "000480044B583245",
-        "Size": "6.36 MB [51 blocks]",
-        "Product Code": "TWL-N-KX2E"
     },
     {
         "Name": "Absolute Reversi",
