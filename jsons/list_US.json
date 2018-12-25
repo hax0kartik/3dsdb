@@ -4711,6 +4711,27 @@
         "Product Code": "CTR-N-BTLE"
     },
     {
+        "Name": "nintendogs\u2122 + cats: Golden Retriever",
+        "UID": "50010000000244",
+        "TitleID": "0004000000030D00",
+        "Size": "451.35 MB [3611 blocks]",
+        "Product Code": "CTR-N-ADAE"
+    },
+    {
+        "Name": "nintendogs\u2122 + cats: French Bulldog",
+        "UID": "50010000000245",
+        "TitleID": "0004000000031200",
+        "Size": "451.35 MB [3611 blocks]",
+        "Product Code": "CTR-N-ADBE"
+    },
+    {
+        "Name": "nintendogs\u2122 + cats: Toy Poodle",
+        "UID": "50010000000246",
+        "TitleID": "0004000000031700",
+        "Size": "451.35 MB [3611 blocks]",
+        "Product Code": "CTR-N-ADCE"
+    },
+    {
         "Name": "Pok\u00e9mon\u2122 Puzzle Challenge",
         "UID": "50010000027315",
         "TitleID": "0004000000119D00",
