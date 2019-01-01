@@ -5670,13 +5670,6 @@
         "Product Code": "CTR-N-JGPE"
     },
     {
-        "Name": "LEGO\u00ae The Hobbit\u2122",
-        "UID": "50010000021633",
-        "TitleID": "000400000011B800",
-        "Size": "450.34 MB [3603 blocks]",
-        "Product Code": "CTR-N-BLHE"
-    },
-    {
         "Name": "Super Monkey Ball\u2122 3D",
         "UID": "50010000000258",
         "TitleID": "0004000000037000",
@@ -7985,13 +7978,6 @@
         "TitleID": "00040000000BBF00",
         "Size": "244.85 MB [1959 blocks]",
         "Product Code": "CTR-N-JCZE"
-    },
-    {
-        "Name": "LEGO\u00ae The Lord of the Rings\u2122",
-        "UID": "50010000012188",
-        "TitleID": "000400000007A900",
-        "Size": "439.39 MB [3515 blocks]",
-        "Product Code": "CTR-N-ALAE"
     },
     {
         "Name": "Harvest Moon\u00ae 3D:  A New Beginning",

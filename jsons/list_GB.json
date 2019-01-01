@@ -1883,13 +1883,6 @@
         "Product Code": "KTR-N-CBXP"
     },
     {
-        "Name": "DISNEY 2-PACK FROZEN - BIG HERO 6 COMBO",
-        "UID": "50010000041786",
-        "TitleID": "00040000001A3400",
-        "Size": "130.37 MB [1043 blocks]",
-        "Product Code": "CTR-N-BF6P"
-    },
-    {
         "Name": "Fairune2",
         "UID": "50010000041835",
         "TitleID": "000400000016CF00",
@@ -3157,13 +3150,6 @@
         "Product Code": "CTR-U-EA3P"
     },
     {
-        "Name": "Kung Fu Panda: Showdown of Legendary Legends",
-        "UID": "50010000038457",
-        "TitleID": "000400000015D400",
-        "Size": "186.67 MB [1493 blocks]",
-        "Product Code": "CTR-P-BKFP"
-    },
-    {
         "Name": "Nintendo presents: New Style Boutique\u2122 2",
         "UID": "50010000037117",
         "TitleID": "000400000016A100",
@@ -4093,13 +4079,6 @@
         "TitleID": "00040000000FF700",
         "Size": "22.85 MB [183 blocks]",
         "Product Code": "CTR-N-JGTP"
-    },
-    {
-        "Name": "ACE COMBAT\u2122 ASSAULT HORIZON LEGACY +",
-        "UID": "50010000030315",
-        "TitleID": "000400000015A300",
-        "Size": "706.01 MB [5648 blocks]",
-        "Product Code": "CTR-P-BCRP"
     },
     {
         "Name": "Undead Storm Nightmare",
@@ -9947,13 +9926,6 @@
         "Product Code": "TWL-N-KM7P"
     },
     {
-        "Name": "Surfacer+",
-        "UID": "50010000004583",
-        "TitleID": "000480044B4F5750",
-        "Size": "2.93 MB [23 blocks]",
-        "Product Code": "TWL-N-KOWP"
-    },
-    {
         "Name": "Oscar in Toyland 2",
         "UID": "50010000004601",
         "TitleID": "000480044B4F5950",
@@ -10162,13 +10134,6 @@
         "TitleID": "000480044B595350",
         "Size": "11.29 MB [90 blocks]",
         "Product Code": "TWL-N-KYSP"
-    },
-    {
-        "Name": "QuickPick Farmer",
-        "UID": "50010000001541",
-        "TitleID": "000480044B395050",
-        "Size": "3.01 MB [24 blocks]",
-        "Product Code": "TWL-N-K9PP"
     },
     {
         "Name": "Music on: Playing Piano",
@@ -10535,13 +10500,6 @@
         "Product Code": "TWL-N-KRHV"
     },
     {
-        "Name": "Hello Flowerz",
-        "UID": "50010000006444",
-        "TitleID": "000480044B564F56",
-        "Size": "8.69 MB [70 blocks]",
-        "Product Code": "TWL-N-KVOV"
-    },
-    {
         "Name": "Combat of Giants\u2122: Mutant Insects - Revenge",
         "UID": "50010000005782",
         "TitleID": "000480044B363456",
@@ -10759,13 +10717,6 @@
         "Product Code": "TWL-N-KGVO"
     },
     {
-        "Name": "VT Tennis",
-        "UID": "50010000006446",
-        "TitleID": "000480044B565456",
-        "Size": "11.31 MB [90 blocks]",
-        "Product Code": "TWL-N-KVTV"
-    },
-    {
         "Name": "Game & Watch\u2122 Ball",
         "UID": "50010000003502",
         "TitleID": "000480044B47424F",
@@ -10822,13 +10773,6 @@
         "Product Code": "TWL-N-KWNP"
     },
     {
-        "Name": "AlphaBounce",
-        "UID": "50010000001321",
-        "TitleID": "000480044B325856",
-        "Size": "7.68 MB [61 blocks]",
-        "Product Code": "TWL-N-K2XV"
-    },
-    {
         "Name": "Faceez",
         "UID": "50010000003170",
         "TitleID": "000480044B465A56",
@@ -10848,13 +10792,6 @@
         "TitleID": "000480044B4F3456",
         "Size": "4.48 MB [36 blocks]",
         "Product Code": "TWL-N-KO4V"
-    },
-    {
-        "Name": "Spaceball: Revolution",
-        "UID": "50010000006202",
-        "TitleID": "000480044B534256",
-        "Size": "11.0 MB [88 blocks]",
-        "Product Code": "TWL-N-KSBV"
     },
     {
         "Name": "Game & Watch\u2122 Chef",
@@ -11016,13 +10953,6 @@
         "TitleID": "000480044B504450",
         "Size": "5.62 MB [45 blocks]",
         "Product Code": "TWL-N-KPDP"
-    },
-    {
-        "Name": "Sudoku 4Pockets 3600 Puzzles",
-        "UID": "50010000001382",
-        "TitleID": "000480044B344650",
-        "Size": "2.15 MB [17 blocks]",
-        "Product Code": "TWL-N-K4FP"
     },
     {
         "Name": "ELECTROPLANKTON\u2122 Rec-Rec",
@@ -11324,13 +11254,6 @@
         "TitleID": "000480044B415656",
         "Size": "11.23 MB [90 blocks]",
         "Product Code": "TWL-N-KAVV"
-    },
-    {
-        "Name": "Yummy Yummy Cooking Jam",
-        "UID": "50010000006583",
-        "TitleID": "000480044B595556",
-        "Size": "11.92 MB [95 blocks]",
-        "Product Code": "TWL-N-KYUV"
     },
     {
         "Name": "MySims\u2122 Camera",
