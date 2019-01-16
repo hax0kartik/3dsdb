@@ -133,10 +133,10 @@
         "Product Code": "KTR-P-BD3P"
     },
     {
-        "Name": "Minecraft: New Nintendo 3DS  Edition Update Ver. 1.8",
+        "Name": "Minecraft: New Nintendo 3DS  Edition Update Ver. 1.9",
         "UID": "50010000043995",
         "TitleID": "0004000E0017CA00",
-        "Size": "527.02 MB [4216 blocks]",
+        "Size": "542.69 MB [4341 blocks]",
         "Product Code": "KTR-U-BD3P"
     },
     {
@@ -5388,13 +5388,6 @@
         "TitleID": "00040000000B2B00",
         "Size": "7.16 MB [57 blocks]",
         "Product Code": "CTR-N-TBSP"
-    },
-    {
-        "Name": "LEGO\u00ae The Hobbit",
-        "UID": "50010000021038",
-        "TitleID": "000400000011B700",
-        "Size": "450.94 MB [3608 blocks]",
-        "Product Code": "CTR-P-BLHP"
     },
     {
         "Name": "Mystery Case Files Return to Ravenhearst",
