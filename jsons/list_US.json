@@ -7,6 +7,27 @@
         "Product Code": "CTR-P-BZME"
     },
     {
+        "Name": "Dragon's Wrath",
+        "UID": "50010000046375",
+        "TitleID": "00040000001D4C00",
+        "Size": "71.83 MB [575 blocks]",
+        "Product Code": "CTR-N-LDWE"
+    },
+    {
+        "Name": "Phasmophobia: Hall of Specters 3D",
+        "UID": "50010000046915",
+        "TitleID": "000400000F711D00",
+        "Size": "35.73 MB [286 blocks]",
+        "Product Code": "KTR-N-CAQE"
+    },
+    {
+        "Name": "Minecraft: New Nintendo 3DS  Edition Update Ver. 1.9",
+        "UID": "50010000044015",
+        "TitleID": "0004000E001B8700",
+        "Size": "541.69 MB [4334 blocks]",
+        "Product Code": "KTR-U-BD3E"
+    },
+    {
         "Name": "Mario & Luigi\u2122:Bowser\u2019s Inside <br>Story + Bowser Jr.\u2019s Journey",
         "UID": "50010000047155",
         "TitleID": "00040000001D1400",
@@ -40,13 +61,6 @@
         "TitleID": "00040000001D7300",
         "Size": "97.25 MB [778 blocks]",
         "Product Code": "CTR-N-BR2E"
-    },
-    {
-        "Name": "Minecraft: New Nintendo 3DS  Edition Update Ver. 1.8",
-        "UID": "50010000044015",
-        "TitleID": "0004000E001B8700",
-        "Size": "526.05 MB [4208 blocks]",
-        "Product Code": "KTR-U-BD3E"
     },
     {
         "Name": "Pinball Breakout 2",
