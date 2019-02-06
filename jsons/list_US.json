@@ -7,11 +7,25 @@
         "Product Code": "CTR-N-ALZE"
     },
     {
+        "Name": "Vera Swings",
+        "UID": "50010000045315",
+        "TitleID": "000400000F710B00",
+        "Size": "108.78 MB [870 blocks]",
+        "Product Code": "KTR-N-CEVE"
+    },
+    {
         "Name": "Etrian Odyssey Nexus",
         "UID": "50010000046255",
         "TitleID": "00040000001D4E00",
         "Size": "821.82 MB [6575 blocks]",
         "Product Code": "CTR-P-BZME"
+    },
+    {
+        "Name": "Mario & Luigi\u2122: Bowser\u2019s Inside Story Update Ver. 1.1 ",
+        "UID": "50010000047555",
+        "TitleID": "0004000E001D1400",
+        "Size": "27.85 MB [223 blocks]",
+        "Product Code": "CTR-U-A3RE"
     },
     {
         "Name": "Love Hero",

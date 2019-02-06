@@ -7,6 +7,34 @@
         "Product Code": "CTR-N-BE4J"
     },
     {
+        "Name": "Karous\u2010The Beast of Re\uff1aEden\u2010",
+        "UID": "50010000019133",
+        "TitleID": "0004000000107F00",
+        "Size": "128.34 MB [1027 blocks]",
+        "Product Code": "CTR-N-BKEJ"
+    },
+    {
+        "Name": "\u66f4\u65b0\u30c7\u30fc\u30bf Ver. 1.1 \u30de\u30ea\u30aa\uff06\u30eb\u30a4\u30fc\u30b8RPG3 DX",
+        "UID": "50010000047495",
+        "TitleID": "0004000E001CA900",
+        "Size": "27.41 MB [219 blocks]",
+        "Product Code": "CTR-U-A3RJ"
+    },
+    {
+        "Name": "\u66f4\u65b0\u30c7\u30fc\u30bf Ver.1.0.4 \u30cd\u30b3\u30fb\u30c8\u30e2",
+        "UID": "50010000047175",
+        "TitleID": "0004000E001D0B00",
+        "Size": "9.74 MB [78 blocks]",
+        "Product Code": "CTR-U-BNFJ"
+    },
+    {
+        "Name": "\u66f4\u65b0\u30c7\u30fc\u30bf Ver. 1.9 Minecraft: New 3DS Edition",
+        "UID": "50010000044215",
+        "TitleID": "0004000E0017FD00",
+        "Size": "540.91 MB [4327 blocks]",
+        "Product Code": "KTR-U-BD3J"
+    },
+    {
         "Name": "\u30de\u30ea\u30aa\uff06\u30eb\u30a4\u30fc\u30b8RPG3 DX",
         "UID": "50010000047135",
         "TitleID": "00040000001CA900",
@@ -19,13 +47,6 @@
         "TitleID": "0004000E001CBE00",
         "Size": "42.14 MB [337 blocks]",
         "Product Code": "CTR-U-AQ2J"
-    },
-    {
-        "Name": "\u66f4\u65b0\u30c7\u30fc\u30bf Ver.1.0.3 \u30cd\u30b3\u30fb\u30c8\u30e2",
-        "UID": "50010000047175",
-        "TitleID": "0004000E001D0B00",
-        "Size": "9.74 MB [78 blocks]",
-        "Product Code": "CTR-U-BNFJ"
     },
     {
         "Name": "\u66f4\u65b0\u30c7\u30fc\u30bf Ver. 3.6.3 \u30d7\u30c1\u30b3\u30f33\u53f7 SmileBASIC",
@@ -54,13 +75,6 @@
         "TitleID": "0004000E001B4A00",
         "Size": "18.96 MB [152 blocks]",
         "Product Code": "CTR-U-A9CJ"
-    },
-    {
-        "Name": "\u66f4\u65b0\u30c7\u30fc\u30bf Ver. 1.8 Minecraft: New 3DS Edition",
-        "UID": "50010000044215",
-        "TitleID": "0004000E0017FD00",
-        "Size": "525.3 MB [4202 blocks]",
-        "Product Code": "KTR-U-BD3J"
     },
     {
         "Name": "\u30cd\u30b3\u30fb\u30c8\u30e2",
@@ -9217,13 +9231,6 @@
         "TitleID": "000400000011F000",
         "Size": "79.07 MB [633 blocks]",
         "Product Code": "CTR-N-JPNJ"
-    },
-    {
-        "Name": "Karous-The Beast Of Re:Eden-",
-        "UID": "50010000019133",
-        "TitleID": "0004000000107F00",
-        "Size": "128.4 MB [1027 blocks]",
-        "Product Code": "CTR-N-BKEJ"
     },
     {
         "Name": "\u3069\u3053\u307d\u3093\u3061\u3087\u3044\u3059 \u30ad\u30c3\u30c1\u30f3\u306e \u304a\u59eb\u3055\u307e 1\uff5e10\u5dfb\u30d1\u30c3\u30af",
