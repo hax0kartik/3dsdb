@@ -11471,5 +11471,12 @@
         "TitleID": "0004000E0014F200",
         "Size": "74.41 MB [595 blocks]",
         "Product Code": "CTR-U-EDHP"
+    },
+    {
+        "Name": "Kirby's Extra Epic Yarn",
+        "UID": "50010000047515",
+        "TitleID": "00040000001D1F00",
+        "Size": "0B [N/A]",
+        "Product Code": "CTR-P-BE4P"
     }
 ]
