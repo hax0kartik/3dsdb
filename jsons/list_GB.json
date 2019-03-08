@@ -1,5 +1,19 @@
 [
     {
+        "Name": "Horror Stories",
+        "UID": "50010000047415",
+        "TitleID": "00040000001D8500",
+        "Size": "32.79 MB [262 blocks]",
+        "Product Code": "CTR-N-BHLP"
+    },
+    {
+        "Name": "Kirby's Extra Epic Yarn",
+        "UID": "50010000047515",
+        "TitleID": "00040000001D1F00",
+        "Size": "1.42 GB [11661 blocks]",
+        "Product Code": "CTR-P-BE4P"
+    },
+    {
         "Name": "Pinball Breaker",
         "UID": "50010000047475",
         "TitleID": "00040000001D8700",
@@ -11464,12 +11478,5 @@
         "TitleID": "0004000E0014F200",
         "Size": "74.41 MB [595 blocks]",
         "Product Code": "CTR-U-EDHP"
-    },
-    {
-        "Name": "Kirby's Extra Epic Yarn",
-        "UID": "50010000047515",
-        "TitleID": "00040000001D1F00",
-        "Size": "0B [N/A]",
-        "Product Code": "CTR-P-BE4P"
     }
 ]
