@@ -38,7 +38,7 @@
         "Name": "Mario & Luigi: Bowser's Inside Story:  Update",
         "UID": "50010000047535",
         "TitleID": "0004000E001D1500",
-        "Size": "28.3 MB [226 blocks]",
+        "Size": "28.26 MB [226 blocks]",
         "Product Code": "CTR-U-A3RP"
     },
     {
@@ -6482,13 +6482,6 @@
         "Product Code": "CTR-P-AZHP"
     },
     {
-        "Name": "Disney Planes",
-        "UID": "50010000015294",
-        "TitleID": "00040000000DD000",
-        "Size": "166.54 MB [1332 blocks]",
-        "Product Code": "CTR-P-APNP"
-    },
-    {
         "Name": "Treasure Hunter X",
         "UID": "50010000015662",
         "TitleID": "000480044B344550",
@@ -7712,13 +7705,6 @@
         "TitleID": "00040000000A5F00",
         "Size": "533.93 MB [4271 blocks]",
         "Product Code": "CTR-N-AG5P"
-    },
-    {
-        "Name": "Disney Epic Mickey: Power of Illusion",
-        "UID": "50010000012011",
-        "TitleID": "00040000000B0A00",
-        "Size": "278.48 MB [2228 blocks]",
-        "Product Code": "CTR-P-AECP"
     },
     {
         "Name": "2 Fast 4 Gnomz",
