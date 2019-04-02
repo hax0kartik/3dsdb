@@ -3528,7 +3528,7 @@
         "Product Code": "CTR-N-BEDE"
     },
     {
-        "Name": "Etrian Odyssey 2 Untold: The Fafnir Knight",
+        "Name": "Etrian Odyssey 2 Untold: <br>The Fafnir Knight",
         "UID": "50010000032035",
         "TitleID": "000400000015F200",
         "Size": "889.71 MB [7118 blocks]",
@@ -5684,7 +5684,7 @@
         "Product Code": "CTR-N-JN2E"
     },
     {
-        "Name": "Conception II: Children of the Seven Stars",
+        "Name": "Conception II: Children of the <br>Seven Stars",
         "UID": "50010000021313",
         "TitleID": "0004000000112C00",
         "Size": "1.19 GB [9771 blocks]",
@@ -6524,7 +6524,7 @@
         "Product Code": "CTR-N-EK2A"
     },
     {
-        "Name": "Shin Megami Tensei\u00ae: Devil Survivor Overclocked\u2122",
+        "Name": "Shin Megami Tensei\u00ae: Devil <br>Survivor Overclocked\u2122",
         "UID": "50010000006895",
         "TitleID": "0004000000038800",
         "Size": "1.12 GB [9182 blocks]",
@@ -6601,7 +6601,7 @@
         "Product Code": "TWL-N-K36E"
     },
     {
-        "Name": "Etrian Odyssey\u2122 Untold: The Millennium Girl",
+        "Name": "Etrian Odyssey\u2122 Untold: <br>The Millennium Girl",
         "UID": "50010000016013",
         "TitleID": "00040000000EC700",
         "Size": "784.76 MB [6278 blocks]",
@@ -6804,13 +6804,6 @@
         "Product Code": "CTR-N-AFNE"
     },
     {
-        "Name": "Disney Infinity",
-        "UID": "50010000015853",
-        "TitleID": "00040000000B9C00",
-        "Size": "0B [N/A]",
-        "Product Code": "CTR-P-ADYE"
-    },
-    {
         "Name": "Donkey Kong\u2122",
         "UID": "50010000015593",
         "TitleID": "00040000000A4600",
@@ -6865,13 +6858,6 @@
         "TitleID": "00040000000EBB00",
         "Size": "25.94 MB [207 blocks]",
         "Product Code": "CTR-N-JT8E"
-    },
-    {
-        "Name": "Disney Planes",
-        "UID": "50010000015514",
-        "TitleID": "00040000000B0800",
-        "Size": "133.15 MB [1065 blocks]",
-        "Product Code": "CTR-N-APNE"
     },
     {
         "Name": "Kirby's Dream Land\u2122 2",
@@ -7385,7 +7371,7 @@
         "Product Code": "CTR-N-SPCE"
     },
     {
-        "Name": "Shin Megami Tensei\u00ae: Devil Summoner\u00ae: Soul Hackers",
+        "Name": "Shin Megami Tensei\u00ae: Devil <br>Summoner\u00ae: Soul Hackers",
         "UID": "50010000013870",
         "TitleID": "00040000000C5600",
         "Size": "1.81 GB [14789 blocks]",
@@ -7756,13 +7742,6 @@
         "Product Code": "CTR-N-AD2E"
     },
     {
-        "Name": "Disney/Pixar: Finding Nemo Escape to the Big Blue Edition",
-        "UID": "50010000011507",
-        "TitleID": "00040000000A2100",
-        "Size": "390.19 MB [3122 blocks]",
-        "Product Code": "CTR-N-AF7E"
-    },
-    {
         "Name": "Tokyo Crash Mobs\u2122",
         "UID": "50010000013031",
         "TitleID": "00040000000BCB00",
@@ -7810,13 +7789,6 @@
         "TitleID": "000480044B424945",
         "Size": "4.61 MB [37 blocks]",
         "Product Code": "TWL-N-KBIE"
-    },
-    {
-        "Name": "Code of Princess\u2122",
-        "UID": "50010000011766",
-        "TitleID": "00040000000A2C00",
-        "Size": "1.12 GB [9179 blocks]",
-        "Product Code": "CTR-N-AC7E"
     },
     {
         "Name": "Gunman Clive",
@@ -8139,13 +8111,6 @@
         "TitleID": "00040000000B0400",
         "Size": "0B [N/A]",
         "Product Code": "CTR-P-ARGE"
-    },
-    {
-        "Name": "Disney Epic Mickey: Power of Illusion",
-        "UID": "50010000011514",
-        "TitleID": "00040000000A2D00",
-        "Size": "278.29 MB [2226 blocks]",
-        "Product Code": "CTR-N-AECE"
     },
     {
         "Name": "Hotel Transylvania",
@@ -8496,13 +8461,6 @@
         "TitleID": "00040000000BE300",
         "Size": "57.57 MB [461 blocks]",
         "Product Code": "CTR-N-SN4E"
-    },
-    {
-        "Name": "Disney Princess:  My Fairytale Adventure",
-        "UID": "50010000012226",
-        "TitleID": "0004000000083900",
-        "Size": "0B [N/A]",
-        "Product Code": "CTR-P-ADPE"
     },
     {
         "Name": "Retro Pocket",
@@ -10073,13 +10031,6 @@
         "Product Code": "CTR-P-ADTE"
     },
     {
-        "Name": "LEGO\u00ae Pirates of the Caribbean: The Video Game",
-        "UID": "50010000000342",
-        "TitleID": "0004000000037400",
-        "Size": "0B [N/A]",
-        "Product Code": "CTR-P-APCE"
-    },
-    {
         "Name": "Mighty Milky Way",
         "UID": "50010000004785",
         "TitleID": "000480044B575945",
@@ -11247,13 +11198,6 @@
         "TitleID": "000480044B47564F",
         "Size": "1.52 MB [12 blocks]",
         "Product Code": "TWL-N-KGVO"
-    },
-    {
-        "Name": "Disney Fireworks",
-        "UID": "50010000002041",
-        "TitleID": "000480044B445345",
-        "Size": "8.55 MB [68 blocks]",
-        "Product Code": "TWL-N-KDSE"
     },
     {
         "Name": "Nintendo DSi\u2122 Metronome",
