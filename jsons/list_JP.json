@@ -1,5 +1,19 @@
 [
     {
+        "Name": "\u5927\u6226\u7565\u3000\u5927\u6771\u4e9c\u8208\u4ea1\u53f2DX \uff5e\u7b2c\u4e8c\u6b21\u4e16\u754c\u5927\u6226\uff5e",
+        "UID": "50010000044977",
+        "TitleID": "00040000001CDF00",
+        "Size": "0B [N/A]",
+        "Product Code": "CTR-N-BFEJ"
+    },
+    {
+        "Name": "\u66f4\u65b0\u30c7\u30fc\u30bf Ver. 1.2 \u30de\u30ea\u30aa\uff06\u30eb\u30a4\u30fc\u30b8RPG3 DX",
+        "UID": "50010000047495",
+        "TitleID": "0004000E001CA900",
+        "Size": "27.38 MB [219 blocks]",
+        "Product Code": "CTR-U-A3RJ"
+    },
+    {
         "Name": "\u6bdb\u7cf8\u306e\u30ab\u30fc\u30d3\u30a3 \u30d7\u30e9\u30b9",
         "UID": "50010000047315",
         "TitleID": "00040000001D1200",
@@ -19,13 +33,6 @@
         "TitleID": "0004000000107F00",
         "Size": "128.34 MB [1027 blocks]",
         "Product Code": "CTR-N-BKEJ"
-    },
-    {
-        "Name": "\u66f4\u65b0\u30c7\u30fc\u30bf Ver. 1.1 \u30de\u30ea\u30aa\uff06\u30eb\u30a4\u30fc\u30b8RPG3 DX",
-        "UID": "50010000047495",
-        "TitleID": "0004000E001CA900",
-        "Size": "27.41 MB [219 blocks]",
-        "Product Code": "CTR-U-A3RJ"
     },
     {
         "Name": "\u66f4\u65b0\u30c7\u30fc\u30bf Ver.1.0.4 \u30cd\u30b3\u30fb\u30c8\u30e2",
@@ -8550,7 +8557,7 @@
         "Name": "\u30cb\u30b3\u30cb\u30b3",
         "UID": "50010000020413",
         "TitleID": "0004000000109800",
-        "Size": "63.5 MB [508 blocks]",
+        "Size": "63.6 MB [509 blocks]",
         "Product Code": "CTR-N-NAEJ"
     },
     {
@@ -11959,7 +11966,7 @@
         "Name": "\u30ec\u30b3\u30c1\u30e7\u30af",
         "UID": "50010000012710",
         "TitleID": "0004000000099700",
-        "Size": "17.78 MB [142 blocks]",
+        "Size": "17.8 MB [142 blocks]",
         "Product Code": "CTR-N-NABJ"
     },
     {
