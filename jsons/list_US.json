@@ -3948,13 +3948,6 @@
         "Product Code": "CTR-N-JT7E"
     },
     {
-        "Name": "Bloo Kid 2",
-        "UID": "50010000033335",
-        "TitleID": "0004000000150D00",
-        "Size": "43.85 MB [351 blocks]",
-        "Product Code": "CTR-N-KBKE"
-    },
-    {
         "Name": "Johnny Dynamite",
         "UID": "50010000033356",
         "TitleID": "000400000011BB00",
@@ -10619,13 +10612,6 @@
         "Product Code": "TWL-N-KZAE"
     },
     {
-        "Name": "FIZZ",
-        "UID": "50010000004782",
-        "TitleID": "000480044B5A5A45",
-        "Size": "1.9 MB [15 blocks]",
-        "Product Code": "TWL-N-KZZE"
-    },
-    {
         "Name": "Nintendo Countdown Calendar",
         "UID": "50010000001081",
         "TitleID": "000480044B415545",
@@ -10974,13 +10960,6 @@
         "TitleID": "000480044B344B45",
         "Size": "5.35 MB [43 blocks]",
         "Product Code": "TWL-N-K4KE"
-    },
-    {
-        "Name": "Fire Panic",
-        "UID": "50010000002224",
-        "TitleID": "000480044B463845",
-        "Size": "2.47 MB [20 blocks]",
-        "Product Code": "TWL-N-KF8E"
     },
     {
         "Name": "Don't Cross The Line",
