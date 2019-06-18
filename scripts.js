@@ -31,6 +31,7 @@ const getJSON = (path, region) => {
             text[i][col[2]],
             text[i][col[3]],
             text[i][col[4]],
+            text[i][col[5]],
             region
           ]);
         }
