@@ -19,7 +19,7 @@ def ReadContentCountFromFile(region):
     try:
         contents = open('xmls/titlelist_{0}.xml'.format(region)).read()
     except:
-        contents = 0xFFFFF
+        return -1
     return GetContentCount(contents)
 
 def ReadVersionList():
