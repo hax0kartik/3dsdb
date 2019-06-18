@@ -17,14 +17,14 @@ def GetContentCount(content):
 
 def ReadContentCountFromFile(region):
     try:
-        contents = open('./xmls/titlelist_{0}.xml'.format(region)).read()
+        contents = open('xmls/titlelist_{0}.xml'.format(region)).read()
     except:
         contents = 0xFFFFF
     return GetContentCount(contents)
 
 def ReadVersionList():
     try:
-        content = open('./xmls/versionlist.xml').read()
+        content = open('xmls/versionlist.xml').read()
     except:
         content = 0xFFFFF
     return content
@@ -53,7 +53,7 @@ def GetXmlsFromCDN(region):
     match = GetContentCount(r.text) == ReadContentCountFromFile(region)
     print ("[*] Did content count change? {}".format(bool(match ^ 1)))
     if match == False:
-        open("./xmls/titlelist_{}.xml".format(region), "w+").write(r.text)
+        open("xmls/titlelist_{}.xml".format(region), "w+").write(r.text)
         return 0
     return 1
 
@@ -64,7 +64,7 @@ def GetVersionListFromCDN():
     match = xml == ReadVersionList()
     print ("[*] Did versionlist change? {}".format(bool(match ^ 1)))
     if match == False:
-        open("./xmls/versionlist.xml", "w+").write(xml)
+        open("xmls/versionlist.xml", "w+").write(xml)
         return 0
     return 1
 
@@ -105,8 +105,8 @@ def GetVersionForTitleID(versionlist, tid):
     return "N/A"
 
 async def DoXML(region):
-    contents = open("./xmls/titlelist_{}.xml".format(region)).read()
-    versionlist = open("./xmls/versionlist.xml").read()
+    contents = open("xmls/titlelist_{}.xml".format(region)).read()
+    versionlist = open("xmls/versionlist.xml").read()
 
     soup = BeautifulSoup(contents, features='xml')
     
@@ -140,7 +140,7 @@ async def DoXML(region):
 
     data = [{'Name': n, 'UID': u, 'TitleID': t, 'Version': v, 'Size': s, 'Product Code' : p} for n, u, t, v, s, p in zip(name, tuids, tids, vers, size, prod)]
     
-    contents = open("./jsons/list_{0}.json".format(region), "w+")
+    contents = open("jsons/list_{0}.json".format(region), "w+")
     contents.write(json.dumps(data, indent = 4))
     contents.close()
 
