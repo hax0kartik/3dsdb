@@ -1,5 +1,13 @@
 [
     {
+        "Name": "Squarcat",
+        "UID": "50010000047856",
+        "TitleID": "00040000001D9D00",
+        "Version": "N/A",
+        "Size": "28.58 MB [229 blocks]",
+        "Product Code": "CTR-N-LSTE"
+    },
+    {
         "Name": "Pinball Breakout 3",
         "UID": "50010000047976",
         "TitleID": "00040000001D9F00",
@@ -112,7 +120,7 @@
         "Product Code": "KTR-N-CEVE"
     },
     {
-        "Name": "YO-KAI WATCH \u2122 3 Update Ver. 1.2",
+        "Name": "YO-KAI WATCH \u2122 3 Update Ver. 1.3",
         "UID": "50010000047435",
         "TitleID": "0004000E001D6700",
         "Version": "3136",
