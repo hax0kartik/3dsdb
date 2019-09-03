@@ -376,10 +376,6 @@
     <ver>0</ver>
   </titleid>
   <titleid>
-    <tid>00040000000CCD00</tid>
-    <ver>2080</ver>
-  </titleid>
-  <titleid>
     <tid>00040000000CD600</tid>
     <ver>16</ver>
   </titleid>
@@ -426,10 +422,6 @@
   <titleid>
     <tid>00040000000D2F00</tid>
     <ver>0</ver>
-  </titleid>
-  <titleid>
-    <tid>00040000000D3000</tid>
-    <ver>2096</ver>
   </titleid>
   <titleid>
     <tid>00040000000D4800</tid>
