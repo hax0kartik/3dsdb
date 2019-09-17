@@ -1,5 +1,13 @@
 [
     {
+        "Name": "Shakedown: Hawaii",
+        "UID": "50010000048115",
+        "TitleID": "00040000001A9600",
+        "Version": "N/A",
+        "Size": "47.17 MB [377 blocks]",
+        "Product Code": "CTR-P-AHYE"
+    },
+    {
         "Name": "Mountain Peak Battle Mess",
         "UID": "50010000048135",
         "TitleID": "00040000001DB400",
@@ -645,7 +653,7 @@
         "TitleID": "00040000001CCD00",
         "Version": "N/A",
         "Size": "1.59 GB [13055 blocks]",
-        "Product Code": "CTR-N-AL4E"
+        "Product Code": "CTR-P-AL4E"
     },
     {
         "Name": "Detective Pikachu",
