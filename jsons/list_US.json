@@ -1,11 +1,11 @@
 [
     {
-        "Name": "Breakout Defender 2",
-        "UID": "50010000048295",
-        "TitleID": "00040000001DC000",
+        "Name": "Pinball Breaker V",
+        "UID": "50010000048335",
+        "TitleID": "00040000001DC200",
         "Version": "N/A",
-        "Size": "56.9 MB [455 blocks]",
-        "Product Code": "CTR-N-B5HE"
+        "Size": "57.14 MB [457 blocks]",
+        "Product Code": "CTR-N-A55E"
     },
     {
         "Name": "Slime Slayer",
@@ -30,14 +30,6 @@
         "Version": "N/A",
         "Size": "60.14 MB [481 blocks]",
         "Product Code": "CTR-N-KKAE"
-    },
-    {
-        "Name": "Pinball Breakout 4",
-        "UID": "50010000048216",
-        "TitleID": "00040000001DBB00",
-        "Version": "N/A",
-        "Size": "57.35 MB [459 blocks]",
-        "Product Code": "CTR-N-L99E"
     },
     {
         "Name": "Shakedown: Hawaii",
@@ -80,28 +72,12 @@
         "Product Code": "CTR-N-BEME"
     },
     {
-        "Name": "Breakout Defender",
-        "UID": "50010000048077",
-        "TitleID": "00040000001DB000",
-        "Version": "N/A",
-        "Size": "57.14 MB [457 blocks]",
-        "Product Code": "CTR-N-BETE"
-    },
-    {
         "Name": "Squarcat",
         "UID": "50010000047856",
         "TitleID": "00040000001D9D00",
         "Version": "N/A",
         "Size": "28.58 MB [229 blocks]",
         "Product Code": "CTR-N-LSTE"
-    },
-    {
-        "Name": "Pinball Breakout 3",
-        "UID": "50010000047976",
-        "TitleID": "00040000001D9F00",
-        "Version": "N/A",
-        "Size": "57.39 MB [459 blocks]",
-        "Product Code": "CTR-N-BBDE"
     },
     {
         "Name": "Without Escape",
@@ -312,28 +288,12 @@
         "Product Code": "CTR-N-BR2E"
     },
     {
-        "Name": "Pinball Breakout 2",
-        "UID": "50010000047037",
-        "TitleID": "00040000001D6400",
-        "Version": "N/A",
-        "Size": "73.76 MB [590 blocks]",
-        "Product Code": "CTR-N-BRKE"
-    },
-    {
         "Name": "Cube Creator DX",
         "UID": "50010000046435",
         "TitleID": "00040000001C7F00",
         "Version": "N/A",
         "Size": "63.81 MB [510 blocks]",
         "Product Code": "CTR-N-A9CE"
-    },
-    {
-        "Name": "Breakout Defense 2",
-        "UID": "50010000046976",
-        "TitleID": "00040000001D7D00",
-        "Version": "N/A",
-        "Size": "61.48 MB [492 blocks]",
-        "Product Code": "CTR-N-BE2E"
     },
     {
         "Name": "Insect Planet TD",
@@ -366,22 +326,6 @@
         "Version": "N/A",
         "Size": "221.46 MB [1772 blocks]",
         "Product Code": "CTR-N-BGNE"
-    },
-    {
-        "Name": "Triple Breakout",
-        "UID": "50010000046676",
-        "TitleID": "00040000001D7400",
-        "Version": "N/A",
-        "Size": "57.14 MB [457 blocks]",
-        "Product Code": "CTR-N-KT7E"
-    },
-    {
-        "Name": "Pinball Breakout",
-        "UID": "50010000046715",
-        "TitleID": "00040000001D6F00",
-        "Version": "N/A",
-        "Size": "71.13 MB [569 blocks]",
-        "Product Code": "CTR-N-LPNE"
     },
     {
         "Name": "Jake Hunter Detective Story: <br><br>Ghost of the Dusk",
@@ -430,22 +374,6 @@
         "Version": "N/A",
         "Size": "50.15 MB [401 blocks]",
         "Product Code": "CTR-N-LSGE"
-    },
-    {
-        "Name": "Breakout Defense",
-        "UID": "50010000046576",
-        "TitleID": "00040000001D6600",
-        "Version": "N/A",
-        "Size": "60.62 MB [485 blocks]",
-        "Product Code": "CTR-N-LBRE"
-    },
-    {
-        "Name": "Double Breakout",
-        "UID": "50010000046577",
-        "TitleID": "00040000001D6500",
-        "Version": "N/A",
-        "Size": "54.81 MB [438 blocks]",
-        "Product Code": "CTR-N-BRFE"
     },
     {
         "Name": "Warioware\u2122 Gold Update Ver. 1.1",
@@ -974,14 +902,6 @@
         "Version": "N/A",
         "Size": "106.78 MB [854 blocks]",
         "Product Code": "KTR-N-CDTE"
-    },
-    {
-        "Name": "Breakout Defense 2",
-        "UID": "50010000044335",
-        "TitleID": "000400000F70FA00",
-        "Version": "N/A",
-        "Size": "61.51 MB [492 blocks]",
-        "Product Code": "KTR-N-CD2E"
     },
     {
         "Name": "River City: Rival Showdown",
@@ -1672,14 +1592,6 @@
         "Product Code": "CTR-N-KEQE"
     },
     {
-        "Name": "Triple Breakout",
-        "UID": "50010000042636",
-        "TitleID": "000400000F70BE00",
-        "Version": "N/A",
-        "Size": "57.14 MB [457 blocks]",
-        "Product Code": "KTR-N-CBKE"
-    },
-    {
         "Name": "Infinite Golf",
         "UID": "50010000042677",
         "TitleID": "000400000F70B500",
@@ -1726,14 +1638,6 @@
         "Version": "N/A",
         "Size": "23.7 MB [190 blocks]",
         "Product Code": "CTR-N-KPWE"
-    },
-    {
-        "Name": "Breakout Defense",
-        "UID": "50010000042556",
-        "TitleID": "000400000F70B300",
-        "Version": "N/A",
-        "Size": "60.62 MB [485 blocks]",
-        "Product Code": "KTR-N-CBBE"
     },
     {
         "Name": "Pic-a-Pix Color",
@@ -1800,14 +1704,6 @@
         "Product Code": "CTR-N-KD9E"
     },
     {
-        "Name": "Pinball Breakout",
-        "UID": "50010000042510",
-        "TitleID": "000400000F70B400",
-        "Version": "N/A",
-        "Size": "71.1 MB [569 blocks]",
-        "Product Code": "KTR-N-CBTE"
-    },
-    {
         "Name": "Kung Fu FIGHT!",
         "UID": "50010000042447",
         "TitleID": "00040000001BDC00",
@@ -1862,14 +1758,6 @@
         "Version": "N/A",
         "Size": "11.89 MB [95 blocks]",
         "Product Code": "CTR-N-KYBE"
-    },
-    {
-        "Name": "Double Breakout",
-        "UID": "50010000042480",
-        "TitleID": "000400000F70AF00",
-        "Version": "N/A",
-        "Size": "54.73 MB [438 blocks]",
-        "Product Code": "KTR-N-CBDE"
     },
     {
         "Name": "Japanese Rail Sim 3D Journey in suburbs #2",
@@ -2718,14 +2606,6 @@
         "Version": "N/A",
         "Size": "15.94 MB [127 blocks]",
         "Product Code": "CTR-N-KDEE"
-    },
-    {
-        "Name": "Polara",
-        "UID": "50010000041589",
-        "TitleID": "000400000019F400",
-        "Version": "N/A",
-        "Size": "90.85 MB [727 blocks]",
-        "Product Code": "CTR-N-KPLE"
     },
     {
         "Name": "Metroid Prime\u2122: Federation Force Blast Ball Update",
