@@ -16,14 +16,6 @@
         "Product Code": "CTR-N-B7MP"
     },
     {
-        "Name": "Pinball Breakout 4",
-        "UID": "50010000048175",
-        "TitleID": "00040000001DB900",
-        "Version": "N/A",
-        "Size": "57.4 MB [459 blocks]",
-        "Product Code": "CTR-N-L99P"
-    },
-    {
         "Name": "Maze Breaker",
         "UID": "50010000048276",
         "TitleID": "00040000001DB600",
@@ -56,14 +48,6 @@
         "Product Code": "CTR-N-BEMP"
     },
     {
-        "Name": "Breakout Defender",
-        "UID": "50010000048095",
-        "TitleID": "00040000001DA700",
-        "Version": "N/A",
-        "Size": "57.18 MB [457 blocks]",
-        "Product Code": "CTR-N-BETP"
-    },
-    {
         "Name": "Squarcat",
         "UID": "50010000047855",
         "TitleID": "00040000001D9C00",
@@ -94,14 +78,6 @@
         "Version": "N/A",
         "Size": "64.13 MB [513 blocks]",
         "Product Code": "CTR-N-A9CP"
-    },
-    {
-        "Name": "Pinball Breakout 3",
-        "UID": "50010000048016",
-        "TitleID": "00040000001DA100",
-        "Version": "N/A",
-        "Size": "57.44 MB [460 blocks]",
-        "Product Code": "CTR-N-BBDP"
     },
     {
         "Name": "Pinball Breaker 3",
@@ -272,28 +248,12 @@
         "Product Code": "CTR-N-BR2P"
     },
     {
-        "Name": "Breakout Defense 2",
-        "UID": "50010000047035",
-        "TitleID": "00040000001D7800",
-        "Version": "N/A",
-        "Size": "61.53 MB [492 blocks]",
-        "Product Code": "CTR-N-BE2P"
-    },
-    {
         "Name": "Insect Planet TD",
         "UID": "50010000047036",
         "TitleID": "00040000001D5700",
         "Version": "N/A",
         "Size": "32.5 MB [260 blocks]",
         "Product Code": "CTR-N-LPLP"
-    },
-    {
-        "Name": "Pinball Breakout 2",
-        "UID": "50010000047038",
-        "TitleID": "00040000001D5000",
-        "Version": "N/A",
-        "Size": "73.81 MB [590 blocks]",
-        "Product Code": "CTR-N-BRKP"
     },
     {
         "Name": "Petite Zombies",
@@ -310,22 +270,6 @@
         "Version": "N/A",
         "Size": "227.92 MB [1823 blocks]",
         "Product Code": "CTR-P-BGNP"
-    },
-    {
-        "Name": "Triple Breakout",
-        "UID": "50010000046675",
-        "TitleID": "00040000001D5D00",
-        "Version": "N/A",
-        "Size": "57.19 MB [458 blocks]",
-        "Product Code": "CTR-N-KT7P"
-    },
-    {
-        "Name": "Pinball Breakout",
-        "UID": "50010000046575",
-        "TitleID": "00040000001D5800",
-        "Version": "N/A",
-        "Size": "71.19 MB [569 blocks]",
-        "Product Code": "CTR-N-LPNP"
     },
     {
         "Name": "Jake Hunter Detective Story: Ghost of the Dusk",
@@ -406,22 +350,6 @@
         "Version": "N/A",
         "Size": "28.49 MB [228 blocks]",
         "Product Code": "CTR-N-J2MP"
-    },
-    {
-        "Name": "Double Breakout",
-        "UID": "50010000046335",
-        "TitleID": "00040000001D5100",
-        "Version": "N/A",
-        "Size": "54.86 MB [439 blocks]",
-        "Product Code": "CTR-N-BRFP"
-    },
-    {
-        "Name": "Breakout Defense",
-        "UID": "50010000046336",
-        "TitleID": "00040000001D5400",
-        "Version": "N/A",
-        "Size": "60.66 MB [485 blocks]",
-        "Product Code": "CTR-N-LBRP"
     },
     {
         "Name": "Big Bass Arcade: No Limit",
@@ -782,14 +710,6 @@
         "Version": "N/A",
         "Size": "107.93 MB [863 blocks]",
         "Product Code": "CTR-N-KBXP"
-    },
-    {
-        "Name": "Breakout Defense 2",
-        "UID": "50010000044455",
-        "TitleID": "000400000F70F900",
-        "Version": "N/A",
-        "Size": "61.56 MB [492 blocks]",
-        "Product Code": "KTR-N-CD2P"
     },
     {
         "Name": "The Legend of Dark Witch 3",
@@ -1600,14 +1520,6 @@
         "Product Code": "KTR-N-CAXP"
     },
     {
-        "Name": "Triple Breakout",
-        "UID": "50010000042635",
-        "TitleID": "000400000F70BA00",
-        "Version": "N/A",
-        "Size": "57.19 MB [458 blocks]",
-        "Product Code": "KTR-N-CBKP"
-    },
-    {
         "Name": "Blaster Master Zero: Update",
         "UID": "50010000042778",
         "TitleID": "0004000E001BC300",
@@ -1630,14 +1542,6 @@
         "Version": "N/A",
         "Size": "33.55 MB [268 blocks]",
         "Product Code": "KTR-N-CAMP"
-    },
-    {
-        "Name": "Breakout Defense",
-        "UID": "50010000042555",
-        "TitleID": "000400000F70B200",
-        "Version": "N/A",
-        "Size": "60.66 MB [485 blocks]",
-        "Product Code": "KTR-N-CBBP"
     },
     {
         "Name": "Team Kirby Clash Deluxe\u2122",
@@ -1702,14 +1606,6 @@
         "Version": "N/A",
         "Size": "81.35 MB [651 blocks]",
         "Product Code": "KTR-N-CFNP"
-    },
-    {
-        "Name": "Pinball Breakout",
-        "UID": "50010000042509",
-        "TitleID": "000400000F70B100",
-        "Version": "N/A",
-        "Size": "71.15 MB [569 blocks]",
-        "Product Code": "KTR-N-CBTP"
     },
     {
         "Name": "Super Destronaut 3D",
@@ -1782,14 +1678,6 @@
         "Version": "N/A",
         "Size": "43.95 MB [352 blocks]",
         "Product Code": "KTR-N-CDGP"
-    },
-    {
-        "Name": "Double Breakout",
-        "UID": "50010000042478",
-        "TitleID": "000400000F70AE00",
-        "Version": "N/A",
-        "Size": "54.77 MB [438 blocks]",
-        "Product Code": "KTR-N-CBDP"
     },
     {
         "Name": "Frontier Days Founding Pioneers",
@@ -2582,14 +2470,6 @@
         "Version": "N/A",
         "Size": "40.21 MB [322 blocks]",
         "Product Code": "CTR-N-KNLP"
-    },
-    {
-        "Name": "Polara",
-        "UID": "50010000041577",
-        "TitleID": "000400000019F300",
-        "Version": "N/A",
-        "Size": "90.89 MB [727 blocks]",
-        "Product Code": "CTR-N-KPLP"
     },
     {
         "Name": "Dragon Quest\u00ae VII: Fragments of the Forgotten Past",
