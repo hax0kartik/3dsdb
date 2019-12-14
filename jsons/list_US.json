@@ -1,5 +1,13 @@
 [
     {
+        "Name": "Shovel Knight: Treasure Trove Update Ver. 4.0A",
+        "UID": "50010000039155",
+        "TitleID": "0004000E0017E100",
+        "Version": "4160",
+        "Size": "171.68 MB [1373 blocks]",
+        "Product Code": "CTR-U-AKSE"
+    },
+    {
         "Name": "Turkey, Please!",
         "UID": "50010000048315",
         "TitleID": "00040000001DA400",
@@ -5979,8 +5987,8 @@
         "Name": "Shovel Knight: Treasure Trove",
         "UID": "50010000023055",
         "TitleID": "0004000000119A00",
-        "Version": "6240",
-        "Size": "136.19 MB [1089 blocks]",
+        "Version": "7280",
+        "Size": "235.93 MB [1887 blocks]",
         "Product Code": "CTR-N-JK8E"
     },
     {
