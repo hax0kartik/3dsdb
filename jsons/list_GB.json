@@ -1,5 +1,13 @@
 [
     {
+        "Name": "Silver Falls - 3 Down Stars",
+        "UID": "50010000047355",
+        "TitleID": "000400000F712800",
+        "Version": "N/A",
+        "Size": "328.09 MB [2625 blocks]",
+        "Product Code": "KTR-N-CFAP"
+    },
+    {
         "Name": "Turkey, Please!",
         "UID": "50010000048316",
         "TitleID": "00040000001DA500",
@@ -3632,7 +3640,7 @@
         "Product Code": "CTR-N-JDHP"
     },
     {
-        "Name": "Shovel Knight: Treasure Trove Update 3.2",
+        "Name": "Shovel Knight: Treasure Trove Update 4.0A",
         "UID": "50010000038837",
         "TitleID": "0004000E0017C900",
         "Version": "5200",
