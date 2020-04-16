@@ -3704,7 +3704,7 @@
         "Product Code": "CTR-N-JDHP"
     },
     {
-        "Name": "Shovel Knight: Treasure Trove Update 4.0A",
+        "Name": "Shovel Knight: Treasure Trove Update 4.1",
         "UID": "50010000038837",
         "TitleID": "0004000E0017C900",
         "Version": "6240",
@@ -10686,14 +10686,6 @@
         "Version": "N/A",
         "Size": "11.33 MB [91 blocks]",
         "Product Code": "TWL-N-KLOV"
-    },
-    {
-        "Name": "Let's Golf! 3D",
-        "UID": "50010000007051",
-        "TitleID": "0004000000052000",
-        "Version": "N/A",
-        "Size": "189.64 MB [1517 blocks]",
-        "Product Code": "CTR-N-JLGP"
     },
     {
         "Name": "Baseball",
