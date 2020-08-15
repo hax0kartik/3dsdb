@@ -1176,12 +1176,12 @@
         "Product Code": "CTR-N-LAPE"
     },
     {
-        "Name": "LAYTON'S MYSTERY JOURNEY\u2122",
+        "Name": "LAYTON'S MYSTERY <br>JOURNEY\u2122",
         "UID": "50010000043086",
         "TitleID": "00040000001CB400",
         "Version": "N/A",
         "Size": "891.39 MB [7131 blocks]",
-        "Product Code": "CTR-N-BLFE"
+        "Product Code": "CTR-P-BLFE"
     },
     {
         "Name": "Mario and Luigi: Superstar Saga + Bowser\u2019s Minions",
@@ -4424,6 +4424,14 @@
         "Product Code": "CTR-N-ARJE"
     },
     {
+        "Name": "My Zoo Vet Practice 3D",
+        "UID": "50010000034256",
+        "TitleID": "000400000016AB00",
+        "Version": "N/A",
+        "Size": "39.24 MB [314 blocks]",
+        "Product Code": "CTR-N-KPEE"
+    },
+    {
         "Name": "G.G Series SHADOW ARMY",
         "UID": "50010000034257",
         "TitleID": "000480044B5A4A45",
@@ -4782,6 +4790,14 @@
         "Version": "N/A",
         "Size": "557.44 MB [4459 blocks]",
         "Product Code": "CTR-N-BTSE"
+    },
+    {
+        "Name": "My Pet School 3D",
+        "UID": "50010000032155",
+        "TitleID": "000400000014CF00",
+        "Version": "N/A",
+        "Size": "67.92 MB [543 blocks]",
+        "Product Code": "CTR-N-KPTE"
     },
     {
         "Name": "Titanic Mystery",
@@ -5416,6 +5432,14 @@
         "Product Code": "CTR-N-TDME"
     },
     {
+        "Name": "My Life on a Farm 3D",
+        "UID": "50010000028255",
+        "TitleID": "000400000014CA00",
+        "Version": "N/A",
+        "Size": "84.78 MB [678 blocks]",
+        "Product Code": "CTR-N-KFME"
+    },
+    {
         "Name": "Persona Q: Shadow <br>of the Labyrinth",
         "UID": "50010000027175",
         "TitleID": "0004000000123400",
@@ -5696,6 +5720,14 @@
         "Product Code": "CTR-N-APIE"
     },
     {
+        "Name": "Riding Star 3D",
+        "UID": "50010000026576",
+        "TitleID": "0004000000149000",
+        "Version": "N/A",
+        "Size": "18.26 MB [146 blocks]",
+        "Product Code": "CTR-N-ARSE"
+    },
+    {
         "Name": "Ninja Battle Heroes",
         "UID": "50010000026577",
         "TitleID": "000400000013D200",
@@ -5734,6 +5766,14 @@
         "Version": "N/A",
         "Size": "1.53 GB [12553 blocks]",
         "Product Code": "CTR-N-BFTE"
+    },
+    {
+        "Name": "Horse Vet 3D",
+        "UID": "50010000025835",
+        "TitleID": "000400000014CB00",
+        "Version": "N/A",
+        "Size": "87.79 MB [702 blocks]",
+        "Product Code": "CTR-N-KHVE"
     },
     {
         "Name": "Legend of the River King\u2122 2",
@@ -5782,6 +5822,14 @@
         "Version": "1040",
         "Size": "182.86 MB [1463 blocks]",
         "Product Code": "CTR-N-JWPE"
+    },
+    {
+        "Name": "Top Model 3D",
+        "UID": "50010000025715",
+        "TitleID": "0004000000148700",
+        "Version": "N/A",
+        "Size": "82.59 MB [661 blocks]",
+        "Product Code": "CTR-N-BT2E"
     },
     {
         "Name": "Street Fighter 2010: The Final Fight",
@@ -5838,6 +5886,14 @@
         "Version": "N/A",
         "Size": "43.44 MB [348 blocks]",
         "Product Code": "CTR-N-JTZE"
+    },
+    {
+        "Name": "Outback Pet Rescue 3D",
+        "UID": "50010000025275",
+        "TitleID": "0004000000143A00",
+        "Version": "N/A",
+        "Size": "27.19 MB [217 blocks]",
+        "Product Code": "CTR-N-KPVE"
     },
     {
         "Name": "BLAZBLUE -CLONEPHANTASMA-",
@@ -5990,6 +6046,14 @@
         "Version": "N/A",
         "Size": "57.53 MB [460 blocks]",
         "Product Code": "CTR-N-JXNE"
+    },
+    {
+        "Name": "Me & My Pets 3D",
+        "UID": "50010000024036",
+        "TitleID": "0004000000139200",
+        "Version": "N/A",
+        "Size": "87.87 MB [703 blocks]",
+        "Product Code": "CTR-N-KMPE"
     },
     {
         "Name": "Bases Loaded\u2122",
@@ -6470,6 +6534,14 @@
         "Version": "N/A",
         "Size": "167.26 MB [1338 blocks]",
         "Product Code": "CTR-N-AR2E"
+    },
+    {
+        "Name": "Me & My furry patients 3D",
+        "UID": "50010000021933",
+        "TitleID": "0004000000126500",
+        "Version": "N/A",
+        "Size": "73.57 MB [589 blocks]",
+        "Product Code": "CTR-N-JFUE"
     },
     {
         "Name": "Sea Battle",
@@ -6968,6 +7040,14 @@
         "Product Code": "CTR-N-JGFE"
     },
     {
+        "Name": "Life with Horses 3D",
+        "UID": "50010000018573",
+        "TitleID": "0004000000116E00",
+        "Version": "N/A",
+        "Size": "56.21 MB [450 blocks]",
+        "Product Code": "CTR-N-JWLE"
+    },
+    {
         "Name": "My Style Studio: Hair Salon",
         "UID": "50010000018615",
         "TitleID": "0004000000109A00",
@@ -7248,6 +7328,14 @@
         "Product Code": "CTR-N-JMBE"
     },
     {
+        "Name": "My Baby Pet Hotel 3D",
+        "UID": "50010000017777",
+        "TitleID": "00040000000F6E00",
+        "Version": "N/A",
+        "Size": "81.0 MB [648 blocks]",
+        "Product Code": "CTR-N-AYAZ"
+    },
+    {
         "Name": "KORG M01D",
         "UID": "50010000017793",
         "TitleID": "00040000000F1600",
@@ -7328,6 +7416,14 @@
         "Product Code": "CTR-N-AJEE"
     },
     {
+        "Name": "My Little Baby 3D",
+        "UID": "50010000017353",
+        "TitleID": "00040000000FCF00",
+        "Version": "N/A",
+        "Size": "45.24 MB [362 blocks]",
+        "Product Code": "CTR-N-AYYE"
+    },
+    {
         "Name": "Star Soldier\u2122",
         "UID": "50010000017435",
         "TitleID": "00040000000A4B00",
@@ -7358,6 +7454,14 @@
         "Version": "N/A",
         "Size": "97.79 MB [782 blocks]",
         "Product Code": "CTR-N-JAJE"
+    },
+    {
+        "Name": " My Vet Practice 3D - <br>In the Country",
+        "UID": "50010000017093",
+        "TitleID": "00040000000F7000",
+        "Version": "N/A",
+        "Size": "88.64 MB [709 blocks]",
+        "Product Code": "CTR-N-AYBZ"
     },
     {
         "Name": "Pinball: Revenge of the Gator",
@@ -7616,6 +7720,14 @@
         "Product Code": "CTR-N-JARE"
     },
     {
+        "Name": "Mahjong 3D - Essentials",
+        "UID": "50010000016556",
+        "TitleID": "00040000000F2B00",
+        "Version": "N/A",
+        "Size": "65.54 MB [524 blocks]",
+        "Product Code": "CTR-N-JAXE"
+    },
+    {
         "Name": "Tecmo Bowl\u2122",
         "UID": "50010000016376",
         "TitleID": "000400000009E400",
@@ -7718,6 +7830,14 @@
         "Version": "N/A",
         "Size": "34.96 MB [280 blocks]",
         "Product Code": "CTR-N-JAQE"
+    },
+    {
+        "Name": "My Western Horse 3D",
+        "UID": "50010000015794",
+        "TitleID": "00040000000F1300",
+        "Version": "N/A",
+        "Size": "21.39 MB [171 blocks]",
+        "Product Code": "CTR-N-AZHE"
     },
     {
         "Name": "Heavy Fire: Black Arms 3D",
@@ -8246,6 +8366,14 @@
         "Version": "N/A",
         "Size": "77.37 MB [619 blocks]",
         "Product Code": "CTR-N-AGVE"
+    },
+    {
+        "Name": "My Riding Stables 3D - <br>Jumping for the Team",
+        "UID": "50010000014292",
+        "TitleID": "00040000000D6900",
+        "Version": "N/A",
+        "Size": "79.13 MB [633 blocks]",
+        "Product Code": "CTR-N-AAPE"
     },
     {
         "Name": "Armageddon Operation Dragon",
@@ -8856,6 +8984,14 @@
         "Product Code": "CTR-N-JA2E"
     },
     {
+        "Name": "Mahjong 3D -  <br>Warriors of the Emperor",
+        "UID": "50010000012830",
+        "TitleID": "00040000000C2700",
+        "Version": "N/A",
+        "Size": "65.87 MB [527 blocks]",
+        "Product Code": "CTR-N-AMZY"
+    },
+    {
         "Name": "Jump Trials Extreme",
         "UID": "50010000012831",
         "TitleID": "000480044B5A4345",
@@ -8974,6 +9110,14 @@
         "Version": "N/A",
         "Size": "20.5 MB [164 blocks]",
         "Product Code": "CTR-N-JPXE"
+    },
+    {
+        "Name": "Riding Stables 3D",
+        "UID": "50010000012812",
+        "TitleID": "00040000000BE700",
+        "Version": "N/A",
+        "Size": "79.36 MB [635 blocks]",
+        "Product Code": "CTR-N-AMUE"
     },
     {
         "Name": "escapeVektor\u2122",
