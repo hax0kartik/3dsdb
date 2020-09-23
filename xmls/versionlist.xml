@@ -800,6 +800,10 @@
     <ver>1056</ver>
   </titleid>
   <titleid>
+    <tid>0004000000150D00</tid>
+    <ver>1056</ver>
+  </titleid>
+  <titleid>
     <tid>0004000000151100</tid>
     <ver>3264</ver>
   </titleid>
@@ -1098,6 +1102,10 @@
   <titleid>
     <tid>000400000F708100</tid>
     <ver>1056</ver>
+  </titleid>
+  <titleid>
+    <tid>000400000F712200</tid>
+    <ver>5248</ver>
   </titleid>
   <titleid>
     <tid>000400020008C401</tid>
