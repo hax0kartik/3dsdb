@@ -92,7 +92,7 @@
         "UID": "50010000047355",
         "TitleID": "000400000F712800",
         "Version": "N/A",
-        "Size": "320.64 MB [2565 blocks]",
+        "Size": "321.62 MB [2573 blocks]",
         "Product Code": "KTR-N-CFAP"
     },
     {
@@ -3824,14 +3824,6 @@
         "Product Code": "CTR-N-JWVP"
     },
     {
-        "Name": "Rodea the Sky Soldier",
-        "UID": "50010000038095",
-        "TitleID": "0004000000169500",
-        "Version": "N/A",
-        "Size": "1.42 GB [11653 blocks]",
-        "Product Code": "CTR-P-AR6P"
-    },
-    {
         "Name": "Family Bowling 3D",
         "UID": "50010000038255",
         "TitleID": "000400000010B100",
@@ -4006,14 +3998,6 @@
         "Version": "N/A",
         "Size": "2.18 GB [17828 blocks]",
         "Product Code": "CTR-P-BRXP"
-    },
-    {
-        "Name": "Etrian Mystery Dungeon",
-        "UID": "50010000035176",
-        "TitleID": "000400000016EA00",
-        "Version": "N/A",
-        "Size": "538.48 MB [4308 blocks]",
-        "Product Code": "CTR-P-BFDP"
     },
     {
         "Name": "Little Battlers eXperience\u2122",
@@ -11582,14 +11566,6 @@
         "Version": "N/A",
         "Size": "4.37 MB [35 blocks]",
         "Product Code": "TWL-N-KAUV"
-    },
-    {
-        "Name": "Supermarket Mania\u00ae",
-        "UID": "50010000006162",
-        "TitleID": "000480044B525A56",
-        "Version": "N/A",
-        "Size": "11.9 MB [95 blocks]",
-        "Product Code": "TWL-N-KRZV"
     },
     {
         "Name": "Legendary Wars T-Rex Rumble",
