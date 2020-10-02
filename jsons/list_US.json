@@ -776,14 +776,6 @@
         "Product Code": "CTR-N-BSWE"
     },
     {
-        "Name": "The Alliance Alive",
-        "UID": "50010000044275",
-        "TitleID": "00040000001CCD00",
-        "Version": "N/A",
-        "Size": "1.59 GB [13055 blocks]",
-        "Product Code": "CTR-P-AL4E"
-    },
-    {
         "Name": "Detective Pikachu",
         "UID": "50010000045116",
         "TitleID": "00040000001C1E00",
@@ -6630,14 +6622,6 @@
         "Version": "N/A",
         "Size": "34.68 MB [277 blocks]",
         "Product Code": "CTR-N-JN2E"
-    },
-    {
-        "Name": "Conception II: Children of the <br>Seven Stars",
-        "UID": "50010000021313",
-        "TitleID": "0004000000112C00",
-        "Version": "N/A",
-        "Size": "1.19 GB [9771 blocks]",
-        "Product Code": "CTR-N-BCCE"
     },
     {
         "Name": "Atlantic Quest",
