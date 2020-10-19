@@ -7,16 +7,14 @@ from requests.packages.urllib3.exceptions import InsecureRequestWarning
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 def translate(names, region):
-    if region == "GB" or region == "US":
-        return names
-    
     translator = Translator()
-    translations = translator.translate(names)
     translatednames = []
-    i = 0
-    for translation in translations:
-        translatednames.append(translation.text + "(" + names[i] + ")")
-        i = i + 1
+
+    for name in names:
+        translation = translator.translate(name)
+        print(translation.text)
+        translatednames.append(translation.text + "(" + name + ")")
+
     return translatednames
 
 def GetFieldFromData(uid_data, field_name):
@@ -129,7 +127,10 @@ async def DoXML(region):
     names = soup.find_all(isNameTag)
     
     name = [i.text.replace('\n', ' ') for i in names]
-    name = translate(name, region)
+    if region.find("GB") == -1 and region.find("US") == -1:
+        print("doXML translating names", region)
+        name = translate(name, region)
+        
     prod = [i.text for i in prods]
     tuids = [uid['id'] for uid in uids]
     
