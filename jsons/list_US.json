@@ -1,11 +1,35 @@
 [
     {
+        "Name": "B.O.O.L: Master labyrinth puzzles",
+        "UID": "50010000048856",
+        "TitleID": "000400000F714400",
+        "Version": "N/A",
+        "Size": "44.4 MB [355 blocks]",
+        "Product Code": "KTR-N-CF2E"
+    },
+    {
         "Name": "Maze Breaker VI",
         "UID": "50010000048937",
         "TitleID": "00040000001E0D00",
         "Version": "N/A",
         "Size": "59.85 MB [479 blocks]",
         "Product Code": "CTR-N-A3YE"
+    },
+    {
+        "Name": "Cazzarion Adventureland",
+        "UID": "50010000048938",
+        "TitleID": "00040000001E0C00",
+        "Version": "N/A",
+        "Size": "55.67 MB [445 blocks]",
+        "Product Code": "KTR-N-AU1E"
+    },
+    {
+        "Name": "Kung Tutu",
+        "UID": "50010000048975",
+        "TitleID": "00040000001DDC00",
+        "Version": "N/A",
+        "Size": "33.06 MB [264 blocks]",
+        "Product Code": "CTR-N-L31E"
     },
     {
         "Name": "Bricks Defender 3",
