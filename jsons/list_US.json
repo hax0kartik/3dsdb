@@ -1,5 +1,13 @@
 [
     {
+        "Name": "The Queen TV-Game 2",
+        "UID": "50010000048976",
+        "TitleID": "000400000F713B00",
+        "Version": "N/A",
+        "Size": "63.66 MB [509 blocks]",
+        "Product Code": "KTR-N-CF9E"
+    },
+    {
         "Name": "Bricks Pinball 2",
         "UID": "50010000048936",
         "TitleID": "00040000001E0E00",
@@ -1670,6 +1678,14 @@
         "Version": "1040",
         "Size": "10.44 MB [83 blocks]",
         "Product Code": "CTR-U-BAGE"
+    },
+    {
+        "Name": "Runbow Pocket",
+        "UID": "50010000042357",
+        "TitleID": "000400000F708700",
+        "Version": "N/A",
+        "Size": "270.51 MB [2164 blocks]",
+        "Product Code": "KTR-P-CDRE"
     },
     {
         "Name": "River City: Knights of Justice",
