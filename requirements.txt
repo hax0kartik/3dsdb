@@ -2,4 +2,4 @@ requests
 beautifulsoup4
 lxml
 aiohttp
-googletrans
+googletrans==4.0.0-rc1

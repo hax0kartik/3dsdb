@@ -106,8 +106,10 @@ def getSizeFromData(uid_data):
     return '{0} {1} [{2} blocks]'.format(s, size_name[i], int(round(size_bytes / (128 * 1024))))
 
 def isNameTag(tag):
-    #print ("Tag {}".format(tag.name) + "Tag Parent {}".format(tag.parent.name))
     return tag.name == 'name' and tag.parent.name == 'title'
+
+def isPublisherTag(tag):
+    return tag.name == 'name' and tag.parent.name == 'publisher'
 
 def GetVersionForTitleID(versionlist, tid):
     soup = BeautifulSoup(versionlist, 'xml')
@@ -123,15 +125,15 @@ async def DoXML(region):
     soup = BeautifulSoup(contents, features='xml')
     
     uids = soup.find_all('title')
-    prods = soup.find_all('product_code')
     names = soup.find_all(isNameTag)
-    
+    publishers = soup.find_all(isPublisherTag)
+
     name = [i.text.replace('\n', ' ') for i in names]
     if region.find("GB") == -1 and region.find("US") == -1:
         print("doXML translating names", region)
         name = translate(name, region)
-        
-    prod = [i.text for i in prods]
+
+    publishernames = [i.text for i in publishers]
     tuids = [uid['id'] for uid in uids]
     
     uid_url_list = ['https://ninja.ctr.shop.nintendo.net/ninja/ws/{0}/title/{1}/ec_info'.format(region, uid) for uid in tuids]
@@ -154,7 +156,7 @@ async def DoXML(region):
     tids = [GetFieldFromData(_uiddata, 'title_id') for _uiddata in data]
     vers = [GetVersionForTitleID(versionlist, tid) for tid in tids]
 
-    data = [{'Name': n, 'UID': u, 'TitleID': t, 'Version': v, 'Size': s, 'Product Code' : p} for n, u, t, v, s, p in zip(name, tuids, tids, vers, size, prod)]
+    data = [{'Name': n, 'UID': u, 'TitleID': t, 'Version': v, 'Size': s, 'Publisher' : p} for n, u, t, v, s, p in zip(name, tuids, tids, vers, size, publishernames)]
     
     contents = open("jsons/list_{0}.json".format(region), "w+")
     contents.write(json.dumps(data, indent = 4))

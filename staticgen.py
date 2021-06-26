@@ -44,8 +44,8 @@ static.write(u"""
                         <th>TitleID</th>
                         <th>Version</th>
                         <th>Size</th>
-                        <th>Product Code</th>
-                        <th>Reigon</th>
+                        <th>Publisher</th>
+                        <th>Region</th>
                     </tr>
                 </thead>
                 <tbody>
