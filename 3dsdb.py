@@ -11,9 +11,11 @@ def translate(names, region):
     translatednames = []
 
     for name in names:
-        translation = translator.translate(name)
-        print(translation.text)
-        translatednames.append(translation.text + "(" + name + ")")
+        try:
+            translation = translator.translate(name)
+            translatednames.append(translation.text + "(" + name + ")")
+        except:
+            translatednames.append(name)
 
     return translatednames
 
