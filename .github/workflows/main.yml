@@ -27,11 +27,12 @@ jobs:
       run: |
         pip install -r requirements.txt
         echo "::set-output name=output::$(python 3dsdb.py)"
+        ls
     
     - uses: actions/upload-artifact@master
       with:
         name: foldercopy
-        path: $GITHUB_WORKSPACE/
+        path: ./
 
   Generate:
     needs: check
@@ -45,7 +46,7 @@ jobs:
     - uses: actions/download-artifact@master
       with:
         name: foldercopy
-        path: $GITHUB_WORKSPACE/
+        path: ./
 
     # Runs a set of commands using the runners shell
     - name: Run Scripts
