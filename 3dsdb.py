@@ -180,5 +180,5 @@ for i in regions:
 
 if commit == True:
     print('Y')
-else
+else:
     print('N')
