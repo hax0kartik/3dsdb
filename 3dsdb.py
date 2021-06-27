@@ -62,21 +62,21 @@ def GenXmlFromVerList(buf):
 
     
 def GetXmlsFromCDN(region):
-    print ("[*] Requesting content")
+    #print ("[*] Requesting content")
     r = requests.get('https://samurai.ctr.shop.nintendo.net/samurai/ws/{}/titles?shop_id=1&limit=5000&offset=0'.format(region), verify=False)
     match = GetContentCount(r.text) == ReadContentCountFromFile(region)
-    print ("[*] Did content count change? {}".format(bool(match ^ 1)))
+    #print ("[*] Did content count change? {}".format(bool(match ^ 1)))
     if match == False:
         open("xmls/titlelist_{}.xml".format(region), "w+").write(r.text)
         return 0
     return 1
 
 def GetVersionListFromCDN():
-    print("[*] Requesting VersionList")
+    #print("[*] Requesting VersionList")
     r = requests.get('https://tagaya-ctr.cdn.nintendo.net/tagaya/versionlist', verify=False, stream=True)
     xml = GenXmlFromVerList(r.content)
     match = xml == ReadVersionList()
-    print ("[*] Did versionlist change? {}".format(bool(match ^ 1)))
+    #print ("[*] Did versionlist change? {}".format(bool(match ^ 1)))
     if match == False:
         open("xmls/versionlist.xml", "w+").write(xml)
         return 0
@@ -89,7 +89,8 @@ async def fetch(session, url, context):
                 response.raise_for_status()
             return await response.text()
     except Exception as e:
-        print ('[-] FAIL with error', e)
+        pass
+        #print ('[-] FAIL with error', e)
 
 async def fetch_all_async(session, urls, loop, context):
     results = await asyncio.gather(*[loop.create_task(fetch(session, url, context))
@@ -132,7 +133,7 @@ async def DoXML(region):
 
     name = [i.text.replace('\n', ' ') for i in names]
     if region.find("GB") == -1 and region.find("US") == -1:
-        print("doXML translating names", region)
+        #print("doXML translating names", region)
         name = translate(name, region)
 
     publishernames = [i.text for i in publishers]
@@ -149,7 +150,7 @@ async def DoXML(region):
     async with aiohttp.ClientSession(loop = loop) as session:
             data = await fetch_all_async(session, uid_url_list, loop, context)
             await session.close()
-    print(data[0:10])
+    #print(data[0:10])
 
     size = []
     for _uiddata in data:
@@ -172,9 +173,12 @@ match = GetVersionListFromCDN()
 
 for i in regions:
     if GetXmlsFromCDN(i) == 0 or match == 0: # This functions checks for the sha too. If matches then returns 1
-        print ("[*] Updating JSON for {}".format(i))
+        #print ("[*] Updating JSON for {}".format(i))
         asyncio.run(DoXML(i))
-        print ("[+] Update complete")
+        #print ("[+] Update complete")
         commit = True
 
-exit(commit ^ 1) # Exit with 1 or 0
+if commit == True:
+    print('Y')
+else
+    print('N')
