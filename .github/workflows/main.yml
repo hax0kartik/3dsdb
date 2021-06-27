@@ -32,7 +32,9 @@ jobs:
     - uses: actions/upload-artifact@master
       with:
         name: foldercopy
-        path: ./
+        path: |
+          ./
+          !./.git
 
   Generate:
     needs: check
