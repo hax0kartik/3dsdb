@@ -4784,14 +4784,6 @@
         "Publisher": "winterworks"
     },
     {
-        "Name": "Johnny Dynamite",
-        "UID": "50010000033356",
-        "TitleID": "000400000011BB00",
-        "Version": "N/A",
-        "Size": "25.01 MB [200 blocks]",
-        "Publisher": "Enjoy Gaming"
-    },
-    {
         "Name": "Shin Megami Tensei: Devil <br>Survivor 2: Record Breaker",
         "UID": "50010000031776",
         "TitleID": "0004000000159500",
@@ -6288,14 +6280,6 @@
         "Publisher": "Yacht Club Games"
     },
     {
-        "Name": "Cocoro - Line Defender",
-        "UID": "50010000023555",
-        "TitleID": "0004000000109900",
-        "Version": "N/A",
-        "Size": "45.95 MB [368 blocks]",
-        "Publisher": "Moving Player"
-    },
-    {
         "Name": "Mysterious Stars: The Samurai",
         "UID": "50010000023556",
         "TitleID": "000480044B593745",
@@ -6350,22 +6334,6 @@
         "Version": "N/A",
         "Size": "6.51 MB [52 blocks]",
         "Publisher": "KONAMI"
-    },
-    {
-        "Name": "ATV Fever",
-        "UID": "50010000023335",
-        "TitleID": "000480044B565545",
-        "Version": "N/A",
-        "Size": "15.28 MB [122 blocks]",
-        "Publisher": "Enjoy Gaming"
-    },
-    {
-        "Name": "ATV Quad Kings",
-        "UID": "50010000023355",
-        "TitleID": "000480044B395545",
-        "Version": "N/A",
-        "Size": "14.61 MB [117 blocks]",
-        "Publisher": "Enjoy Gaming"
     },
     {
         "Name": "Mysterious Stars: The Singer",
@@ -7200,14 +7168,6 @@
         "Publisher": "Cypronia"
     },
     {
-        "Name": "Orion's Odyssey",
-        "UID": "50010000018656",
-        "TitleID": "000480044B365445",
-        "Version": "N/A",
-        "Size": "13.49 MB [108 blocks]",
-        "Publisher": "Enjoy Gaming"
-    },
-    {
         "Name": "Jump Trials Supreme",
         "UID": "50010000018734",
         "TitleID": "00040000000F1500",
@@ -7310,14 +7270,6 @@
         "Version": "N/A",
         "Size": "7.12 MB [57 blocks]",
         "Publisher": "SEGA USA"
-    },
-    {
-        "Name": "HeathCliff Spot On",
-        "UID": "50010000018353",
-        "TitleID": "000480044B365345",
-        "Version": "N/A",
-        "Size": "8.56 MB [68 blocks]",
-        "Publisher": "Enjoy Gaming"
     },
     {
         "Name": "Ninja Gaiden\u2122 III: The Ancient Ship of Doom",
@@ -7656,14 +7608,6 @@
         "Publisher": "TOMCREATE"
     },
     {
-        "Name": "Zombie Blaster",
-        "UID": "50010000016933",
-        "TitleID": "000480044B374B45",
-        "Version": "N/A",
-        "Size": "8.98 MB [72 blocks]",
-        "Publisher": "Enjoy Gaming"
-    },
-    {
         "Name": "Aqua Moto Racing 3D\u2122",
         "UID": "50010000016934",
         "TitleID": "0004000000095200",
@@ -7694,14 +7638,6 @@
         "Version": "N/A",
         "Size": "18.54 MB [148 blocks]",
         "Publisher": "JUPITER"
-    },
-    {
-        "Name": "Happy Circus",
-        "UID": "50010000016796",
-        "TitleID": "00040000000EBC00",
-        "Version": "N/A",
-        "Size": "105.35 MB [843 blocks]",
-        "Publisher": "Moving Player"
     },
     {
         "Name": "Jewel Quest 5 - The Sleepless Star",
@@ -7870,14 +7806,6 @@
         "Version": "N/A",
         "Size": "6.46 MB [52 blocks]",
         "Publisher": "Kaga Electronics"
-    },
-    {
-        "Name": "Jewel Adventures",
-        "UID": "50010000016194",
-        "TitleID": "000480044B594A45",
-        "Version": "N/A",
-        "Size": "8.83 MB [71 blocks]",
-        "Publisher": "Enjoy Gaming"
     },
     {
         "Name": "Mario & Luigi\u2122: Dream Team Update",
@@ -8352,14 +8280,6 @@
         "Publisher": "Genius Sonority"
     },
     {
-        "Name": "Gummy Bears Mini Golf",
-        "UID": "50010000014613",
-        "TitleID": "00040000000CEC00",
-        "Version": "N/A",
-        "Size": "47.49 MB [380 blocks]",
-        "Publisher": "Enjoy Gaming"
-    },
-    {
         "Name": "Donkey Kong Country\u2122 Returns 3D",
         "UID": "50010000014033",
         "TitleID": "00040000000CCE00",
@@ -8430,14 +8350,6 @@
         "Version": "N/A",
         "Size": "8.24 MB [66 blocks]",
         "Publisher": "Cypronia"
-    },
-    {
-        "Name": "Bowling Bonanza 3D",
-        "UID": "50010000014476",
-        "TitleID": "00040000000C7E00",
-        "Version": "N/A",
-        "Size": "36.74 MB [294 blocks]",
-        "Publisher": "Enjoy Gaming"
     },
     {
         "Name": "Mario and Donkey Kong\u2122: Minis on the Move",
@@ -12102,14 +12014,6 @@
         "Version": "N/A",
         "Size": "10.21 MB [82 blocks]",
         "Publisher": "Connect2Media"
-    },
-    {
-        "Name": "Spot The Difference",
-        "UID": "50010000004765",
-        "TitleID": "000480044B595345",
-        "Version": "N/A",
-        "Size": "11.26 MB [90 blocks]",
-        "Publisher": "Enjoy Gaming"
     },
     {
         "Name": "Advanced Circuits",
