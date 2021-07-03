@@ -352,7 +352,7 @@
         "Publisher": "Aksys Games"
     },
     {
-        "Name": "MEGA MAN\u00ae Legacy Collection(Mega Man\u00ae Legacy Collection (\u65e5\u82f1\u7248))",
+        "Name": "MEGA MAN\u00ae Legacy Collection (Japanese-English version)(Mega Man\u00ae Legacy Collection (\u65e5\u82f1\u7248))",
         "UID": "50010000039037",
         "TitleID": "000400000017C000",
         "Version": "16",
@@ -752,7 +752,7 @@
         "Publisher": "ATLUS"
     },
     {
-        "Name": "Sonic Lost WorldTM (English)(Sonic Lost World\u2122 (\u82f1\u6587\u7248))",
+        "Name": "Sonic LOST WorldTM (English)(Sonic Lost World\u2122 (\u82f1\u6587\u7248))",
         "UID": "50010000016797",
         "TitleID": "000400000010CF00",
         "Version": "0",
@@ -798,14 +798,6 @@
         "Version": "N/A",
         "Size": "0B [N/A]",
         "Publisher": "Capcom Asia"
-    },
-    {
-        "Name": "Doraemon's digital adventure(\u54c6\u5566A\u5922 \u5927\u96c4\u7684\u6578\u5b57\u5927\u5192\u96aa)",
-        "UID": "50010000015657",
-        "TitleID": "00040000000F6000",
-        "Version": "N/A",
-        "Size": "0B [N/A]",
-        "Publisher": "\u5c0f\u5b78\u9928"
     },
     {
         "Name": "Gunler(\u795e\u69cd\u624b\u7269\u8a9e)",
