@@ -12,10 +12,6 @@
     <ver>1024</ver>
   </titleid>
   <titleid>
-    <tid>0004000000051700</tid>
-    <ver>3120</ver>
-  </titleid>
-  <titleid>
     <tid>0004000000056C00</tid>
     <ver>7200</ver>
   </titleid>
@@ -369,7 +365,7 @@
   </titleid>
   <titleid>
     <tid>00040000000CCA00</tid>
-    <ver>1056</ver>
+    <ver>0</ver>
   </titleid>
   <titleid>
     <tid>00040000000CD600</tid>
@@ -378,6 +374,10 @@
   <titleid>
     <tid>00040000000CD700</tid>
     <ver>16</ver>
+  </titleid>
+  <titleid>
+    <tid>00040000000CD800</tid>
+    <ver>0</ver>
   </titleid>
   <titleid>
     <tid>00040000000CEF00</tid>
@@ -565,7 +565,7 @@
   </titleid>
   <titleid>
     <tid>0004000000109800</tid>
-    <ver>20896</ver>
+    <ver>19856</ver>
   </titleid>
   <titleid>
     <tid>000400000010CF00</tid>
@@ -741,7 +741,7 @@
   </titleid>
   <titleid>
     <tid>0004000000140F00</tid>
-    <ver>53120</ver>
+    <ver>48960</ver>
   </titleid>
   <titleid>
     <tid>0004000000141000</tid>
@@ -1032,10 +1032,6 @@
     <ver>1040</ver>
   </titleid>
   <titleid>
-    <tid>00040000001A9600</tid>
-    <ver>1088</ver>
-  </titleid>
-  <titleid>
     <tid>00040000001AB800</tid>
     <ver>1040</ver>
   </titleid>
@@ -1109,7 +1105,7 @@
   </titleid>
   <titleid>
     <tid>000400000F712200</tid>
-    <ver>6288</ver>
+    <ver>5248</ver>
   </titleid>
   <titleid>
     <tid>000400020008C401</tid>
@@ -1857,7 +1853,7 @@
   </titleid>
   <titleid>
     <tid>0004000E00125D00</tid>
-    <ver>15648</ver>
+    <ver>14608</ver>
   </titleid>
   <titleid>
     <tid>0004000E00126100</tid>
@@ -2057,7 +2053,7 @@
   </titleid>
   <titleid>
     <tid>0004000E0014AD00</tid>
-    <ver>2080</ver>
+    <ver>1040</ver>
   </titleid>
   <titleid>
     <tid>0004000E0014BA00</tid>
@@ -2761,15 +2757,15 @@
   </titleid>
   <titleid>
     <tid>0004000E001A0300</tid>
-    <ver>8336</ver>
+    <ver>6256</ver>
   </titleid>
   <titleid>
     <tid>0004000E001A0400</tid>
-    <ver>8336</ver>
+    <ver>6256</ver>
   </titleid>
   <titleid>
     <tid>0004000E001A0500</tid>
-    <ver>8336</ver>
+    <ver>6256</ver>
   </titleid>
   <titleid>
     <tid>0004000E001A0E00</tid>
@@ -2854,10 +2850,6 @@
   <titleid>
     <tid>0004000E001ADD00</tid>
     <ver>1040</ver>
-  </titleid>
-  <titleid>
-    <tid>0004000E001AE200</tid>
-    <ver>1072</ver>
   </titleid>
   <titleid>
     <tid>0004000E001AE500</tid>
@@ -2965,7 +2957,7 @@
   </titleid>
   <titleid>
     <tid>0004000E001BB800</tid>
-    <ver>8240</ver>
+    <ver>6160</ver>
   </titleid>
   <titleid>
     <tid>0004000E001BC300</tid>
