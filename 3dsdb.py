@@ -129,6 +129,7 @@ async def DoXML(region):
     
     uids = soup.find_all('title')
     names = soup.find_all(isNameTag)
+    prods = soup.find_all('product_code')
     publishers = soup.find_all(isPublisherTag)
 
     name = [i.text.replace('\n', ' ') for i in names]
@@ -137,6 +138,7 @@ async def DoXML(region):
         name = translate(name, region)
 
     publishernames = [i.text for i in publishers]
+    prod = [i.text for i in prods]
     tuids = [uid['id'] for uid in uids]
     
     uid_url_list = ['https://ninja.ctr.shop.nintendo.net/ninja/ws/{0}/title/{1}/ec_info'.format(region, uid) for uid in tuids]
@@ -159,7 +161,7 @@ async def DoXML(region):
     tids = [GetFieldFromData(_uiddata, 'title_id') for _uiddata in data]
     vers = [GetVersionForTitleID(versionlist, tid) for tid in tids]
 
-    data = [{'Name': n, 'UID': u, 'TitleID': t, 'Version': v, 'Size': s, 'Publisher' : p} for n, u, t, v, s, p in zip(name, tuids, tids, vers, size, publishernames)]
+    data = [{'Name': n, 'UID': u, 'TitleID': t, 'Version': v, 'Size': s, 'Prodcut Code' : p} for n, u, t, v, s, p in zip(name, tuids, tids, vers, size, prod)]
     
     contents = open("jsons/list_{0}.json".format(region), "w+")
     contents.write(json.dumps(data, indent = 4))

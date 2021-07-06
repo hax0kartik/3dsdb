@@ -44,7 +44,7 @@ static.write(u"""
                         <th>TitleID</th>
                         <th>Version</th>
                         <th>Size</th>
-                        <th>Publisher</th>
+                        <th>Product Code</th>
                         <th>Region</th>
                     </tr>
                 </thead>
@@ -71,7 +71,7 @@ for file in files:
             <td>{6}</td>
             <td>{7}</td>
         </tr>
-        """.format(''.join(c for c in unicodedata.normalize('NFD', title['Name']) if unicodedata.category(c) != 'Mn').lower(), title['Name'], title['UID'], title['TitleID'], title['Version'], title['Size'], title['Publisher'], region)) # accent removing code from https://stackoverflow.com/a/518232
+        """.format(''.join(c for c in unicodedata.normalize('NFD', title['Name']) if unicodedata.category(c) != 'Mn').lower(), title['Name'], title['UID'], title['TitleID'], title['Version'], title['Size'], title['Product Code'], region)) # accent removing code from https://stackoverflow.com/a/518232
         
 # close the table and close static.html
 static.write(u"""
