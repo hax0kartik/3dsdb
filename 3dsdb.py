@@ -161,7 +161,7 @@ async def DoXML(region):
     tids = [GetFieldFromData(_uiddata, 'title_id') for _uiddata in data]
     vers = [GetVersionForTitleID(versionlist, tid) for tid in tids]
 
-    data = [{'Name': n, 'UID': u, 'TitleID': t, 'Version': v, 'Size': s, 'Prodcut Code' : p} for n, u, t, v, s, p in zip(name, tuids, tids, vers, size, prod)]
+    data = [{'Name': n, 'UID': u, 'TitleID': t, 'Version': v, 'Size': s, 'Product Code' : p} for n, u, t, v, s, p in zip(name, tuids, tids, vers, size, prod)]
     
     contents = open("jsons/list_{0}.json".format(region), "w+")
     contents.write(json.dumps(data, indent = 4))
