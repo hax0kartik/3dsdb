@@ -51,10 +51,10 @@ jobs:
         path: ./
 
     # Runs a set of commands using the runners shell
-    - name: Run Scripts
-      run: |
-        pip install -r requirements.txt
-        python staticgen.py
+    # - name: Run Scripts
+    #  run: |
+    #    pip install -r requirements.txt
+    #    python staticgen.py
 
     - name: Commit files
       run: |
