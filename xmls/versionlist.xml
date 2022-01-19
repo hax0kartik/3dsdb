@@ -376,10 +376,6 @@
     <ver>16</ver>
   </titleid>
   <titleid>
-    <tid>00040000000CD700</tid>
-    <ver>16</ver>
-  </titleid>
-  <titleid>
     <tid>00040000000CEF00</tid>
     <ver>1040</ver>
   </titleid>
@@ -740,10 +736,6 @@
     <ver>1056</ver>
   </titleid>
   <titleid>
-    <tid>0004000000140F00</tid>
-    <ver>53120</ver>
-  </titleid>
-  <titleid>
     <tid>0004000000141000</tid>
     <ver>5216</ver>
   </titleid>
@@ -1100,16 +1092,12 @@
     <ver>4224</ver>
   </titleid>
   <titleid>
-    <tid>000400000F707F00</tid>
-    <ver>1072</ver>
-  </titleid>
-  <titleid>
     <tid>000400000F708100</tid>
     <ver>1056</ver>
   </titleid>
   <titleid>
     <tid>000400000F712200</tid>
-    <ver>6288</ver>
+    <ver>8400</ver>
   </titleid>
   <titleid>
     <tid>000400020008C401</tid>
@@ -1857,7 +1845,7 @@
   </titleid>
   <titleid>
     <tid>0004000E00125D00</tid>
-    <ver>15648</ver>
+    <ver>16688</ver>
   </titleid>
   <titleid>
     <tid>0004000E00126100</tid>
@@ -2166,10 +2154,6 @@
   <titleid>
     <tid>0004000E00158600</tid>
     <ver>1040</ver>
-  </titleid>
-  <titleid>
-    <tid>0004000E00158E00</tid>
-    <ver>1056</ver>
   </titleid>
   <titleid>
     <tid>0004000E00159000</tid>
@@ -2677,7 +2661,7 @@
   </titleid>
   <titleid>
     <tid>0004000E00198400</tid>
-    <ver>1136</ver>
+    <ver>2176</ver>
   </titleid>
   <titleid>
     <tid>0004000E00198700</tid>
