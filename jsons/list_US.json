@@ -1,5 +1,14 @@
 [
     {
+        "Name": "NekoBop",
+        "UID": "50010000049435",
+        "TitleID": "000400000F715400",
+        "Version": "N/A",
+        "Size": "39.55 MB [316 blocks]",
+        "Product Code": "KTR-N-CD6E",
+        "Publisher": "Zachary Kirtz"
+    },
+    {
         "Name": "CRYGHT",
         "UID": "50010000049375",
         "TitleID": "00040000001E3700",
@@ -13,7 +22,7 @@
         "UID": "50010000049355",
         "TitleID": "000400000F714F00",
         "Version": "N/A",
-        "Size": "63.53 MB [508 blocks]",
+        "Size": "77.76 MB [622 blocks]",
         "Product Code": "KTR-N-CC6E",
         "Publisher": "Batafurai"
     },
