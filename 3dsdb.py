@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 from googletrans import Translator
 import json, re
-import os, resource, math, io, struct
+import os, math, io, struct
 import requests, aiohttp, asyncio, ssl
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
@@ -31,14 +31,14 @@ def GetContentCount(content):
 
 def ReadContentCountFromFile(region):
     try:
-        contents = open('xmls/titlelist_{0}.xml'.format(region)).read()
+        contents = open('xmls/titlelist_{0}.xml'.format(region), encoding="utf-8").read()
     except:
         return -1
     return GetContentCount(contents)
 
 def ReadVersionList():
     try:
-        content = open('xmls/versionlist.xml').read()
+        content = open('xmls/versionlist.xml', encoding="utf-8").read()
     except:
         content = 0xFFFFF
     return content
@@ -62,12 +62,11 @@ def GenXmlFromVerList(buf):
 
     
 def GetXmlsFromCDN(region):
-    #print ("[*] Requesting content")
     r = requests.get('https://samurai.ctr.shop.nintendo.net/samurai/ws/{}/titles?shop_id=1&limit=5000&offset=0'.format(region), verify=False)
     match = GetContentCount(r.text) == ReadContentCountFromFile(region)
     #print ("[*] Did content count change? {}".format(bool(match ^ 1)))
     if match == False:
-        open("xmls/titlelist_{}.xml".format(region), "w+").write(r.text)
+        open("xmls/titlelist_{}.xml".format(region), "w+", encoding="utf-8").write(r.text)
         return 0
     return 1
 
@@ -78,7 +77,7 @@ def GetVersionListFromCDN():
     match = xml == ReadVersionList()
     #print ("[*] Did versionlist change? {}".format(bool(match ^ 1)))
     if match == False:
-        open("xmls/versionlist.xml", "w+").write(xml)
+        open("xmls/versionlist.xml", "w+", encoding="utf-8").write(xml)
         return 0
     return 1
 
@@ -122,8 +121,8 @@ def GetVersionForTitleID(versionlist, tid):
     return "N/A"
 
 async def DoXML(region):
-    contents = open("xmls/titlelist_{}.xml".format(region)).read()
-    versionlist = open("xmls/versionlist.xml").read()
+    contents = open("xmls/titlelist_{}.xml".format(region), encoding="utf-8").read()
+    versionlist = open("xmls/versionlist.xml", encoding="utf-8").read()
 
     soup = BeautifulSoup(contents, features='xml')
     
@@ -163,11 +162,11 @@ async def DoXML(region):
 
     data = [{'Name': n, 'UID': u, 'TitleID': t, 'Version': v, 'Size': s, 'Product Code' : p, 'Publisher': pu} for n, u, t, v, s, p, pu in zip(name, tuids, tids, vers, size, prod, publishernames)]
     
-    contents = open("jsons/list_{0}.json".format(region), "w+")
+    contents = open("jsons/list_{0}.json".format(region), "w+", encoding="utf-8")
     contents.write(json.dumps(data, indent = 4))
     contents.close()
 
-regions = ["GB", "US", "JP", "TW", "KR"]
+regions = ["JP", "GB", "US", "TW", "KR"]
 
 commit = False
 
