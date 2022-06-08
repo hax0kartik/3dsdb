@@ -11637,15 +11637,6 @@
         "Publisher": "Nintendo"
     },
     {
-        "Name": "Zuma's Revenge\u2122",
-        "UID": "50010000009663",
-        "TitleID": "000480044B5A5445",
-        "Version": "N/A",
-        "Size": "14.2 MB [114 blocks]",
-        "Product Code": "TWL-N-KZTE",
-        "Publisher": "Electronic Arts"
-    },
-    {
         "Name": "Nicktoons MLB\u00ae 3D",
         "UID": "50010000009129",
         "TitleID": "0004000000061200",
@@ -12103,15 +12094,6 @@
         "Size": "0B [N/A]",
         "Product Code": "CTR-P-AMJE",
         "Publisher": "Ubisoft"
-    },
-    {
-        "Name": "Cut The Rope",
-        "UID": "50010000007758",
-        "TitleID": "000480044B4B5445",
-        "Version": "N/A",
-        "Size": "11.57 MB [93 blocks]",
-        "Product Code": "TWL-N-KKTE",
-        "Publisher": "Chillingo"
     },
     {
         "Name": "1950s Lawn Mower Kids\u2122",
@@ -13077,15 +13059,6 @@
         "Publisher": "cerasus.media"
     },
     {
-        "Name": "Plants vs. Zombies",
-        "UID": "50010000004781",
-        "TitleID": "000480044B5A4C45",
-        "Version": "N/A",
-        "Size": "15.01 MB [120 blocks]",
-        "Product Code": "TWL-N-KZLE",
-        "Publisher": "PopCap"
-    },
-    {
         "Name": "G.G Series HORIZONTAL BAR",
         "UID": "50010000003807",
         "TitleID": "000480044B543245",
@@ -13390,15 +13363,6 @@
         "Size": "5.91 MB [47 blocks]",
         "Product Code": "TWL-N-KBJE",
         "Publisher": "Digital Leisure"
-    },
-    {
-        "Name": "Need for Speed\u2122 Nitro-X",
-        "UID": "50010000003283",
-        "TitleID": "000480044B4E5045",
-        "Version": "N/A",
-        "Size": "15.37 MB [123 blocks]",
-        "Product Code": "TWL-N-KNPE",
-        "Publisher": "Electronic Arts"
     },
     {
         "Name": "Adventure in Vegas:  Slot Machine",
@@ -14085,15 +14049,6 @@
         "Publisher": "Other Ocean"
     },
     {
-        "Name": "SURVIVING HIGH SCHOOL\u2122",
-        "UID": "50010000000744",
-        "TitleID": "000480044B335645",
-        "Version": "N/A",
-        "Size": "13.93 MB [111 blocks]",
-        "Product Code": "TWL-N-K3VE",
-        "Publisher": "Electronic Arts"
-    },
-    {
         "Name": "myPostcards\u2122",
         "UID": "50010000002861",
         "TitleID": "000480044B4D4845",
@@ -14355,15 +14310,6 @@
         "Publisher": "Digital Leisure"
     },
     {
-        "Name": "DOWNTOWN TEXAS HOLD'EM",
-        "UID": "50010000002061",
-        "TitleID": "000480044B445445",
-        "Version": "N/A",
-        "Size": "3.77 MB [30 blocks]",
-        "Product Code": "TWL-N-KDTE",
-        "Publisher": "Electronic Arts"
-    },
-    {
         "Name": "AiRace: Tunnel",
         "UID": "50010000001061",
         "TitleID": "000480044B415445",
@@ -14517,15 +14463,6 @@
         "Publisher": "HUDSON SOFT"
     },
     {
-        "Name": "Bejeweled Twist\u2122",
-        "UID": "50010000000594",
-        "TitleID": "000480044B424545",
-        "Version": "N/A",
-        "Size": "11.73 MB [94 blocks]",
-        "Product Code": "TWL-N-KBEE",
-        "Publisher": "PopCap"
-    },
-    {
         "Name": "Master of Illusion\u2122 Express: Matchmaker",
         "UID": "50010000004384",
         "TitleID": "000480044B4D4454",
@@ -14560,24 +14497,6 @@
         "Size": "15.39 MB [123 blocks]",
         "Product Code": "TWL-N-KRME",
         "Publisher": "Ubisoft"
-    },
-    {
-        "Name": "Bookworm\u2122",
-        "UID": "50010000000597",
-        "TitleID": "000480044B424B45",
-        "Version": "N/A",
-        "Size": "6.32 MB [51 blocks]",
-        "Product Code": "TWL-N-KBKE",
-        "Publisher": "PopCap"
-    },
-    {
-        "Name": "Foto Face\u2122: The Face Stealer Strikes",
-        "UID": "50010000000881",
-        "TitleID": "000480044B345445",
-        "Version": "N/A",
-        "Size": "14.01 MB [112 blocks]",
-        "Product Code": "TWL-N-K4TE",
-        "Publisher": "Electronic Arts"
     },
     {
         "Name": "Sudoku Challenge!",
@@ -14751,15 +14670,6 @@
         "Publisher": "BiP media"
     },
     {
-        "Name": "SUDOKU",
-        "UID": "50010000000747",
-        "TitleID": "000480044B344445",
-        "Version": "N/A",
-        "Size": "3.32 MB [27 blocks]",
-        "Product Code": "TWL-N-K4DE",
-        "Publisher": "Electronic Arts"
-    },
-    {
         "Name": "PictureBook Games\u2122: The Royal Bluff",
         "UID": "50010000001782",
         "TitleID": "000480044B453345",
@@ -14803,15 +14713,6 @@
         "Size": "14.64 MB [117 blocks]",
         "Product Code": "TWL-N-KA2E",
         "Publisher": "Nintendo"
-    },
-    {
-        "Name": "MySims\u2122 Camera",
-        "UID": "50010000002963",
-        "TitleID": "000480044B4D5945",
-        "Version": "N/A",
-        "Size": "4.61 MB [37 blocks]",
-        "Product Code": "TWL-N-KMYE",
-        "Publisher": "Electronic Arts"
     },
     {
         "Name": "Clubhouse Games\u2122 Express:  Strategy Pack",
