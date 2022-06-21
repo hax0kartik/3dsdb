@@ -99,7 +99,7 @@
         "Publisher": "\u4efb\u5929\u5802"
     },
     {
-        "Name": "Update \u30bf \u30fc 2 ver. 2.0 karous\u2010 the beast of re: Eden \u2010(\u66f4\u65b0\u30c7\u30fc\u30bf Ver. 2.0 Karous\u2010 The Beast of Re\uff1aEden\u2010)",
+        "Name": "Update data ver. 2.0 KAROUS -THE BEAST OF RE: Eden-(\u66f4\u65b0\u30c7\u30fc\u30bf Ver. 2.0 Karous\u2010 The Beast of Re\uff1aEden\u2010)",
         "UID": "50010000047655",
         "TitleID": "0004000E00107F00",
         "Version": "2128",
@@ -990,7 +990,7 @@
         "Publisher": "\u30ab\u30eb\u30c1\u30e3\u30fc\u30d6\u30ec\u30fc\u30f3\u30a8\u30af\u30bb\u30eb"
     },
     {
-        "Name": "Shin Megami Reincarnation DEEP STRANGE JOURNEY(\u771f\u30fb\u5973\u795e\u8ee2\u751f DEEP STRANGE JOURNEY)",
+        "Name": "True Goddess Deep Strange Journey(\u771f\u30fb\u5973\u795e\u8ee2\u751f DEEP STRANGE JOURNEY)",
         "UID": "50010000041996",
         "TitleID": "00040000001B2400",
         "Version": "N/A",
@@ -4194,7 +4194,7 @@
         "Publisher": "\u30ab\u30d7\u30b3\u30f3"
     },
     {
-        "Name": "Super magic world village(\u8d85\u9b54\u754c\u6751)",
+        "Name": "Super Demon Village(\u8d85\u9b54\u754c\u6751)",
         "UID": "50010000040922",
         "TitleID": "000400000F702900",
         "Version": "N/A",
@@ -4770,22 +4770,13 @@
         "Publisher": "\u30c7\u30a3\u30fc\u30b9\u30ea\u30fc\u30fb\u30d1\u30d6\u30ea\u30c3\u30b7\u30e3\u30fc"
     },
     {
-        "Name": "Polara -Polara-(\u30dd\u30e9\u30fc\u30e9 -Polara-)",
+        "Name": "\u30dd\u30e9\u30fc\u30e9 -polara-(\u30dd\u30e9\u30fc\u30e9 -Polara-)",
         "UID": "50010000040017",
         "TitleID": "000400000016FB00",
         "Version": "N/A",
         "Size": "90.71 MB [726 blocks]",
         "Product Code": "CTR-N-KPLJ",
         "Publisher": "\u30d5\u30e9\u30a4\u30cf\u30a4\u30ef\u30fc\u30af\u30b9"
-    },
-    {
-        "Name": "Disney Art Academy(\u30c7\u30a3\u30ba\u30cb\u30fc\u30a2\u30fc\u30c8\u30a2\u30ab\u30c7\u30df\u30fc)",
-        "UID": "50010000039716",
-        "TitleID": "0004000000160E00",
-        "Version": "N/A",
-        "Size": "323.54 MB [2588 blocks]",
-        "Product Code": "CTR-N-BWDJ",
-        "Publisher": "\u4efb\u5929\u5802"
     },
     {
         "Name": "Pompompurin Korokoro Great Adventure(\u30dd\u30e0\u30dd\u30e0\u30d7\u30ea\u30f3 \u30b3\u30ed\u30b3\u30ed\u5927\u5192\u967a)",
@@ -4813,15 +4804,6 @@
         "Size": "0B [N/A]",
         "Product Code": "CTR-P-BP3J",
         "Publisher": "\u30c7\u30a3\u30fc\u30b9\u30ea\u30fc\u30fb\u30d1\u30d6\u30ea\u30c3\u30b7\u30e3\u30fc"
-    },
-    {
-        "Name": "Disney Art Academy Special Trial Version(\u30c7\u30a3\u30ba\u30cb\u30fc\u30a2\u30fc\u30c8\u30a2\u30ab\u30c7\u30df\u30fc \u7279\u5225\u4f53\u9a13\u7248)",
-        "UID": "50010000041195",
-        "TitleID": "00040000001A9A00",
-        "Version": "N/A",
-        "Size": "30.55 MB [244 blocks]",
-        "Product Code": "CTR-N-AKWJ",
-        "Publisher": "\u4efb\u5929\u5802"
     },
     {
         "Name": "Update data ver. 1.7 Dragon Ball Heroes UM2(\u66f4\u65b0\u30c7\u30fc\u30bf Ver. 1.7 \u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb\u30d2\u30fc\u30ed\u30fc\u30ba UM2)",
@@ -8370,7 +8352,7 @@
         "Publisher": "\u30e1\u30c7\u30a3\u30a2\u30d5\u30a1\u30a4\u30d6"
     },
     {
-        "Name": "Update Data Ver. 1.1 Majin Girl -Chronicle 2D Act-(\u66f4\u65b0\u30c7\u30fc\u30bf Ver. 1.1 \u9b54\u795e\u5c11\u5973 -Chronicle 2D ACT-)",
+        "Name": "Update \u30bf \u30fc \u30bf Ver. 1.1 Demon Girl -chronicle 2D ACT-(\u66f4\u65b0\u30c7\u30fc\u30bf Ver. 1.1 \u9b54\u795e\u5c11\u5973 -Chronicle 2D ACT-)",
         "UID": "50010000028963",
         "TitleID": "0004000E00145300",
         "Version": "1040",
@@ -9873,7 +9855,7 @@
         "Publisher": "\u30e9\u30a4\u30c9\u30aa\u30f3\u30b8\u30e3\u30d1\u30f3"
     },
     {
-        "Name": "Korg DSN-12(KORG DSN-12)",
+        "Name": "Korg dsn-12(KORG DSN-12)",
         "UID": "50010000023518",
         "TitleID": "0004000000129F00",
         "Version": "1088",
@@ -10485,7 +10467,7 @@
         "Publisher": "\u30cf\u30eb\u7814\u7a76\u6240"
     },
     {
-        "Name": "SKYPEACE(SKYPEACE)",
+        "Name": "Skypeace(SKYPEACE)",
         "UID": "50010000021453",
         "TitleID": "0004000000129A00",
         "Version": "N/A",
@@ -12483,7 +12465,7 @@
         "Publisher": "\u30d0\u30f3\u30c0\u30a4\u30ca\u30e0\u30b3\u30a8\u30f3\u30bf\u30fc\u30c6\u30a4\u30f3\u30e1\u30f3\u30c8"
     },
     {
-        "Name": "Prince of Makai Devils and Realist's Agency King's Treasure(\u9b54\u754c\u738b\u5b50 devils and realist \u4ee3\u7406\u738b\u306e\u79d8\u5b9d)",
+        "Name": "Devils and Realist agent king \u306e \u79d8 \u306e \u306e \u306e \u306e \u306e(\u9b54\u754c\u738b\u5b50 devils and realist \u4ee3\u7406\u738b\u306e\u79d8\u5b9d)",
         "UID": "50010000015895",
         "TitleID": "00040000000F9800",
         "Version": "N/A",
@@ -13176,7 +13158,7 @@
         "Publisher": "\u30a2\u30fc\u30af\u30b7\u30b9\u30c6\u30e0\u30ef\u30fc\u30af\u30b9"
     },
     {
-        "Name": "KORG M01D(KORG M01D)",
+        "Name": "Basket m01d(KORG M01D)",
         "UID": "50010000014945",
         "TitleID": "00040000000DB800",
         "Version": "1104",
@@ -13608,7 +13590,7 @@
         "Publisher": "\u30bb\u30ac"
     },
     {
-        "Name": "Hot -blooded hard -to -rigid(\u71b1\u8840\u786c\u6d3e\u304f\u306b\u304a\u304f\u3093 \u3059\u307a\u3057\u3083\u308b)",
+        "Name": "Hot -blooded hard -tuning(\u71b1\u8840\u786c\u6d3e\u304f\u306b\u304a\u304f\u3093 \u3059\u307a\u3057\u3083\u308b)",
         "UID": "50010000007990",
         "TitleID": "000400000005E300",
         "Version": "2080",
@@ -14499,7 +14481,7 @@
         "Publisher": "\u30aa\u30fc\u30a4\u30ba\u30df\u30fb\u30a2\u30df\u30e5\u30fc\u30b8\u30aa"
     },
     {
-        "Name": "Acho 3D Offer(AZITO 3D Osaka)",
+        "Name": "Azito Zd Osaka(AZITO 3D Osaka)",
         "UID": "50010000012906",
         "TitleID": "00040000000ADC00",
         "Version": "N/A",
@@ -14724,7 +14706,7 @@
         "Publisher": "\u30a2\u30fc\u30af\u30b7\u30b9\u30c6\u30e0\u30ef\u30fc\u30af\u30b9"
     },
     {
-        "Name": "Village village(\u9b54\u754c\u6751)",
+        "Name": "Magic Village(\u9b54\u754c\u6751)",
         "UID": "50010000013251",
         "TitleID": "0004000000099400",
         "Version": "N/A",
@@ -15345,7 +15327,7 @@
         "Publisher": "\u30b3\u30fc\u30a8\u30fc\u30c6\u30af\u30e2\u30b2\u30fc\u30e0\u30b9"
     },
     {
-        "Name": "Taste, 3D and residence(AZITO 3D Tokyo)",
+        "Name": "Azito 3D Tokyo(AZITO 3D Tokyo)",
         "UID": "50010000012535",
         "TitleID": "00040000000A1F00",
         "Version": "N/A",
@@ -16722,7 +16704,7 @@
         "Publisher": "\u4efb\u5929\u5802"
     },
     {
-        "Name": "Azito Kyoto(AZITO 3D Kyoto)",
+        "Name": "With the taste and 3D residence(AZITO 3D Kyoto)",
         "UID": "50010000010327",
         "TitleID": "000400000009F900",
         "Version": "N/A",
@@ -16785,7 +16767,7 @@
         "Publisher": "\u30a2\u30fc\u30af\u30b7\u30b9\u30c6\u30e0\u30ef\u30fc\u30af\u30b9"
     },
     {
-        "Name": "99BULLETS(99BULLETS)",
+        "Name": "Accepted(99BULLETS)",
         "UID": "50010000010387",
         "TitleID": "000480044B39394A",
         "Version": "N/A",
@@ -17199,7 +17181,7 @@
         "Publisher": "\u30bb\u30ac"
     },
     {
-        "Name": "THE GG Shinobu(The GG \u5fcd)",
+        "Name": "The GG \u5fcd(The GG \u5fcd)",
         "UID": "50010000009324",
         "TitleID": "0004000000085300",
         "Version": "N/A",
@@ -17685,7 +17667,7 @@
         "Publisher": "KONAMI"
     },
     {
-        "Name": "@Simple DL Series Vol.2 THE Escape School Escape School Building Edition(@SIMPLE DL\u30b7\u30ea\u30fc\u30ba Vol.2 THE \u5bc6\u5ba4\u304b\u3089\u306e\u8131\u51fa \u5b66\u6821\u306e\u65e7\u6821\u820e\u7de8)",
+        "Name": "@Simple DL Series Vol.2 THE Escape School Escape School Old School Building(@SIMPLE DL\u30b7\u30ea\u30fc\u30ba Vol.2 THE \u5bc6\u5ba4\u304b\u3089\u306e\u8131\u51fa \u5b66\u6821\u306e\u65e7\u6821\u820e\u7de8)",
         "UID": "50010000008019",
         "TitleID": "0004000000071900",
         "Version": "N/A",
@@ -17838,7 +17820,7 @@
         "Publisher": "\u30a2\u30fc\u30af\u30b7\u30b9\u30c6\u30e0\u30ef\u30fc\u30af\u30b9"
     },
     {
-        "Name": "Azito(AZITO 3D)",
+        "Name": "I hurt him count(AZITO 3D)",
         "UID": "50010000007663",
         "TitleID": "0004000000064600",
         "Version": "N/A",
@@ -18378,7 +18360,7 @@
         "Publisher": "\u30bd\u30cb\u30c3\u30af\u30d1\u30ef\u30fc\u30c9"
     },
     {
-        "Name": "Silver Star will chess 3D(\u9280\u661f\u5c06\u68cb3D)",
+        "Name": "Ginsei Shogi 3D(\u9280\u661f\u5c06\u68cb3D)",
         "UID": "50010000007067",
         "TitleID": "0004000000052B00",
         "Version": "N/A",
@@ -18387,7 +18369,7 @@
         "Publisher": "\u30b7\u30eb\u30d0\u30fc\u30b9\u30bf\u30fc\u30b8\u30e3\u30d1\u30f3"
     },
     {
-        "Name": "PITMAN(PITMAN)",
+        "Name": "Padman(PITMAN)",
         "UID": "50010000007074",
         "TitleID": "000400000004F700",
         "Version": "N/A",
@@ -19134,7 +19116,7 @@
         "Publisher": "\u30a2\u30eb\u30c6\u30d4\u30a2\u30c3\u30c4\u30a1"
     },
     {
-        "Name": "Quick practice calculation primary 6 years old(\u901f\u7df4\u8a08\u7b97\u5c0f\u5b666\u5e74\u751f)",
+        "Name": "Quick training 6th grader(\u901f\u7df4\u8a08\u7b97\u5c0f\u5b666\u5e74\u751f)",
         "UID": "50010000005479",
         "TitleID": "000480044B4F364A",
         "Version": "N/A",
@@ -19179,7 +19161,7 @@
         "Publisher": "\u30b9\u30bf\u30fc\u30d5\u30a3\u30c3\u30b7\u30e5\uff65\u30a8\u30b9\u30c7\u30a3"
     },
     {
-        "Name": "Quick practice calculation primary school 5 years students(\u901f\u7df4\u8a08\u7b97\u5c0f\u5b665\u5e74\u751f)",
+        "Name": "East -kneading calculation 5th grader(\u901f\u7df4\u8a08\u7b97\u5c0f\u5b665\u5e74\u751f)",
         "UID": "50010000005478",
         "TitleID": "000480044B4F354A",
         "Version": "N/A",
@@ -19287,7 +19269,7 @@
         "Publisher": "\u30a2\u30fc\u30af\u30b7\u30b9\u30c6\u30e0\u30ef\u30fc\u30af\u30b9"
     },
     {
-        "Name": "Nintendo DS guide made with a grace(\u3058\u3076\u3093\u3067\u3064\u304f\u308b \u30cb\u30f3\u30c6\u30f3\u30c9\u30fcDS \u30ac\u30a4\u30c9)",
+        "Name": "Nintendo DS Guide made with a grace(\u3058\u3076\u3093\u3067\u3064\u304f\u308b \u30cb\u30f3\u30c6\u30f3\u30c9\u30fcDS \u30ac\u30a4\u30c9)",
         "UID": "50010000005222",
         "TitleID": "000480044B47334A",
         "Version": "N/A",
@@ -19341,7 +19323,7 @@
         "Publisher": "\u30b7\u30eb\u30d0\u30fc\u30b9\u30bf\u30fc\u30b8\u30e3\u30d1\u30f3"
     },
     {
-        "Name": "Quick practice computing primary school 3 years(\u901f\u7df4\u8a08\u7b97\u5c0f\u5b663\u5e74\u751f)",
+        "Name": "Fast training 3rd grade elementary school student(\u901f\u7df4\u8a08\u7b97\u5c0f\u5b663\u5e74\u751f)",
         "UID": "50010000005246",
         "TitleID": "000480044B48334A",
         "Version": "N/A",
@@ -19350,7 +19332,7 @@
         "Publisher": "IE\u30a4\u30f3\u30b9\u30c6\u30a3\u30c6\u30e5\u30fc\u30c8"
     },
     {
-        "Name": "Quick practice computing primary school 4 years(\u901f\u7df4\u8a08\u7b97\u5c0f\u5b664\u5e74\u751f)",
+        "Name": "Fast training 4th grader(\u901f\u7df4\u8a08\u7b97\u5c0f\u5b664\u5e74\u751f)",
         "UID": "50010000005247",
         "TitleID": "000480044B48344A",
         "Version": "N/A",
@@ -19440,7 +19422,7 @@
         "Publisher": "\u30a2\u30eb\u30c6\u30d4\u30a2\u30c3\u30c4\u30a1"
     },
     {
-        "Name": "Quick practice computing primary school 2 years(\u901f\u7df4\u8a08\u7b97\u5c0f\u5b662\u5e74\u751f)",
+        "Name": "Fast Training In elementary school 2nd grader(\u901f\u7df4\u8a08\u7b97\u5c0f\u5b662\u5e74\u751f)",
         "UID": "50010000005245",
         "TitleID": "000480044B48324A",
         "Version": "N/A",
