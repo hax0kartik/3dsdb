@@ -153,7 +153,7 @@
         "Publisher": "LEVEL5"
     },
     {
-        "Name": "\uc5ed\uc804 \uc7ac\ud310 \u00ae4 / Apollo Justice \u2122 ACE Attorney\u00ae(\uc5ed\uc804\uc7ac\ud310\u00ae4 / Apollo Justice\u2122 Ace Attorney\u00ae)",
+        "Name": "Reverse Trial \u00ae4 / Apollo Justice \u2122 ACE ATTORNEY\u00ae(\uc5ed\uc804\uc7ac\ud310\u00ae4 / Apollo Justice\u2122 Ace Attorney\u00ae)",
         "UID": "50010000044155",
         "TitleID": "00040000001BC100",
         "Version": "16",
@@ -855,7 +855,7 @@
         "Publisher": "Nintendo"
     },
     {
-        "Name": "Wario Land: Super Mario Land(Wario Land: Super Mario Land 3)",
+        "Name": "Wario Land: Super Mario Land 3(Wario Land: Super Mario Land 3)",
         "UID": "50010000040398",
         "TitleID": "0004000000181A00",
         "Version": "N/A",
@@ -954,7 +954,7 @@
         "Publisher": "Nintendo"
     },
     {
-        "Name": "Donkey Kong Jr.(Donkey Kong Jr.)",
+        "Name": "Donke Co.(Donkey Kong Jr.)",
         "UID": "50010000039896",
         "TitleID": "0004000000184D00",
         "Version": "N/A",
@@ -1026,7 +1026,7 @@
         "Publisher": "Nintendo"
     },
     {
-        "Name": "Wario Land(Wario Land 2)",
+        "Name": "Wario Land 2(Wario Land 2)",
         "UID": "50010000039580",
         "TitleID": "0004000000181900",
         "Version": "N/A",
@@ -1917,7 +1917,7 @@
         "Publisher": "Flyhigh Works"
     },
     {
-        "Name": "Massu would be Nikola(Masyu by Nikoli)",
+        "Name": "I would never mass(Masyu by Nikoli)",
         "UID": "50010000019493",
         "TitleID": "000400000010AD00",
         "Version": "N/A",
@@ -2106,7 +2106,7 @@
         "Publisher": "Nintendo"
     },
     {
-        "Name": "Sayonara Sea Foreign Exchange(Sayonara Umihara Kawase)",
+        "Name": "Sayonara Umihara Foreign Exchange(Sayonara Umihara Kawase)",
         "UID": "50010000015073",
         "TitleID": "00040000000F9A00",
         "Version": "N/A",
@@ -2115,7 +2115,7 @@
         "Publisher": "Agatsuma Entertainment"
     },
     {
-        "Name": "Akari would be Nikola(Akari by Nikoli)",
+        "Name": "Grand by Nikoli(Akari by Nikoli)",
         "UID": "50010000014755",
         "TitleID": "00040000000E6100",
         "Version": "0",
@@ -2223,7 +2223,7 @@
         "Publisher": "Ubisoft"
     },
     {
-        "Name": "Sudoku would be Nikola(Sudoku by Nikoli)",
+        "Name": "Sudoku by Nikola(Sudoku by Nikoli)",
         "UID": "50010000013115",
         "TitleID": "00040000000CD600",
         "Version": "16",
