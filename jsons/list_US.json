@@ -6669,15 +6669,6 @@
         "Publisher": "Konami Digital Entertainment, Inc."
     },
     {
-        "Name": "FIFA 15",
-        "UID": "50010000025855",
-        "TitleID": "000400000013C700",
-        "Version": "N/A",
-        "Size": "1.53 GB [12553 blocks]",
-        "Product Code": "CTR-N-BFTE",
-        "Publisher": "Electronic Arts"
-    },
-    {
         "Name": "Horse Vet 3D",
         "UID": "50010000025835",
         "TitleID": "000400000014CB00",
@@ -12609,15 +12600,6 @@
         "Publisher": "Cypronia"
     },
     {
-        "Name": "Moto eXtreme",
-        "UID": "50010000006903",
-        "TitleID": "000480044B4F5845",
-        "Version": "N/A",
-        "Size": "15.02 MB [120 blocks]",
-        "Product Code": "TWL-N-KOXE",
-        "Publisher": "Chillingo"
-    },
-    {
         "Name": "The Lost Town - The Dust",
         "UID": "50010000006944",
         "TitleID": "000480044B4C4F45",
@@ -14256,15 +14238,6 @@
         "Publisher": "lbxgames"
     },
     {
-        "Name": "Dracula - Undead Awakening",
-        "UID": "50010000002422",
-        "TitleID": "000480044B494445",
-        "Version": "N/A",
-        "Size": "11.01 MB [88 blocks]",
-        "Product Code": "TWL-N-KIDE",
-        "Publisher": "Chillingo"
-    },
-    {
         "Name": "Faceez",
         "UID": "50010000002201",
         "TitleID": "000480044B465A45",
@@ -14272,15 +14245,6 @@
         "Size": "4.65 MB [37 blocks]",
         "Product Code": "TWL-N-KFZE",
         "Publisher": "Koneko"
-    },
-    {
-        "Name": "Flight Control\u2122",
-        "UID": "50010000002263",
-        "TitleID": "000480044B464945",
-        "Version": "N/A",
-        "Size": "6.74 MB [54 blocks]",
-        "Product Code": "TWL-N-KFIE",
-        "Publisher": "Firemint"
     },
     {
         "Name": "Aura-Aura Climber\u2122",
