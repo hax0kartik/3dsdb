@@ -1,5 +1,14 @@
 [
     {
+        "Name": "Mario Cart 7 Update Data Ver.1.2(\ub9c8\ub9ac\uc624 \uce74\ud2b8 7 \uc5c5\ub370\uc774\ud2b8 \ub370\uc774\ud130 Ver. 1.2)",
+        "UID": "50010000049755",
+        "TitleID": "0004000E00030A00",
+        "Version": "3088",
+        "Size": "5.22 MB [42 blocks]",
+        "Product Code": "CTR-U-AMKK",
+        "Publisher": "Nintendo"
+    },
+    {
         "Name": "Super Mario Maker for Nintendo 3DS Update Data VER.1.05(\uc288\ud37c \ub9c8\ub9ac\uc624 \uba54\uc774\ucee4 for \ub2cc\ud150\ub3c4 3DS \uc5c5\ub370\uc774\ud2b8 \ub370\uc774\ud130 ver.1.05)",
         "UID": "50010000044096",
         "TitleID": "0004000E001BB800",
@@ -2106,7 +2115,7 @@
         "Publisher": "Nintendo"
     },
     {
-        "Name": "Sayonara Sea Foreign Exchange(Sayonara Umihara Kawase)",
+        "Name": "Sayonara Umihara Foreign Exchange(Sayonara Umihara Kawase)",
         "UID": "50010000015073",
         "TitleID": "00040000000F9A00",
         "Version": "N/A",
@@ -2223,7 +2232,7 @@
         "Publisher": "Ubisoft"
     },
     {
-        "Name": "Sudoki by Nikola(Sudoku by Nikoli)",
+        "Name": "Sudoku by Nikola(Sudoku by Nikoli)",
         "UID": "50010000013115",
         "TitleID": "00040000000CD600",
         "Version": "16",
